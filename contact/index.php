@@ -94,7 +94,7 @@
     }
 
    .contactpage .form-section {
-      background-color: #ffffff;
+    background-color:rgb(250, 214, 211);
       box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
     }
 
