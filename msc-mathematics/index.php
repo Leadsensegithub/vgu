@@ -695,8 +695,8 @@ Career after MSc Mathematics,Flexible MSc Maths program online">
             </div>
 
             <a href="../applynow"
-                class="btn btn-outline-danger rounded-pill px-4 py-2 font-weight-bold"
-                style="font-size: 14px;">
+               class="btn rounded-pill px-4 py-2 font-weight-bold"
+                style="font-size: 14px; color: #7f1813; border: 1px solid #7f1813;">
                 🚀 Apply Now
             </a>
         </div>
@@ -733,8 +733,8 @@ Career after MSc Mathematics,Flexible MSc Maths program online">
             </div>
 
             <a href="../applynow"
-                class="btn btn-outline-danger rounded-pill px-4 py-2 font-weight-bold"
-                style="font-size: 14px;">
+               class="btn rounded-pill px-4 py-2 font-weight-bold"
+                style="font-size: 14px; color: #7f1813; border: 1px solid #7f1813;">
                 🚀 Apply Now
             </a>
         </div>
@@ -769,8 +769,8 @@ Career after MSc Mathematics,Flexible MSc Maths program online">
             </div>
 
             <a href="../applynow"
-                class="btn btn-outline-danger rounded-pill px-4 py-2 font-weight-bold"
-                style="font-size: 14px;">
+               class="btn rounded-pill px-4 py-2 font-weight-bold"
+                style="font-size: 14px; color: #7f1813; border: 1px solid #7f1813;">
                 🚀 Apply Now
             </a>
         </div>
@@ -806,8 +806,8 @@ Career after MSc Mathematics,Flexible MSc Maths program online">
             </div>
 
             <a href="../applynow"
-                class="btn btn-outline-danger rounded-pill px-4 py-2 font-weight-bold"
-                style="font-size: 14px;">
+               class="btn rounded-pill px-4 py-2 font-weight-bold"
+                style="font-size: 14px; color: #7f1813; border: 1px solid #7f1813;">
                 🚀 Apply Now
             </a>
         </div>
@@ -843,8 +843,8 @@ Career after MSc Mathematics,Flexible MSc Maths program online">
             </div>
 
             <a href="../applynow"
-                class="btn btn-outline-danger rounded-pill px-4 py-2 font-weight-bold"
-                style="font-size: 14px;">
+               class="btn rounded-pill px-4 py-2 font-weight-bold"
+                style="font-size: 14px; color: #7f1813; border: 1px solid #7f1813;">
                 🚀 Apply Now
             </a>
         </div>
@@ -879,8 +879,8 @@ Career after MSc Mathematics,Flexible MSc Maths program online">
             </div>
 
             <a href="../applynow"
-                class="btn btn-outline-danger rounded-pill px-4 py-2 font-weight-bold"
-                style="font-size: 14px;">
+               class="btn rounded-pill px-4 py-2 font-weight-bold"
+                style="font-size: 14px; color: #7f1813; border: 1px solid #7f1813;">
                 🚀 Apply Now
             </a>
         </div>
@@ -915,8 +915,8 @@ Career after MSc Mathematics,Flexible MSc Maths program online">
             </div>
 
             <a href="../applynow"
-                class="btn btn-outline-danger rounded-pill px-4 py-2 font-weight-bold"
-                style="font-size: 14px;">
+               class="btn rounded-pill px-4 py-2 font-weight-bold"
+                style="font-size: 14px; color: #7f1813; border: 1px solid #7f1813;">
                 🚀 Apply Now
             </a>
         </div>
@@ -951,8 +951,8 @@ Career after MSc Mathematics,Flexible MSc Maths program online">
             </div>
 
             <a href="../applynow"
-                class="btn btn-outline-danger rounded-pill px-4 py-2 font-weight-bold"
-                style="font-size: 14px;">
+               class="btn rounded-pill px-4 py-2 font-weight-bold"
+                style="font-size: 14px; color: #7f1813; border: 1px solid #7f1813;">
                 🚀 Apply Now
             </a>
         </div>
@@ -987,8 +987,8 @@ Career after MSc Mathematics,Flexible MSc Maths program online">
             </div>
 
             <a href="../applynow"
-                class="btn btn-outline-danger rounded-pill px-4 py-2 font-weight-bold"
-                style="font-size: 14px;">
+               class="btn rounded-pill px-4 py-2 font-weight-bold"
+                style="font-size: 14px; color: #7f1813; border: 1px solid #7f1813;">
                 🚀 Apply Now
             </a>
         </div>
@@ -1025,8 +1025,8 @@ Career after MSc Mathematics,Flexible MSc Maths program online">
             </div>
 
             <a href="../applynow"
-                class="btn btn-outline-danger rounded-pill px-4 py-2 font-weight-bold"
-                style="font-size: 14px;">
+               class="btn rounded-pill px-4 py-2 font-weight-bold"
+                style="font-size: 14px; color: #7f1813; border: 1px solid #7f1813;">
                 🚀 Apply Now
             </a>
         </div>
@@ -1064,8 +1064,8 @@ Career after MSc Mathematics,Flexible MSc Maths program online">
             ₹ 1,50,000 | 2 Years 💰
             </div>
             <a href="../applynow"
-                class="btn btn-outline-danger rounded-pill px-4 py-2 font-weight-bold"
-                style="font-size: 14px;">
+               class="btn rounded-pill px-4 py-2 font-weight-bold"
+                style="font-size: 14px; color: #7f1813; border: 1px solid #7f1813;">
                 🚀 Apply Now
             </a>
         </div>
@@ -1103,8 +1103,8 @@ Career after MSc Mathematics,Flexible MSc Maths program online">
             </div>
             <!-- Apply Now Button -->
             <a href="../applynow"
-                class="btn btn-outline-danger rounded-pill px-4 py-2 font-weight-bold"
-                style="font-size: 14px;">
+               class="btn rounded-pill px-4 py-2 font-weight-bold"
+                style="font-size: 14px; color: #7f1813; border: 1px solid #7f1813;">
                 🚀 Apply Now
             </a>
         </div>
@@ -1138,8 +1138,8 @@ Career after MSc Mathematics,Flexible MSc Maths program online">
             ₹ 1,50,000 | 2 Years 💰
             </div>
             <a href="../applynow"
-                class="btn btn-outline-danger rounded-pill px-4 py-2 font-weight-bold"
-                style="font-size: 14px;">
+               class="btn rounded-pill px-4 py-2 font-weight-bold"
+                style="font-size: 14px; color: #7f1813; border: 1px solid #7f1813;">
                 🚀 Apply Now
             </a>
         </div>
@@ -1175,8 +1175,8 @@ Career after MSc Mathematics,Flexible MSc Maths program online">
             </div>
 
             <a href="../applynow"
-                class="btn btn-outline-danger rounded-pill px-4 py-2 font-weight-bold"
-                style="font-size: 14px;">
+               class="btn rounded-pill px-4 py-2 font-weight-bold"
+                style="font-size: 14px; color: #7f1813; border: 1px solid #7f1813;">
                 🚀 Apply Now
             </a>
         </div>
@@ -1211,8 +1211,8 @@ Career after MSc Mathematics,Flexible MSc Maths program online">
             </div>
 
             <a href="../applynow"
-                class="btn btn-outline-danger rounded-pill px-4 py-2 font-weight-bold"
-                style="font-size: 14px;">
+               class="btn rounded-pill px-4 py-2 font-weight-bold"
+                style="font-size: 14px; color: #7f1813; border: 1px solid #7f1813;">
                 🚀 Apply Now
             </a>
         </div>
@@ -1248,8 +1248,8 @@ Career after MSc Mathematics,Flexible MSc Maths program online">
             </div>
 
             <a href="../applynow"
-                class="btn btn-outline-danger rounded-pill px-4 py-2 font-weight-bold"
-                style="font-size: 14px;">
+               class="btn rounded-pill px-4 py-2 font-weight-bold"
+                style="font-size: 14px; color: #7f1813; border: 1px solid #7f1813;">
                 🚀 Apply Now
             </a>
         </div>
@@ -1282,8 +1282,8 @@ Career after MSc Mathematics,Flexible MSc Maths program online">
             </div>
 
             <a href="../applynow"
-                class="btn btn-outline-danger rounded-pill px-4 py-2 font-weight-bold"
-                style="font-size: 14px;">
+               class="btn rounded-pill px-4 py-2 font-weight-bold"
+                style="font-size: 14px; color: #7f1813; border: 1px solid #7f1813;">
                 🚀 Apply Now
             </a>
         </div>
@@ -1320,8 +1320,8 @@ Career after MSc Mathematics,Flexible MSc Maths program online">
             </div>
 
             <a href="../applynow"
-                class="btn btn-outline-danger rounded-pill px-4 py-2 font-weight-bold"
-                style="font-size: 14px;">
+               class="btn rounded-pill px-4 py-2 font-weight-bold"
+                style="font-size: 14px; color: #7f1813; border: 1px solid #7f1813;">
                 🚀 Apply Now
             </a>
         </div>
@@ -1357,8 +1357,8 @@ Career after MSc Mathematics,Flexible MSc Maths program online">
             </div>
 
             <a href="../applynow"
-                class="btn btn-outline-danger rounded-pill px-4 py-2 font-weight-bold"
-                style="font-size: 14px;">
+               class="btn rounded-pill px-4 py-2 font-weight-bold"
+                style="font-size: 14px; color: #7f1813; border: 1px solid #7f1813;">
                 🚀 Apply Now
             </a>
         </div>
@@ -1394,8 +1394,8 @@ Career after MSc Mathematics,Flexible MSc Maths program online">
             </div>
 
             <a href="../applynow"
-                class="btn btn-outline-danger rounded-pill px-4 py-2 font-weight-bold"
-                style="font-size: 14px;">
+               class="btn rounded-pill px-4 py-2 font-weight-bold"
+                style="font-size: 14px; color: #7f1813; border: 1px solid #7f1813;">
                 🚀 Apply Now
             </a>
         </div>

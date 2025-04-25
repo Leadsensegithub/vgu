@@ -681,8 +681,8 @@ Production and Operations MBA Online,Online MBA in Process & Project Management"
             </div>
 
             <a href="../applynow"
-                class="btn btn-outline-danger rounded-pill px-4 py-2 font-weight-bold"
-                style="font-size: 14px;">
+               class="btn rounded-pill px-4 py-2 font-weight-bold"
+                style="font-size: 14px; color: #7f1813; border: 1px solid #7f1813;">
                 🚀 Apply Now
             </a>
         </div>
@@ -719,8 +719,8 @@ Production and Operations MBA Online,Online MBA in Process & Project Management"
             </div>
 
             <a href="../applynow"
-                class="btn btn-outline-danger rounded-pill px-4 py-2 font-weight-bold"
-                style="font-size: 14px;">
+               class="btn rounded-pill px-4 py-2 font-weight-bold"
+                style="font-size: 14px; color: #7f1813; border: 1px solid #7f1813;">
                 🚀 Apply Now
             </a>
         </div>
@@ -755,8 +755,8 @@ Production and Operations MBA Online,Online MBA in Process & Project Management"
             </div>
 
             <a href="../applynow"
-                class="btn btn-outline-danger rounded-pill px-4 py-2 font-weight-bold"
-                style="font-size: 14px;">
+               class="btn rounded-pill px-4 py-2 font-weight-bold"
+                style="font-size: 14px; color: #7f1813; border: 1px solid #7f1813;">
                 🚀 Apply Now
             </a>
         </div>
@@ -792,8 +792,8 @@ Production and Operations MBA Online,Online MBA in Process & Project Management"
             </div>
 
             <a href="../applynow"
-                class="btn btn-outline-danger rounded-pill px-4 py-2 font-weight-bold"
-                style="font-size: 14px;">
+               class="btn rounded-pill px-4 py-2 font-weight-bold"
+                style="font-size: 14px; color: #7f1813; border: 1px solid #7f1813;">
                 🚀 Apply Now
             </a>
         </div>
@@ -829,8 +829,8 @@ Production and Operations MBA Online,Online MBA in Process & Project Management"
             </div>
 
             <a href="../applynow"
-                class="btn btn-outline-danger rounded-pill px-4 py-2 font-weight-bold"
-                style="font-size: 14px;">
+               class="btn rounded-pill px-4 py-2 font-weight-bold"
+                style="font-size: 14px; color: #7f1813; border: 1px solid #7f1813;">
                 🚀 Apply Now
             </a>
         </div>
@@ -865,8 +865,8 @@ Production and Operations MBA Online,Online MBA in Process & Project Management"
             </div>
 
             <a href="../applynow"
-                class="btn btn-outline-danger rounded-pill px-4 py-2 font-weight-bold"
-                style="font-size: 14px;">
+               class="btn rounded-pill px-4 py-2 font-weight-bold"
+                style="font-size: 14px; color: #7f1813; border: 1px solid #7f1813;">
                 🚀 Apply Now
             </a>
         </div>
@@ -901,8 +901,8 @@ Production and Operations MBA Online,Online MBA in Process & Project Management"
             </div>
 
             <a href="../applynow"
-                class="btn btn-outline-danger rounded-pill px-4 py-2 font-weight-bold"
-                style="font-size: 14px;">
+               class="btn rounded-pill px-4 py-2 font-weight-bold"
+                style="font-size: 14px; color: #7f1813; border: 1px solid #7f1813;">
                 🚀 Apply Now
             </a>
         </div>
@@ -937,8 +937,8 @@ Production and Operations MBA Online,Online MBA in Process & Project Management"
             </div>
 
             <a href="../applynow"
-                class="btn btn-outline-danger rounded-pill px-4 py-2 font-weight-bold"
-                style="font-size: 14px;">
+               class="btn rounded-pill px-4 py-2 font-weight-bold"
+                style="font-size: 14px; color: #7f1813; border: 1px solid #7f1813;">
                 🚀 Apply Now
             </a>
         </div>
@@ -973,8 +973,8 @@ Production and Operations MBA Online,Online MBA in Process & Project Management"
             </div>
 
             <a href="../applynow"
-                class="btn btn-outline-danger rounded-pill px-4 py-2 font-weight-bold"
-                style="font-size: 14px;">
+               class="btn rounded-pill px-4 py-2 font-weight-bold"
+                style="font-size: 14px; color: #7f1813; border: 1px solid #7f1813;">
                 🚀 Apply Now
             </a>
         </div>
@@ -1011,8 +1011,8 @@ Production and Operations MBA Online,Online MBA in Process & Project Management"
             </div>
 
             <a href="../applynow"
-                class="btn btn-outline-danger rounded-pill px-4 py-2 font-weight-bold"
-                style="font-size: 14px;">
+               class="btn rounded-pill px-4 py-2 font-weight-bold"
+                style="font-size: 14px; color: #7f1813; border: 1px solid #7f1813;">
                 🚀 Apply Now
             </a>
         </div>
@@ -1050,8 +1050,8 @@ Production and Operations MBA Online,Online MBA in Process & Project Management"
             ₹ 1,50,000 | 2 Years 💰
             </div>
             <a href="../applynow"
-                class="btn btn-outline-danger rounded-pill px-4 py-2 font-weight-bold"
-                style="font-size: 14px;">
+               class="btn rounded-pill px-4 py-2 font-weight-bold"
+                style="font-size: 14px; color: #7f1813; border: 1px solid #7f1813;">
                 🚀 Apply Now
             </a>
         </div>
@@ -1089,8 +1089,8 @@ Production and Operations MBA Online,Online MBA in Process & Project Management"
             </div>
             <!-- Apply Now Button -->
             <a href="../applynow"
-                class="btn btn-outline-danger rounded-pill px-4 py-2 font-weight-bold"
-                style="font-size: 14px;">
+               class="btn rounded-pill px-4 py-2 font-weight-bold"
+                style="font-size: 14px; color: #7f1813; border: 1px solid #7f1813;">
                 🚀 Apply Now
             </a>
         </div>
@@ -1124,8 +1124,8 @@ Production and Operations MBA Online,Online MBA in Process & Project Management"
             ₹ 1,50,000 | 2 Years 💰
             </div>
             <a href="../applynow"
-                class="btn btn-outline-danger rounded-pill px-4 py-2 font-weight-bold"
-                style="font-size: 14px;">
+               class="btn rounded-pill px-4 py-2 font-weight-bold"
+                style="font-size: 14px; color: #7f1813; border: 1px solid #7f1813;">
                 🚀 Apply Now
             </a>
         </div>
@@ -1161,8 +1161,8 @@ Production and Operations MBA Online,Online MBA in Process & Project Management"
             </div>
 
             <a href="../applynow"
-                class="btn btn-outline-danger rounded-pill px-4 py-2 font-weight-bold"
-                style="font-size: 14px;">
+               class="btn rounded-pill px-4 py-2 font-weight-bold"
+                style="font-size: 14px; color: #7f1813; border: 1px solid #7f1813;">
                 🚀 Apply Now
             </a>
         </div>
@@ -1197,8 +1197,8 @@ Production and Operations MBA Online,Online MBA in Process & Project Management"
             </div>
 
             <a href="../applynow"
-                class="btn btn-outline-danger rounded-pill px-4 py-2 font-weight-bold"
-                style="font-size: 14px;">
+               class="btn rounded-pill px-4 py-2 font-weight-bold"
+                style="font-size: 14px; color: #7f1813; border: 1px solid #7f1813;">
                 🚀 Apply Now
             </a>
         </div>
@@ -1234,8 +1234,8 @@ Production and Operations MBA Online,Online MBA in Process & Project Management"
             </div>
 
             <a href="../applynow"
-                class="btn btn-outline-danger rounded-pill px-4 py-2 font-weight-bold"
-                style="font-size: 14px;">
+               class="btn rounded-pill px-4 py-2 font-weight-bold"
+                style="font-size: 14px; color: #7f1813; border: 1px solid #7f1813;">
                 🚀 Apply Now
             </a>
         </div>
@@ -1268,8 +1268,8 @@ Production and Operations MBA Online,Online MBA in Process & Project Management"
             </div>
 
             <a href="../applynow"
-                class="btn btn-outline-danger rounded-pill px-4 py-2 font-weight-bold"
-                style="font-size: 14px;">
+               class="btn rounded-pill px-4 py-2 font-weight-bold"
+                style="font-size: 14px; color: #7f1813; border: 1px solid #7f1813;">
                 🚀 Apply Now
             </a>
         </div>
@@ -1306,8 +1306,8 @@ Production and Operations MBA Online,Online MBA in Process & Project Management"
             </div>
 
             <a href="../applynow"
-                class="btn btn-outline-danger rounded-pill px-4 py-2 font-weight-bold"
-                style="font-size: 14px;">
+               class="btn rounded-pill px-4 py-2 font-weight-bold"
+                style="font-size: 14px; color: #7f1813; border: 1px solid #7f1813;">
                 🚀 Apply Now
             </a>
         </div>
@@ -1343,8 +1343,8 @@ Production and Operations MBA Online,Online MBA in Process & Project Management"
             </div>
 
             <a href="../applynow"
-                class="btn btn-outline-danger rounded-pill px-4 py-2 font-weight-bold"
-                style="font-size: 14px;">
+               class="btn rounded-pill px-4 py-2 font-weight-bold"
+                style="font-size: 14px; color: #7f1813; border: 1px solid #7f1813;">
                 🚀 Apply Now
             </a>
         </div>
@@ -1380,8 +1380,8 @@ Production and Operations MBA Online,Online MBA in Process & Project Management"
             </div>
 
             <a href="../applynow"
-                class="btn btn-outline-danger rounded-pill px-4 py-2 font-weight-bold"
-                style="font-size: 14px;">
+               class="btn rounded-pill px-4 py-2 font-weight-bold"
+                style="font-size: 14px; color: #7f1813; border: 1px solid #7f1813;">
                 🚀 Apply Now
             </a>
         </div>
