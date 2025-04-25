@@ -98,6 +98,7 @@
 
 .applynowform{
     box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    background-color:rgb(250, 214, 211);
 }
 .applynowform form {
     padding: 20px;
