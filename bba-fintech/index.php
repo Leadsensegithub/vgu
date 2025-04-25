@@ -165,7 +165,7 @@ Fintech management course online,Learn fintech with BBA,Top fintech BBA programs
     }
     .formlanding{
         margin-top: 30px;
-        width: 290px;
+    width: 100%;
         margin-bottom: 50px;
     }
 
@@ -173,17 +173,18 @@ Fintech management course online,Learn fintech with BBA,Top fintech BBA programs
                 font-size: 20px;
             }
 
-            .mobilenav{
-                display: flex;
-                align-items: center;
-                justify-content: center;
-                gap: 150px;
-            }
-.mobilenav img{
+           .mobilenav {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 150px;
+    padding-left: 40px;
+}
+
+.mobilenav img {
     width: 50px;
     height: 50px;
 }
-
             .formlanding h2 span {
                 font-size: 20px;
             }
@@ -201,16 +202,12 @@ Fintech management course online,Learn fintech with BBA,Top fintech BBA programs
                 font-size: 12px;
             }
 
-            .formlanding .applynowform input {
-                height: 25px;
-               
-            }
+         
               .footerlanding .applynowform .iti{
                 height: 25px;
               }
 
             .formlanding .applynowform select {
-                height: 30px !important;
                 font-size: 10px;
             }
 
@@ -385,7 +382,7 @@ Fintech management course online,Learn fintech with BBA,Top fintech BBA programs
                                 <li class="nav-item">
                                     <a class="nav-link" href="../contact/">Contact</a>
                                 </li>
-                                <button class="pulse-button" style="margin-left: 100px; width: 150px; padding: 10px;"
+                                <button type="button" class="pulse-button" style="margin-left: 100px; width: 150px; padding: 10px;"
                                     onClick="applynow()">Apply Now</button>
                             </ul>
 

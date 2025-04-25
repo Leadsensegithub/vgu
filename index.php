@@ -184,21 +184,25 @@
                 align-items: center;
                 justify-content: center;
             }
-
+                .formlanding{
+                    width: 100%;
+                }
               .formlanding h2 {
                 font-size: 20px;
             }
 
-            .mobilenav{
-                display: flex;
-                align-items: center;
-                justify-content: center;
-                gap: 150px;
-            }
-                .mobilenav img{
-                    width: 50px;
-                    height: 50px;
-                }
+            .mobilenav {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 150px;
+    padding-left: 40px;
+}
+
+.mobilenav img {
+    width: 50px;
+    height: 50px;
+}
 
 
             .formlanding .applynowform {
@@ -214,7 +218,7 @@
             }
 
             .formlanding .applynowform input {
-                height: 25px;
+                
                
             }
               .footerlanding .applynowform .iti{
@@ -222,7 +226,6 @@
               }
 
             .formlanding .applynowform select {
-                height: 30px !important;
                 font-size: 10px;
             }
 
@@ -237,7 +240,9 @@
             .footerlanding img {
                 display: none;
             }
-
+            .aboutvgu{
+                width: 100% !important;
+            }
         }
     </style>
 
@@ -275,17 +280,19 @@
             <div class="row">
                 <div class="col-12 col-md-10 col-lg-9 pr-md-0">
                     <nav class="navbar navbar-expand-md btco-hover-menu">
-                        <div class="mobilenav">
-                                                <div>
-                            <a class="navbar-brand pl-0" href="./"><img src="./assets/custom/images/vgulogo.jpeg"
-                                    alt="fables Template" class="fables-logo" height="80px" width="80px" /></a>
-                        </div>
-                        <div>
-                        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#fablesNavDropdown" aria-controls="fablesNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
-                                <span class="fables-iconmenu-icon font-16" style="color: #7f1813;"></span>
-                            </button>
-                        </div>
-                        </div>
+                    <div class="mobilenav">
+    <div>
+        <a class="navbar-brand pl-0" href="./">
+            <img src="./assets/custom/images/vgulogo.jpeg" alt="VGULogo" class="fables-logo" />
+        </a>
+    </div>
+    <div>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#fablesNavDropdown" aria-controls="fablesNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="fables-iconmenu-icon font-16" style="color: #7f1813;"></span>
+        </button>
+    </div>
+</div>
+
                         
 
 
@@ -396,7 +403,7 @@
                                 <li class="nav-item">
                                     <a class="nav-link" href="./contact/">Contact</a>
                                 </li>
-                                <button class="pulse-button" style="margin-left: 100px; width: 150px; padding: 10px;"
+                                <button type="button" class="pulse-button" style="margin-left: 100px; width: 150px; padding: 10px;"
                                     onClick="applynow()">Apply Now</button>
                             </ul>
 
@@ -535,7 +542,7 @@
 
             <!-- Image -->
             <div class="col-12 col-lg-6 text-center">
-                <img src="assets/custom/images/vgubg.AVIF" alt="About Online VGU" height="350px">
+                <img src="assets/custom/images/vgubg.AVIF" alt="About Online VGU" height="350px" class="aboutvgu">
             </div>
         </div>
     </div>
@@ -586,8 +593,6 @@
 
     <div class="container mt-3 aboutlanding">
        
-       <h2 class="font-35 font-weight-bold text-center fables-second-text-color">Apply Now 🎓</h2> 
-       
        <div class="row mt-2 mt-lg-5">
            <div class="col-12 col-lg-6 mt-3 mt-lg-0 overflow-hidden">
                <p class="fables-main-text-color font-25 mb-2 wow fadeInLeft">WHY</p>
@@ -627,9 +632,8 @@
            <div class="col-12 col-lg-6"> 
                <div class="formlanding">
         <div class="container applynowform card" style="margin-bottom:50px;">
-        <h6 class="fables-second-text-color font-weight-bold text-center pb-3 pt-4">
-        Start learning with Online VGU Today <span style="font-size:20px;">🚀</span>
-        </h6>
+        <h2 class="fables-second-text-color font-35 font-weight-bold mb-4 pt-3 text-center">
+        Apply <span class="fables-main-text-color"> Now 🎓</span></h2>
             <form id="leadForm" >
         <div class="row" style="padding: 10px;">
     <div class="col-12 col-md-6 mb-4">

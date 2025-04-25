@@ -113,19 +113,18 @@
   .formlanding h2{
         font-size: 20px;
     }
-    .mobilenav{
-                display: flex;
-                align-items: center;
-                justify-content: center;
-                gap: 150px;
-            }
-.mobilenav img{
+   .mobilenav {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 150px;
+    padding-left: 40px;
+}
+
+.mobilenav img {
     width: 50px;
     height: 50px;
-}
-    .formlanding h2 span{
-        font-size: 15px;
-    }
+}  
     .formlanding .applynowform{
         width: 280px;
     }
@@ -135,11 +134,8 @@
     .formlanding .applynowform input::placeholder{
         font-size: 10px;
     }
-    .formlanding .applynowform input{
-        height: 25px;
-    }
+   
     .formlanding .applynowform select{
-        height: 30px !important;
         font-size: 10px;
     }
      .formlanding .applynowform textarea::placeholder{
@@ -150,6 +146,12 @@
      }
      .footerlanding img{
     display: none;
+     }
+     .aboutvgu{
+        width: 100%;
+     }
+     .about{
+        font-size: 20px;
      }
 }
 
@@ -309,7 +311,7 @@
                                 <li class="nav-item">
                                     <a class="nav-link" href="../contact/">Contact</a>
                                 </li>
-                                <button class="pulse-button" style="margin-left: 100px; width: 150px; padding: 10px;"
+                                <button type="button" class="pulse-button" style="margin-left: 100px; width: 150px; padding: 10px;"
                                     onClick="applynow()">Apply Now</button>
                             </ul>
 
@@ -322,166 +324,192 @@
     </div>
 <!-- /End fables Navigation --> 
     
-     
-<!-- Start page content --> 
-<div class="container mt-5 aboutlanding">
-       
-       <h2 class="font-35 font-weight-bold text-center fables-second-text-color">About Online VGU</h2> 
-       
-       <div class="row mt-3 mt-lg-5">
-           <div class="col-12 col-lg-6 mt-3 mt-lg-0 overflow-hidden">
-               <p class="fables-main-text-color font-25 mb-2 wow fadeInLeft">WHY</p>
-               <h2 class="fables-second-text-color font-35 font-weight-bold wow fadeInLeft">
-                   CHOOSE <span class="fables-main-text-color">ONLINE VGU</span>
-               </h2>
-               <p class="fables-forth-text-color mt-4 mb-4">
-                   At Online VGU, we go beyond conventional learning. Our flexible, innovative, and student-centric approach ensures that you receive a world-class education—anytime, anywhere. Our dedicated faculty and support teams are just a click away.
-               </p>  
-       
-               <div class="position-relative mb-3 wow bounceInDown" data-wow-delay=".3s"> 
-                   <p class="fables-fifth-text-color fables-dots-text">
-                       <span class="fables-dots-circle fables-second-before fables-second-border-color"></span>
-                       Flexible and self-paced programs tailored for working professionals.
-                   </p>
-               </div>
-               <div class="position-relative mb-3 wow bounceInDown" data-wow-delay=".6s">
-                   <p class="fables-fifth-text-color fables-dots-text">
-                       <span class="fables-dots-circle fables-second-before fables-second-border-color"></span>
-                       Learn from the same expert faculty as on-campus VGU.
-                   </p>
-               </div>
-               <div class="position-relative mb-3 wow bounceInDown" data-wow-delay=".9s">
-                   <p class="fables-fifth-text-color fables-dots-text">
-                       <span class="fables-dots-circle fables-second-before fables-second-border-color"></span>
-                       Access to digital libraries, recorded lectures, and live sessions.
-                   </p>
-               </div>
-               <div class="position-relative mb-3 wow bounceInDown" data-wow-delay="1.2s">
-                   <p class="fables-fifth-text-color fables-dots-text">
-                       <span class="fables-dots-circle fables-second-before fables-second-border-color"></span>
-                       Career support and placement assistance from Online VGU’s dedicated cell.
-                   </p>
-               </div>
-           </div>
-       
-           <div class="col-12 col-lg-6"> 
-               <div class="together-block">
-                   <div class="fables-main-color-transparent p-4 p-lg-5 position-relative">
-                       <img src="../assets/custom/images/man-image.png" alt="Online VGU Student" class="img-fluid together-abs-img wow fadeIn">
-                       <p class="white-color font-17 mb-2">Empower Your Future</p>
-                       <h2 class="white-color font-30 semi-font">Grow with Online VGU</h2>
-                       <p class="white-color font-14 together-details my-3">
-                           Discover the future of learning with Online VGU. Whether you're starting your journey or advancing your career, our digital campus provides the tools, knowledge, and flexibility to help you succeed.
-                       </p>  
-                       <a href="../explore" class="btn fables-second-background-color white-color white-color-hover fables-btn-rounded py-2 px-5 my-0 my-md-4">Explore Programs</a> 
-                   </div>
-               </div>
-           </div>
-       </div>
-              </div>
 
-              <div class="fables-testimonial fables-after-overlay py-4 py-md-5 my-4 my-lg-5 half-width-testimonial bg-rules">
-            <div class="container z-index position-relative"> 
-            <div class="row mt-5">
-    <div class="col-12 col-md-6 wow fadeIn" data-wow-duration="2.5s" data-wow-delay=".4s"> 
-        <h2 class="fables-second-text-color font-35 font-weight-bold">
-            Online <span class="white-color">VGU Advantage</span>
+<section class="about-online-vgu mt-4 mb-5">
+<div class="container">
+<div class="row align-items-center">
+    <!-- Text Content -->
+    <div class="col-12 col-lg-6">
+        <h2 class="fables-second-text-color font-35 font-weight-bold mb-4 about">
+           About Online <span class="fables-main-text-color"> VGU</span>
         </h2>
-        <h6 class="fables-third-text-color mt-4 mb-4" style="line-height:1.7;">
-            <span style="font-size:25px;">🎓 </span>Online VGU combines quality education with digital flexibility—designed for modern learners. Our UGC-entitled programs are led by experienced faculty, enriched with real-world case studies, and built for career growth.
-            <br><br>
-            <span style="font-size:25px;">💼 </span>Get access to 100% placement assistance, skill-based learning modules, and interactive digital classrooms.
-            <br><br>
-            <span style="font-size:25px;">▶️ </span>Watch the short video to see how Online VGU is reshaping higher education and empowering students across the country.
-        </h6> 
+        <p class="fables-forth-text-color font-18">
+            Your gateway to future-ready education – <strong>Online VGU</strong>.
+        </p>
+        <p class="fables-forth-text-color font-16 mt-3">
+            Online VGU is a comprehensive digital learning platform designed to meet the evolving needs of students and working professionals. It combines the quality of traditional education with the convenience of online learning, giving you the freedom to learn anytime, anywhere.
+        </p>
+
+        <ul class="list-unstyled mt-4">
+            <li class="mb-2">✅ Flexible, self-paced programs for working professionals</li>
+            <li class="mb-2">✅ Live and recorded classes for convenient learning</li>
+            <li class="mb-2">✅ Access to rich digital libraries and learning resources</li>
+            <li class="mb-2">✅ Learn directly from experienced faculty</li>
+            <li class="mb-2">✅ Dedicated career support and placement assistance</li>
+        </ul>
+
+        <p class="fables-forth-text-color font-16 mt-3">
+            Take the first step toward a brighter future – <strong>Grow with Online VGU.</strong>
+        </p>
     </div>
 
-    <!-- Right Video Content -->
-    <div class="col-12 col-md-6 wow fadeIn mt-4 mt-md-5 mt-lg-0" data-wow-duration="2.5s" data-wow-delay=".4s">
-        <div class="position-relative image-container zoomIn-effect"> 
-            <img src="../assets/custom/images/vgu.jpeg" alt="Online VGU Video" class="img-fluid">
-            <div class="demo-gallery-poster fables-main-gradient">
-                <a data-fancybox href="assets/custom/videos/onlineVguIntro.mp4">
-                    <span class="fables-iconplay fables-second-text-color fa-4x wow bounce"
-                          style="font-size:50px; color:#fff; display: flex; align-items: center; justify-content: center; padding-top: 5px;"></span>
-                </a> 
-            </div> 
-        </div>  
+    <!-- Image -->
+    <div class="col-12 col-lg-6 text-center">
+        <img src="../assets/custom/images/vgubg.AVIF" alt="About Online VGU" height="350px" class="aboutvgu">
     </div>
+</div>
+</div>
+</section>
+
+</div>
+
+<div class="fables-testimonial fables-after-overlay py-4 py-md-5 my-4 my-lg-5 half-width-testimonial bg-rules">
+<div class="container z-index position-relative">
+    <div class="row mt-5">
+        <div class="col-12 col-md-6 wow fadeIn" data-wow-duration="2.5s" data-wow-delay=".4s">
+            <h2 class="fables-second-text-color font-35 font-weight-bold">
+                Online <span class="white-color">VGU Advantage</span>
+            </h2>
+            <h6 class="fables-third-text-color mt-4 mb-4" style="line-height:1.7;">
+                <span style="font-size:25px;">🎓 </span>Online VGU combines quality education with digital
+                flexibility—designed for modern learners. Our UGC-entitled programs are led by experienced
+                faculty, enriched with real-world case studies, and built for career growth.
+                <br><br>
+                <span style="font-size:25px;">💼 </span>Get access to 100% placement assistance, skill-based
+                learning modules, and interactive digital classrooms.
+                <br><br>
+                <span style="font-size:25px;">▶️ </span>Watch the short video to see how Online VGU is reshaping
+                higher education and empowering students across the country.
+            </h6>
+        </div>
+
+        <!-- Right Video Content -->
+        <div class="col-12 col-md-6 wow fadeIn mt-4 mt-md-5 mt-lg-0" data-wow-duration="2.5s"
+            data-wow-delay=".4s">
+            <div class="position-relative image-container zoomIn-effect">
+                <img src="../assets/custom/images/vgu.jpeg" alt="Online VGU Video" class="img-fluid">
+                <div class="demo-gallery-poster fables-main-gradient">
+                    <a data-fancybox href="assets/custom/videos/onlineVguIntro.mp4">
+                        <span class="fables-iconplay fables-second-text-color fa-4x wow bounce"
+                            style="font-size:50px; color:#fff; display: flex; align-items: center; justify-content: center; padding-top: 5px;"></span>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+</div>
 </div>
 
 
-               
-            </div>
+<div class="container aboutlanding">
+
+<div class="row mt-2 mt-lg-5">
+   <div class="col-12 col-lg-6 mt-3 mt-lg-0 overflow-hidden">
+       <p class="fables-main-text-color font-25 mb-2 wow fadeInLeft">WHY</p>
+       <h2 class="fables-second-text-color font-35 font-weight-bold wow fadeInLeft">
+           CHOOSE <span class="fables-main-text-color">ONLINE VGU</span>
+       </h2>
+       <p class="fables-forth-text-color mt-4 mb-4">
+           At Online VGU, we go beyond conventional learning. Our flexible, innovative, and student-centric approach ensures that you receive a world-class education—anytime, anywhere. Our dedicated faculty and support teams are just a click away.
+       </p>  
+
+       <div class="position-relative mb-3 wow bounceInDown" data-wow-delay=".3s"> 
+           <p class="fables-fifth-text-color fables-dots-text">
+               <span class="fables-dots-circle fables-second-before fables-second-border-color"></span>
+               Flexible and self-paced programs tailored for working professionals.
+           </p>
        </div>
+       <div class="position-relative mb-3 wow bounceInDown" data-wow-delay=".6s">
+           <p class="fables-fifth-text-color fables-dots-text">
+               <span class="fables-dots-circle fables-second-before fables-second-border-color"></span>
+               Learn from the same expert faculty as on-campus VGU.
+           </p>
+       </div>
+       <div class="position-relative mb-3 wow bounceInDown" data-wow-delay=".9s">
+           <p class="fables-fifth-text-color fables-dots-text">
+               <span class="fables-dots-circle fables-second-before fables-second-border-color"></span>
+               Access to digital libraries, recorded lectures, and live sessions.
+           </p>
+       </div>
+       <div class="position-relative mb-3 wow bounceInDown" data-wow-delay="1.2s">
+           <p class="fables-fifth-text-color fables-dots-text">
+               <span class="fables-dots-circle fables-second-before fables-second-border-color"></span>
+               Career support and placement assistance from Online VGU’s dedicated cell.
+           </p>
+       </div>
+   </div>
+
+   <div class="col-12 col-lg-6"> 
        <div class="formlanding">
-       <h2 class="fables-second-text-color font-35 font-weight-bold text-center pb-5">
-       Start your journey with Online VGU Today <span style="font-size:30px;">🚀</span>
-        </h2>
-       <div class="container applynowform card" style="margin-bottom:50px;">
-    <h2 class="fables-main-text-color font-35 font-weight-bold text-center my-4 my-lg-5">
-    🎓  Apply <span class="fables-second-text-color">Now</span>
-    </h2>
+<div class="container applynowform card" style="margin-bottom:50px;">
+<h2 class="fables-second-text-color font-35 font-weight-bold mb-4 pt-3 text-center">
+Apply <span class="fables-main-text-color"> Now 🎓</span></h2>
     <form id="leadForm" >
-        <div class="row" style="padding:10px;">
-    <div class="col-12 col-md-6 mb-4">
-        <label for="name">Full Name:</label>
-        <input type="text" id="name" class="form-control fables-input" placeholder="Full Name" required>
-        <small id="name-error" class="error-message" style="color: black; font-size: 11px;"></small>
-    </div>
-    <div class="col-12 col-md-6 mb-4">
-        <label for="email">Email:</label>
-        <input type="email" id="email" class="form-control fables-input" placeholder="Email Address" required>
-        <small id="email-error" class="error-message" style="color: black; font-size: 11px;"></small>
-    </div>
-    <div class="col-12 col-md-6 mb-4">
-        <label for="phone">Phone No:</label><br>
-        <input type="tel" id="phone" class="form-control fables-input" placeholder="Phone Number" required>
-        <small id="phone-error" class="error-message" style="color: black; font-size: 11px;"></small>
-    </div>
-    <div class="col-12 col-md-6 mb-4">
-        <label for="course">Select a Course:</label>
-        <select class="form-control fables-input" id="course" required>
-            <option value="" disabled selected>Select a Course</option>
-            <option>BA</option>
-            <option>BBA</option>
-            <option>BBA - Digital Marketing</option>
-            <option>BBA - Retail Management</option>
-            <option>BBA - Fintech</option>
-            <option>BCA</option>
-            <option>BCA - UX</option>
-            <option>BCA - Data Science</option>
-            <option>BCA - Blockchain Technology</option>
-            <option>BCA - Cloud Technology & Information Security</option>
-            <option>BCA - Artificial Intelligence</option>
-            <option>MA</option>
-            <option>MBA</option>
-            <option>MBA - Human Resource</option>
-            <option>MBA - Marketing</option>
-            <option>MBA - Finance</option>
-            <option>MBA - Healthcare</option>
-            <option>MBA - Agri Business</option>
-            <option>MBA - Information Technology</option>
-            <option>MBA - International Business</option>
-            <option>MBA - Operations Management</option>
-            <option>MCA</option>
-            <option>M.Sc</option>
-            <option>M.Sc Maths</option>
-        </select>
-        <small id="course-error" class="error-message" style="color: black; font-size: 11px;"></small>
-    </div>
-    <div class="col-12 mb-4">
-        <label for="query">Query:</label>
-        <textarea class="form-control fables-input" id="query" rows="4" placeholder="Your Message"></textarea>
-        <small id="query-error" class="error-message" style="color: black; font-size: 11px;"></small>
-    </div>
-    <div class="col-12 text-center">
-        <button type="button" class="btn fables-second-background-color white-color white-color-hover fables-btn-rounded px-5 py-2" onclick="validateForm()">Submit</button>
-    </div>
-    </div>
+<div class="row" style="padding: 10px;">
+<div class="col-12 col-md-6 mb-4">
+<label for="name">Full Name:</label>
+<input type="text" id="name" class="form-control fables-input" placeholder="Full Name" required>
+<small id="name-error" class="error-message" style="color: black; font-size: 11px;"></small>
+</div>
+<div class="col-12 col-md-6 mb-4">
+<label for="email">Email:</label>
+<input type="email" id="email" class="form-control fables-input" placeholder="Email Address" required>
+<small id="email-error" class="error-message" style="color: black; font-size: 11px;"></small>
+</div>
+<div class="col-12 col-md-6 mb-4">
+<label for="phone">Phone No:</label><br>
+<input type="tel" id="phone" class="form-control fables-input" placeholder="Phone Number" required>
+<small id="phone-error" class="error-message" style="color: black; font-size: 11px;"></small>
+</div>
+<div class="col-12 col-md-6 mb-4">
+<label for="course">Select a Course:</label>
+<select class="form-control fables-input" id="course" required>
+    <option value="" disabled selected>Select a Course</option>
+    <option>BA</option>
+    <option>BBA</option>
+    <option>BBA - Digital Marketing</option>
+    <option>BBA - Retail Management</option>
+    <option>BBA - Fintech</option>
+    <option>BCA</option>
+    <option>BCA - UX</option>
+    <option>BCA - Data Science</option>
+    <option>BCA - Blockchain Technology</option>
+    <option>BCA - Cloud Technology & Information Security</option>
+    <option>BCA - Artificial Intelligence</option>
+    <option>MA</option>
+    <option>MBA</option>
+    <option>MBA - Human Resource</option>
+    <option>MBA - Marketing</option>
+    <option>MBA - Finance</option>
+    <option>MBA - Healthcare</option>
+    <option>MBA - Agri Business</option>
+    <option>MBA - Information Technology</option>
+    <option>MBA - International Business</option>
+    <option>MBA - Operations Management</option>
+    <option>MCA</option>
+    <option>M.Sc</option>
+    <option>M.Sc Maths</option>
+</select>
+<small id="course-error" class="error-message" style="color: black; font-size: 11px;"></small>
+</div>
+<div class="col-12 mb-4">
+<label for="query">Query:</label>
+<textarea class="form-control fables-input" id="query" rows="4" placeholder="Your Message"></textarea>
+<small id="query-error" class="error-message" style="color: black; font-size: 11px;"></small>
+</div>
+<div class="col-12 text-center">
+<button type="button" class="btn fables-second-background-color white-color white-color-hover fables-btn-rounded px-5 py-2" onclick="validateForm()">Submit</button>
+</div>
+</div>
 </form>
 </div>
 </div>
+      </div>
+      </div>
+      </div>
 
 <div class="fables-testimonial fables-after-overlay fables-about-caption py-5 bg-rules" style="background-image: url(assets/custom/images/index2-overlay.jpg);">
     <div class="container">
@@ -1262,7 +1290,8 @@
 <!-- /End page content -->
     
 <!-- Start Footer 2 Background Image  -->
-<div class="fables-footer-image fables-after-overlay white-color py-4 py-lg-5 bg-rules footerlanding" style="margin-top: -150px;">
+ <div class="fables-footer-image fables-after-overlay white-color py-4 py-lg-5 bg-rules footerlanding"
+        >
     <div class="container">
         <div class="row">
             <div class="col-12 col-lg-3 mb-4 mb-lg-0">

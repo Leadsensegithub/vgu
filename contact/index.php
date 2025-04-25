@@ -202,17 +202,18 @@
   .formlanding h2{
         font-size: 20px;
     } 
-    .mobilenav{
-                display: flex;
-                align-items: center;
-                justify-content: center;
-                gap: 150px;
-            }
-.mobilenav img{
+   .mobilenav {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 150px;
+    padding-left: 40px;
+}
+
+.mobilenav img {
     width: 50px;
     height: 50px;
-}
-    .formlanding h2 span{
+}    .formlanding h2 span{
         font-size: 20px;
     }
     .formlanding .applynowform{
@@ -403,7 +404,7 @@
                                 <li class="nav-item">
                                     <a class="nav-link" href="../contact/">Contact</a>
                                 </li>
-                                <button class="pulse-button" style="margin-left: 100px; width: 150px; padding: 10px;"
+                                <button type="button" class="pulse-button" style="margin-left: 100px; width: 150px; padding: 10px;"
                                     onClick="applynow()">Apply Now</button>
                             </ul>
 

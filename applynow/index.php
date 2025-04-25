@@ -124,21 +124,22 @@
     .formlanding h2{
         font-size: 20px;
     }
-    .mobilenav{
-                display: flex;
-                align-items: center;
-                justify-content: center;
-                gap: 150px;
-            }
-.mobilenav img{
+   .mobilenav {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 150px;
+    padding-left: 40px;
+}
+
+.mobilenav img {
     width: 50px;
     height: 50px;
-}
-    .formlanding h2 span{
+}    .formlanding h2 span{
         font-size: 20px;
     }
     .formlanding .applynowform{
-        width: 280px;
+        width: 100%;
     }
     .formlanding .applynowform label{
         font-size: 12px;
@@ -146,11 +147,8 @@
     .formlanding .applynowform input::placeholder{
         font-size: 10px;
     }
-    .formlanding .applynowform input{
-        height: 25px;
-    }
+   
     .formlanding .applynowform select{
-        height: 30px !important;
         font-size: 10px;
     }
      .formlanding .applynowform textarea::placeholder{
@@ -317,7 +315,7 @@
                                 <li class="nav-item">
                                     <a class="nav-link" href="../contact/">Contact</a>
                                 </li>
-                                <button class="pulse-button" style="margin-left: 100px; width: 150px; padding: 10px;"
+                                <button type="button" class="pulse-button" style="margin-left: 100px; width: 150px; padding: 10px;"
                                     onClick="applynow()">Apply Now</button>
                             </ul>
 
@@ -329,10 +327,35 @@
         </div>
     </div>
 <!-- /End fables Navigation --> 
-<div class="formlanding" style="margin-bottom:200px; margin-top:80px;">
-        <h2 class="fables-second-text-color font-35 font-weight-bold text-center pb-5">
-            Start your journey with Online VGU Today <span style="font-size:30px;">🚀</span>
-        </h2>
+ <div class="row mt-5" style="margin:20px;">
+    <div class="col-lg-6">
+    <div class="">
+                <h2 class="fables-second-text-color font-35 font-weight-bold mb-4">
+                    Online <span class="fables-main-text-color"> VGU</span>
+                </h2>
+                <p class="fables-forth-text-color font-18">
+                    Your gateway to future-ready education – <strong>Online VGU</strong>.
+                </p>
+                <p class="fables-forth-text-color font-16 mt-3">
+                    Online VGU is a comprehensive digital learning platform designed to meet the evolving needs of students and working professionals. It combines the quality of traditional education with the convenience of online learning, giving you the freedom to learn anytime, anywhere.
+                </p>
+
+                <ul class="list-unstyled mt-4">
+                    <li class="mb-2">✅ Flexible, self-paced programs for working professionals</li>
+                    <li class="mb-2">✅ Live and recorded classes for convenient learning</li>
+                    <li class="mb-2">✅ Access to rich digital libraries and learning resources</li>
+                    <li class="mb-2">✅ Learn directly from experienced faculty</li>
+                    <li class="mb-2">✅ Dedicated career support and placement assistance</li>
+                </ul>
+
+                <p class="fables-forth-text-color font-16 mt-3">
+                    Take the first step toward a brighter future – <strong>Grow with Online VGU.</strong>
+                </p>
+            </div>
+    </div>
+
+    <div class="col-lg-6">
+    <div class="formlanding" style="margin-bottom:50px;">
         <div class="container applynowform card" style="margin-bottom:50px;">
             <h2 class="fables-main-text-color font-35 font-weight-bold text-center my-4 my-lg-5" style="font-family: Roboto Slab;">
                 🎓 Apply <span class="fables-second-text-color">Now</span>
@@ -397,12 +420,17 @@
 </form>
         </div>
     </div> 
+    </div>
+
+ </div>
+
            
       
 <!-- /End page content -->
     
 <!-- Start Footer 2 Background Image  -->
-<div class="fables-footer-image fables-after-overlay white-color py-4 py-lg-5 bg-rules footerlanding" style="margin-top: -150px;">
+ <div class="fables-footer-image fables-after-overlay white-color py-4 py-lg-5 bg-rules footerlanding"
+        >
     <div class="container">
         <div class="row">
             <div class="col-12 col-lg-3 mb-4 mb-lg-0">
