@@ -140,6 +140,24 @@ Online BA humanities program,Bachelor of Arts for career in civil services">
     .courselanding .leftsection h2{
         font-size: 35px !important;
     }
+    .courselanding p{
+        text-align: center;
+    }
+    .courselanding h2{
+        text-align: center;
+    }
+    .courselanding h3{
+        text-align: center;
+    }
+    .courselanding h4{
+        text-align: center;
+    }
+    .courselanding .approvedimg{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 10px;
+    }
     
      .courselanding .approvedimg img{
         height: 50px;
@@ -379,7 +397,7 @@ Online BA humanities program,Bachelor of Arts for career in civil services">
     <h2 class="fables-main-text-color font-35 font-weight-bold text-center">
     🎓  Apply <span class="fables-second-text-color">Now</span>
     </h2>
-    <p class="fables-main-text-color text-center mb-4 mb-md-5 font-19">Start your journey with Online VGU today <span style="font-size:20px;">🚀</span></p>
+    <p class="fables-main-text-color text-center mb-4 mb-md-5 font-19">Start your journey with Online VGU Today <span style="font-size:20px;">🚀</span></p>
 
     <form id="leadForm" >
         <div class="row applynowform">
@@ -1347,7 +1365,7 @@ Online BA humanities program,Bachelor of Arts for career in civil services">
                             src="../assets/custom/images/vgulogo.jpeg" alt="fables template" width="100px"
                             height="100px"></a>
                     <p class="font-15 fables-third-text-color">
-                        Online VGU offers a dynamic learning experience designed for today’s learners. With flexible
+                        Online VGU offers a dynamic learning experience designed for Today’s learners. With flexible
                         schedules, expert faculty, and industry-aligned courses, students can pursue their degrees
                         without compromising on quality or convenience.
                         <br><br>

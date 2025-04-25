@@ -505,63 +505,42 @@
 
         <h2 class="font-35 font-weight-bold text-center fables-second-text-color">About Online VGU</h2>
 
-        <div class="row mt-3 mt-lg-5">
-            <div class="col-12 col-lg-6 mt-3 mt-lg-0 overflow-hidden">
-                <p class="fables-main-text-color font-25 mb-2 wow fadeInLeft">WHY</p>
-                <h2 class="fables-second-text-color font-35 font-weight-bold wow fadeInLeft">
-                    CHOOSE <span class="fables-main-text-color">ONLINE VGU</span>
+        <section class="about-online-vgu mt-5 mb-5">
+    <div class="container">
+        <div class="row align-items-center">
+            <!-- Text Content -->
+            <div class="col-12 col-lg-6">
+                <h2 class="fables-second-text-color font-35 font-weight-bold mb-4">
+                    Online <span class="fables-main-text-color"> VGU</span>
                 </h2>
-                <p class="fables-forth-text-color mt-4 mb-4">
-                    At Online VGU, we go beyond conventional learning. Our flexible, innovative, and student-centric
-                    approach ensures that you receive a world-class education—anytime, anywhere. Our dedicated faculty
-                    and support teams are just a click away.
+                <p class="fables-forth-text-color font-18">
+                    Your gateway to future-ready education – <strong>Online VGU</strong>.
+                </p>
+                <p class="fables-forth-text-color font-16 mt-3">
+                    Online VGU is a comprehensive digital learning platform designed to meet the evolving needs of students and working professionals. It combines the quality of traditional education with the convenience of online learning, giving you the freedom to learn anytime, anywhere.
                 </p>
 
-                <div class="position-relative mb-3 wow bounceInDown" data-wow-delay=".3s">
-                    <p class="fables-fifth-text-color fables-dots-text">
-                        <span class="fables-dots-circle fables-second-before fables-second-border-color"></span>
-                        Flexible and self-paced programs tailored for working professionals.
-                    </p>
-                </div>
-                <div class="position-relative mb-3 wow bounceInDown" data-wow-delay=".6s">
-                    <p class="fables-fifth-text-color fables-dots-text">
-                        <span class="fables-dots-circle fables-second-before fables-second-border-color"></span>
-                        Learn from the same expert faculty as on-campus VGU.
-                    </p>
-                </div>
-                <div class="position-relative mb-3 wow bounceInDown" data-wow-delay=".9s">
-                    <p class="fables-fifth-text-color fables-dots-text">
-                        <span class="fables-dots-circle fables-second-before fables-second-border-color"></span>
-                        Access to digital libraries, recorded lectures, and live sessions.
-                    </p>
-                </div>
-                <div class="position-relative mb-3 wow bounceInDown" data-wow-delay="1.2s">
-                    <p class="fables-fifth-text-color fables-dots-text">
-                        <span class="fables-dots-circle fables-second-before fables-second-border-color"></span>
-                        Career support and placement assistance from Online VGU’s dedicated cell.
-                    </p>
-                </div>
+                <ul class="list-unstyled mt-4">
+                    <li class="mb-2">✅ Flexible, self-paced programs for working professionals</li>
+                    <li class="mb-2">✅ Live and recorded classes for convenient learning</li>
+                    <li class="mb-2">✅ Access to rich digital libraries and learning resources</li>
+                    <li class="mb-2">✅ Learn directly from experienced faculty</li>
+                    <li class="mb-2">✅ Dedicated career support and placement assistance</li>
+                </ul>
+
+                <p class="fables-forth-text-color font-16 mt-3">
+                    Take the first step toward a brighter future – <strong>Grow with Online VGU.</strong>
+                </p>
             </div>
 
-            <div class="col-12 col-lg-6">
-                <div class="together-block">
-                    <div class="fables-main-color-transparent p-4 p-lg-5 position-relative">
-                        <img src="assets/custom/images/man-image.png" alt="Online VGU Student"
-                            class="img-fluid together-abs-img wow fadeIn">
-                        <p class="white-color font-17 mb-2">Empower Your Future</p>
-                        <h2 class="white-color font-30 semi-font">Grow with Online VGU</h2>
-                        <p class="white-color font-14 together-details my-3">
-                            Discover the future of learning with Online VGU. Whether you're starting your journey or
-                            advancing your career, our digital campus provides the tools, knowledge, and flexibility to
-                            help you succeed.
-                        </p>
-                        <a href="./explore"
-                            class="btn fables-second-background-color white-color white-color-hover fables-btn-rounded py-2 px-5 my-0 my-md-4">Explore
-                            Programs</a>
-                    </div>
-                </div>
+            <!-- Image -->
+            <div class="col-12 col-lg-6 text-center">
+                <img src="assets/custom/images/vgubg.AVIF" alt="About Online VGU" height="350px">
             </div>
         </div>
+    </div>
+</section>
+
     </div>
 
     <div class="fables-testimonial fables-after-overlay py-4 py-md-5 my-4 my-lg-5 half-width-testimonial bg-rules">
@@ -603,14 +582,54 @@
 
         </div>
     </div>
-    <div class="formlanding">
-        <h2 class="fables-second-text-color font-35 font-weight-bold text-center pb-5">
-            Start your journey with Online VGU Today <span style="font-size:30px;">🚀</span>
-        </h2>
+
+
+    <div class="container mt-3 aboutlanding">
+       
+       <h2 class="font-35 font-weight-bold text-center fables-second-text-color">Apply Now 🎓</h2> 
+       
+       <div class="row mt-2 mt-lg-5">
+           <div class="col-12 col-lg-6 mt-3 mt-lg-0 overflow-hidden">
+               <p class="fables-main-text-color font-25 mb-2 wow fadeInLeft">WHY</p>
+               <h2 class="fables-second-text-color font-35 font-weight-bold wow fadeInLeft">
+                   CHOOSE <span class="fables-main-text-color">ONLINE VGU</span>
+               </h2>
+               <p class="fables-forth-text-color mt-4 mb-4">
+                   At Online VGU, we go beyond conventional learning. Our flexible, innovative, and student-centric approach ensures that you receive a world-class education—anytime, anywhere. Our dedicated faculty and support teams are just a click away.
+               </p>  
+       
+               <div class="position-relative mb-3 wow bounceInDown" data-wow-delay=".3s"> 
+                   <p class="fables-fifth-text-color fables-dots-text">
+                       <span class="fables-dots-circle fables-second-before fables-second-border-color"></span>
+                       Flexible and self-paced programs tailored for working professionals.
+                   </p>
+               </div>
+               <div class="position-relative mb-3 wow bounceInDown" data-wow-delay=".6s">
+                   <p class="fables-fifth-text-color fables-dots-text">
+                       <span class="fables-dots-circle fables-second-before fables-second-border-color"></span>
+                       Learn from the same expert faculty as on-campus VGU.
+                   </p>
+               </div>
+               <div class="position-relative mb-3 wow bounceInDown" data-wow-delay=".9s">
+                   <p class="fables-fifth-text-color fables-dots-text">
+                       <span class="fables-dots-circle fables-second-before fables-second-border-color"></span>
+                       Access to digital libraries, recorded lectures, and live sessions.
+                   </p>
+               </div>
+               <div class="position-relative mb-3 wow bounceInDown" data-wow-delay="1.2s">
+                   <p class="fables-fifth-text-color fables-dots-text">
+                       <span class="fables-dots-circle fables-second-before fables-second-border-color"></span>
+                       Career support and placement assistance from Online VGU’s dedicated cell.
+                   </p>
+               </div>
+           </div>
+       
+           <div class="col-12 col-lg-6"> 
+               <div class="formlanding">
         <div class="container applynowform card" style="margin-bottom:50px;">
-            <h2 class="fables-main-text-color font-35 font-weight-bold text-center my-4 my-lg-5" style="font-family: Roboto Slab;">
-                🎓 Apply <span class="fables-second-text-color">Now</span>
-            </h2>
+        <h6 class="fables-second-text-color font-weight-bold text-center pb-3 pt-4">
+        Start learning with Online VGU Today <span style="font-size:20px;">🚀</span>
+        </h6>
             <form id="leadForm" >
         <div class="row" style="padding: 10px;">
     <div class="col-12 col-md-6 mb-4">
@@ -671,6 +690,9 @@
 </form>
         </div>
     </div>
+              </div>
+              </div>
+              </div>
 
     <div class="fables-testimonial fables-after-overlay fables-about-caption py-5 bg-rules"
         style="background-image: url(assets/custom/images/index2-overlay.jpg);">
@@ -1458,7 +1480,7 @@
 
     <!-- Start Footer 2 Background Image  -->
     <div class="fables-footer-image fables-after-overlay white-color py-4 py-lg-5 bg-rules footerlanding"
-        style="margin-top: -150px;">
+        >
         <div class="container">
             <div class="row">
                 <div class="col-12 col-lg-3 mb-4 mb-lg-0">
@@ -1466,7 +1488,7 @@
                             src="./assets/custom/images/vgulogo.jpeg" alt="fables template" width="100px"
                             height="100px"></a>
                     <p class="font-15 fables-third-text-color">
-                        Online VGU offers a dynamic learning experience designed for today’s learners. With flexible
+                        Online VGU offers a dynamic learning experience designed for Today’s learners. With flexible
                         schedules, expert faculty, and industry-aligned courses, students can pursue their degrees
                         without compromising on quality or convenience.
                         <br><br>

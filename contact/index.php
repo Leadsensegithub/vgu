@@ -418,22 +418,41 @@
 <div class="container contactpage">
     
   <div class="info-section" style="margin-bottom:100px;">
-    <h4>Contact Details</h4>
-    <div class="contact-info">
-     
-      <div class="contact-item">
-      <i class="fa-solid fa-globe"></i> onlinevgu.com
-      </div>
-    </div>
+    
+    <div class="">
+                <h2 class="fables-second-text-color font-35 font-weight-bold mb-4">
+                    Online <span class="fables-main-text-color"> VGU</span>
+                </h2>
+                <p class="fables-forth-text-color font-18">
+                    Your gateway to future-ready education – <strong>Online VGU</strong>.
+                </p>
+                <p class="fables-forth-text-color font-16 mt-3">
+                    Online VGU is a comprehensive digital learning platform designed to meet the evolving needs of students and working professionals. It combines the quality of traditional education with the convenience of online learning, giving you the freedom to learn anytime, anywhere.
+                </p>
+
+                <ul class="list-unstyled mt-4">
+                    <li class="mb-2">✅ Flexible, self-paced programs for working professionals</li>
+                    <li class="mb-2">✅ Live and recorded classes for convenient learning</li>
+                    <li class="mb-2">✅ Access to rich digital libraries and learning resources</li>
+                    <li class="mb-2">✅ Learn directly from experienced faculty</li>
+                    <li class="mb-2">✅ Dedicated career support and placement assistance</li>
+                </ul>
+
+                <p class="fables-forth-text-color font-16 mt-3">
+                    Take the first step toward a brighter future – <strong>Grow with Online VGU.</strong>
+                </p>
+            </div>
     <div class="followus mt-5">
     <h4>Follow Us</h4>
     <ul class="nav fables-footer-social-links  fables-light-footer-links" style="padding-top:20px;">
             <li><a href="#" target="_blank"><i class="fab fa-google-plus-square"></i></a></li>
             <li><a href="#" target="_blank"><i class="fab fa-facebook"></i></a></li>
             <li><a href="#" target="_blank"><i class="fab fa-instagram"></i></a></li>
+            <li><a href="#" target="_blank"><i class="fa-solid fa-globe"></i></a></li>
             <li><a href="#" target="_blank"><i class="fab fa-pinterest-square"></i></a></li>
             <li><a href="#" target="_blank"><i class="fab fa-twitter-square"></i></a></li>
             <li><a href="#" target="_blank"><i class="fab fa-linkedin"></i></a></li>
+
         </ul>
     </div>
   </div>
@@ -443,7 +462,7 @@
     <h2 class="fables-main-text-color font-35 font-weight-bold text-center">
     🎓  Contact<span class="fables-second-text-color"> us</span>
     </h2>
-    <p class="fables-main-text-color text-center mb-4 mb-md-5 font-19">Start your journey with Online VGU today <span style="font-size:20px;">🚀</span></p>
+    <p class="fables-main-text-color text-center mb-4 mb-md-5 font-19">Start your journey with Online VGU Today <span style="font-size:20px;">🚀</span></p>
 
     <form id="leadForm" >
         <div class="row applynowform">
@@ -458,7 +477,7 @@
         <small id="email-error" class="error-message" style="color: black; font-size: 11px;"></small>
     </div>
     <div class="col-12 col-md-6 mb-4">
-        <label for="phone">Phone No:</label><br>
+        <label for="phone">Phone No:</label>
         <input type="tel" id="phone" class="form-control fables-input" placeholder="Phone Number" required>
         <small id="phone-error" class="error-message" style="color: black; font-size: 11px;"></small>
     </div>
@@ -522,7 +541,7 @@
             <div class="col-12 col-lg-3 mb-4 mb-lg-0">
                 <a href="#" class="fables-second-border-color border-bottom pb-3 d-block mb-3 mt-minus-13"><img src="../assets/custom/images/vgulogo.jpeg" alt="fables template" width="100px" height="100px"></a>
                                 <p class="font-15 fables-third-text-color">
-                    Online VGU offers a dynamic learning experience designed for today’s learners. With flexible schedules, expert faculty, and industry-aligned courses, students can pursue their degrees without compromising on quality or convenience.
+                    Online VGU offers a dynamic learning experience designed for Today’s learners. With flexible schedules, expert faculty, and industry-aligned courses, students can pursue their degrees without compromising on quality or convenience.
                     <br><br>
                     Whether you're working full-time or seeking a career change, Online VGU empowers you to learn at your own pace—anytime, anywhere.
                 </p>

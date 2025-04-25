@@ -10,14 +10,14 @@
     <title>VGU's Human resource Program offers an online MBA program</title>
     <meta name="title" content="VGU's Human resource Program offers an online MBA program" />
     <meta name="description"
-        content="Elevate your profession with VGU's cutting-edge Online MBA in HRM. This master's degree in human resource management helps you succeed in today's dynamic business market.">
+        content="Elevate your profession with VGU's cutting-edge Online MBA in HRM. This master's degree in human resource management helps you succeed in Today's dynamic business market.">
     <meta name="keywords" content="Online MBA in Human Resource Management,VGU Online MBA HRM,
 Human Resource Management Online Degree,Vivekananda Global University MBA HRM,HR Management Online MBA Program,
 Distance Learning MBA in HR,Online HRM Specialization MBA,VGU MBA Human Resources,
 Online MBA HRM Course India,VGU HRM MBA Admission">
     <meta property="og:title" content="VGU's Human resource Program offers an online MBA program">
     <meta property="og:description"
-        content="Elevate your profession with VGU's cutting-edge Online MBA in HRM. This master's degree in human resource management helps you succeed in today's dynamic business market.">
+        content="Elevate your profession with VGU's cutting-edge Online MBA in HRM. This master's degree in human resource management helps you succeed in Today's dynamic business market.">
 
         <meta property="og:site_name" content="online vgu.com" />
 
@@ -146,6 +146,24 @@ Online MBA HRM Course India,VGU HRM MBA Admission">
     }
     .courselanding .leftsection h2{
         font-size: 35px !important;
+    }
+    .courselanding p{
+        text-align: center;
+    }
+    .courselanding h2{
+        text-align: center;
+    }
+    .courselanding h3{
+        text-align: center;
+    }
+    .courselanding h4{
+        text-align: center;
+    }
+    .courselanding .approvedimg{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 10px;
     }
     .formlanding{
         margin-top: 30px;
@@ -404,7 +422,7 @@ Online MBA HRM Course India,VGU HRM MBA Admission">
     <h2 class="fables-main-text-color font-35 font-weight-bold text-center">
     🎓  Apply <span class="fables-second-text-color">Now</span>
     </h2>
-    <p class="fables-main-text-color text-center mb-4 mb-md-5 font-19">Start your journey with Online VGU today <span style="font-size:20px;">🚀</span></p>
+    <p class="fables-main-text-color text-center mb-4 mb-md-5 font-19">Start your journey with Online VGU Today <span style="font-size:20px;">🚀</span></p>
 
     <form id="leadForm" >
         <div class="row applynowform">
@@ -1381,7 +1399,7 @@ Online MBA HRM Course India,VGU HRM MBA Admission">
 
     <!-- Start Footer 2 Background Image  -->
     <div class="fables-footer-image fables-after-overlay white-color py-4 py-lg-5 bg-rules footerlanding"
-        style="margin-top: -150px;">
+        >
         <div class="container">
             <div class="row">
                 <div class="col-12 col-lg-3 mb-4 mb-lg-0">
@@ -1389,7 +1407,7 @@ Online MBA HRM Course India,VGU HRM MBA Admission">
                             src="../assets/custom/images/vgulogo.jpeg" alt="fables template" width="100px"
                             height="100px"></a>
                     <p class="font-15 fables-third-text-color">
-                        Online VGU offers a dynamic learning experience designed for today’s learners. With flexible
+                        Online VGU offers a dynamic learning experience designed for Today’s learners. With flexible
                         schedules, expert faculty, and industry-aligned courses, students can pursue their degrees
                         without compromising on quality or convenience.
                         <br><br>

@@ -57,7 +57,9 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400..900&family=Spectral:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,200;1,300;1,400;1,500;1,600;1,700;1,800&family=Vollkorn:ital,wght@0,400..900;1,400..900&display=swap" rel="stylesheet">
-      
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/intl-tel-input/17.0.8/css/intlTelInput.min.css">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/intl-tel-input/17.0.8/js/intlTelInput.min.js"></script> 
+   
      
 </head>
 
@@ -205,7 +207,7 @@
 
 
 <!-- Start fables Navigation -->
-<div class="fables-navigation" style="display:flex; align-items: center; justify-content: space-evenly; box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;">
+<div class="fables-navigation" style="display:flex; align-items: center; justify-content: space-evenly;box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;">
     <div class="">
             <div class="row">
                 <div class="col-12 col-md-10 col-lg-9 pr-md-0">
@@ -613,7 +615,7 @@
             <div class="col-12 col-lg-3 mb-4 mb-lg-0">
                 <a href="#" class="fables-second-border-color border-bottom pb-3 d-block mb-3 mt-minus-13"><img src="../assets/custom/images/vgulogo.jpeg" alt="fables template" width="100px" height="100px"></a>
                                 <p class="font-15 fables-third-text-color">
-                    Online VGU offers a dynamic learning experience designed for today’s learners. With flexible schedules, expert faculty, and industry-aligned courses, students can pursue their degrees without compromising on quality or convenience.
+                    Online VGU offers a dynamic learning experience designed for Today’s learners. With flexible schedules, expert faculty, and industry-aligned courses, students can pursue their degrees without compromising on quality or convenience.
                     <br><br>
                     Whether you're working full-time or seeking a career change, Online VGU empowers you to learn at your own pace—anytime, anywhere.
                 </p>
@@ -685,16 +687,16 @@
 <script src="../assets/vendor/WOW-master/dist/wow.min.js"></script>
 <script src="../assets/custom/js/custom.js"></script>  
 <script>
-     $(".player").mb_YTPlayer();
-    
-</script>
+        $(".player").mb_YTPlayer();
 
-<script>
-    function applynow() {
-           window.location.href = '../applynow'
-    }
-</script>
-    
+    </script>
+
+    <script>
+        function applynow() {
+            window.location.href = '../applynow'
+        }
+    </script>
+
 <script>
      const input = document.querySelector("#phone");
     const iti = intlTelInput(input, {

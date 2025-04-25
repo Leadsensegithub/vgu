@@ -10,12 +10,12 @@
     <title>Online the Bachelor Business Management Course for Future Leaders</title>
     <meta name="title" content="Online the Bachelor Business Management Course for Future Leaders" />
     <meta name="description"
-        content="Build your leadership journey with VGU Online BBA. Gain business fundamentals, strategic thinking, and the confidence to thrive in today�s competitive market">
+        content="Build your leadership journey with VGU Online BBA. Gain business fundamentals, strategic thinking, and the confidence to thrive in Today�s competitive market">
     <meta name="keywords" content="BBA with retail management specialization,Retail business course online,Bachelor in retail management India
 ,UGC-approved BBA retail course,Retail sector BBA program">
     <meta property="og:title" content="Online the Bachelor Business Management Course for Future Leaders">
     <meta property="og:description"
-        content="Build your leadership journey with VGU Online BBA. Gain business fundamentals, strategic thinking, and the confidence to thrive in today�s competitive market">
+        content="Build your leadership journey with VGU Online BBA. Gain business fundamentals, strategic thinking, and the confidence to thrive in Today�s competitive market">
 
         <meta property="og:site_name" content="online vgu.com" />
 
@@ -137,7 +137,24 @@
     .courselanding .leftsection h2{
         font-size: 35px !important;
     }
-
+    .courselanding p{
+        text-align: center;
+    }
+    .courselanding h2{
+        text-align: center;
+    }
+    .courselanding h3{
+        text-align: center;
+    }
+    .courselanding h4{
+        text-align: center;
+    }
+    .courselanding .approvedimg{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 10px;
+    }
              .courselanding .approvedimg img{
         height: 50px;
         width: 50px;
@@ -402,7 +419,7 @@
     <h2 class="fables-main-text-color font-35 font-weight-bold text-center">
     🎓  Apply <span class="fables-second-text-color">Now</span>
     </h2>
-    <p class="fables-main-text-color text-center mb-4 mb-md-5 font-19">Start your journey with Online VGU today <span style="font-size:20px;">🚀</span></p>
+    <p class="fables-main-text-color text-center mb-4 mb-md-5 font-19">Start your journey with Online VGU Today <span style="font-size:20px;">🚀</span></p>
 
     <form id="leadForm" >
         <div class="row applynowform">
@@ -1380,7 +1397,7 @@
 
     <!-- Start Footer 2 Background Image  -->
     <div class="fables-footer-image fables-after-overlay white-color py-4 py-lg-5 bg-rules footerlanding"
-        style="margin-top: -150px;">
+        >
         <div class="container">
             <div class="row">
                 <div class="col-12 col-lg-3 mb-4 mb-lg-0">
@@ -1388,7 +1405,7 @@
                             src="../assets/custom/images/vgulogo.jpeg" alt="fables template" width="100px"
                             height="100px"></a>
                     <p class="font-15 fables-third-text-color">
-                        Online VGU offers a dynamic learning experience designed for today’s learners. With flexible
+                        Online VGU offers a dynamic learning experience designed for Today’s learners. With flexible
                         schedules, expert faculty, and industry-aligned courses, students can pursue their degrees
                         without compromising on quality or convenience.
                         <br><br>

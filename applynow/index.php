@@ -408,7 +408,7 @@
             <div class="col-12 col-lg-3 mb-4 mb-lg-0">
                 <a href="#" class="fables-second-border-color border-bottom pb-3 d-block mb-3 mt-minus-13"><img src="../assets/custom/images/vgulogo.jpeg" alt="fables template" width="100px" height="100px"></a>
                                 <p class="font-15 fables-third-text-color">
-                    Online VGU offers a dynamic learning experience designed for today’s learners. With flexible schedules, expert faculty, and industry-aligned courses, students can pursue their degrees without compromising on quality or convenience.
+                    Online VGU offers a dynamic learning experience designed for Today’s learners. With flexible schedules, expert faculty, and industry-aligned courses, students can pursue their degrees without compromising on quality or convenience.
                     <br><br>
                     Whether you're working full-time or seeking a career change, Online VGU empowers you to learn at your own pace—anytime, anywhere.
                 </p>

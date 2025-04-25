@@ -144,6 +144,24 @@ Online Business Marketing Degree,MBA in Digital & Strategic Marketing VGU">
     .courselanding .leftsection h2{
         font-size: 35px !important;
     }
+    .courselanding p{
+        text-align: center;
+    }
+    .courselanding h2{
+        text-align: center;
+    }
+    .courselanding h3{
+        text-align: center;
+    }
+    .courselanding h4{
+        text-align: center;
+    }
+    .courselanding .approvedimg{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 10px;
+    }
     .formlanding{
         margin-top: 30px;
         width: 290px;
@@ -386,7 +404,7 @@ Online Business Marketing Degree,MBA in Digital & Strategic Marketing VGU">
             <h3 class="pb-4" style="font-family: Vollkorn;">Vivekananda Global University</h3>
             <p style="line-height: 2;">Vivekananda Global University (VGU) offers a comprehensive Online Master of
                 Business Administration (MBA) in Marketing program, designed to equip students with advanced marketing
-                skills and strategic insights to thrive in today’s competitive business landscape. This program is ideal
+                skills and strategic insights to thrive in Today’s competitive business landscape. This program is ideal
                 for individuals seeking flexibility in their postgraduate education while earning a degree from a
                 UGC-recognized institution.</p>
             <h4 class="mt-5" style="font-family: Vollkorn;">Online VGU Approved By ✅</h4>
@@ -402,7 +420,7 @@ Online Business Marketing Degree,MBA in Digital & Strategic Marketing VGU">
     <h2 class="fables-main-text-color font-35 font-weight-bold text-center">
     🎓  Apply <span class="fables-second-text-color">Now</span>
     </h2>
-    <p class="fables-main-text-color text-center mb-4 mb-md-5 font-19">Start your journey with Online VGU today <span style="font-size:20px;">🚀</span></p>
+    <p class="fables-main-text-color text-center mb-4 mb-md-5 font-19">Start your journey with Online VGU Today <span style="font-size:20px;">🚀</span></p>
 
     <form id="leadForm" >
         <div class="row applynowform">
@@ -1379,7 +1397,7 @@ Online Business Marketing Degree,MBA in Digital & Strategic Marketing VGU">
 
     <!-- Start Footer 2 Background Image  -->
     <div class="fables-footer-image fables-after-overlay white-color py-4 py-lg-5 bg-rules footerlanding"
-        style="margin-top: -150px;">
+        >
         <div class="container">
             <div class="row">
                 <div class="col-12 col-lg-3 mb-4 mb-lg-0">
@@ -1387,7 +1405,7 @@ Online Business Marketing Degree,MBA in Digital & Strategic Marketing VGU">
                             src="../assets/custom/images/vgulogo.jpeg" alt="fables template" width="100px"
                             height="100px"></a>
                     <p class="font-15 fables-third-text-color">
-                        Online VGU offers a dynamic learning experience designed for today’s learners. With flexible
+                        Online VGU offers a dynamic learning experience designed for Today’s learners. With flexible
                         schedules, expert faculty, and industry-aligned courses, students can pursue their degrees
                         without compromising on quality or convenience.
                         <br><br>
