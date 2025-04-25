@@ -213,9 +213,6 @@
 }
 }
 @media (max-width:767px) {
-.btco-hover-menu .collapse ul ul, .btco-hover-menu .collapse ul ul.dropdown-menu {
-    background: #212529;
-}
 .btco-hover-menu a, .navbar > li > a { 
     color: #fff; 
 }

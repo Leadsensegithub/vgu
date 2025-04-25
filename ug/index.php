@@ -3,12 +3,22 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="fables">
-    <meta name="author" content="Enterprise Development">
-    <link rel="shortcut icon" href="./assets/custom/images/shortcut.png">
-
-    <title>Online VGU</title>
     
+        <!-- Favicon -->
+        <link href="../assets/custom/images/vgulogo.jpeg" rel="icon">
+        <title>Online Degree Courses at VGU – NAAC A+ Accredited University</title>
+    <meta name="title" content="Online Degree Courses at VGU – NAAC A+ Accredited University" />
+    <meta name="description"
+        content="Explore UGC-entitled online degrees from Vivekananda Global University. Flexible, affordable, industry-aligned learning, expert faculty, and global career support.">
+    <meta name="keywords"
+        content="Vivekananda Global University, VGU online degrees, NAAC A+ accredited university, UGC-recognized programs, online degree courses, flexible online education, affordable online learning, industry-aligned programs, online undergraduate courses, online postgraduate programs, BBA, BCA, MBA, distance education, career support, expert faculty, higher education, global learning, online university India, VGU programs, online education India">
+    <meta property="og:title" content="Online Degree Courses at VGU – NAAC A+ Accredited University">
+    <meta property="og:description"
+        content="Explore UGC-entitled online degrees from Vivekananda Global University. Flexible, affordable, industry-aligned learning, expert faculty, and global career support.">
+
+    
+        <meta property="og:site_name" content="online vgu.com" />
+
     <!-- animate.css-->  
     <link href="../assets/vendor/animate.css-master/animate.min.css" rel="stylesheet">
     <!-- Load Screen -->
@@ -36,13 +46,136 @@
     <!-- fables CUSTOM CSS FILE -->
     <link href="../assets/custom/css/custom.css" rel="stylesheet">
     <!-- fables CUSTOM CSS RESPONSIVE FILE -->
-    <link href="../assets/custom/css/custom-responsive.css" rel="stylesheet">
+     <link href="../assets/custom/css/custom-responsive.css" rel="stylesheet">
+       <link
+        href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400..900&family=Roboto+Slab:wght@100..900&display=swap"
+        rel="stylesheet">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400..900&family=Vollkorn:ital,wght@0,400..900;1,400..900&display=swap" rel="stylesheet">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400..900&family=Spectral:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,200;1,300;1,400;1,500;1,600;1,700;1,800&family=Vollkorn:ital,wght@0,400..900;1,400..900&display=swap" rel="stylesheet">
+      
      
 </head>
 
 
 <body>
-   
+<style>
+    @keyframes pulse {
+  0%, 100% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(1.1);
+  }
+}
+.pulse-button {
+            background-color: #7f1813;
+            color: #fff;
+            border: none;
+            border-radius: 5px;
+            animation: pulse 1.2s infinite;
+            cursor: pointer;
+        }
+        
+        
+        .headernav ul li a {
+            color: #7f1813 !important;
+            font-weight: bold !important;
+            font-family: Roboto Slab;
+            font-size: 17px !important;
+        }
+
+     
+
+       .ugcourse .custom-card {
+        background: linear-gradient(135deg, #ffffff, #f8f9fa);
+        border-radius: 15px;
+        box-shadow: 0 10px 25px rgb(247, 196, 193);
+        transition: transform 0.3s ease, box-shadow 0.3s ease;
+        height: 100%;
+    }
+
+   .ugcourse .custom-card:hover {
+        transform: translateY(-8px);
+        box-shadow: 0 15px 35px #7f1813;
+    }
+
+   .ugcourse .custom-card-body {
+        padding: 30px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+    }
+
+   .ugcourse .custom-card-title {
+        font-weight: 700;
+        color: #7f1813;
+        margin-bottom: 15px;
+        font-size: 1.5rem;
+    }
+
+   .ugcourse .custom-card-text {
+        color: #6c757d;
+        font-size: 14px;
+        margin-bottom: 20px;
+    }
+
+   .ugcourse .custom-card ul {
+        padding: 0;
+        list-style: none;
+        color: #495057;
+        margin-bottom: 20px;
+    }
+
+   .ugcourse .custom-card li {
+        margin-bottom: 8px;
+    }
+
+   .ugcourse .custom-apply-btn {
+    background-color: #7f1813;
+        color: white;
+        border: none;
+        padding: 10px 25px;
+        border-radius: 30px;
+        font-weight: bold;
+        transition: background-color 0.3s ease;
+        text-decoration: none;
+    }
+
+   .ugcourse .custom-apply-btn:hover {
+   background-color: #7f1813;
+    }
+@media only screen and (max-width: 900px){
+    .mobilenav{
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                gap: 150px;
+            }
+.mobilenav img{
+    width: 50px;
+    height: 50px;
+}
+    .aboutlanding h2{
+    font-size: 25px;
+  }  
+    .ugcourse h2{
+        font-size: 20px;
+    }
+    .ugcourse p{
+        font-size: 13px;
+    }
+    .footerlanding img{
+    display: none;
+     }
+}
+
+</style>   
 
 <div class="search-section">
     <a class="close-search" href="#"></a>
@@ -56,7 +189,7 @@
                      <button type="submit" class="btn bg-transparent text-white"> <i class="fas fa-search"></i> </button>
                 </div>
             </div>
-        </form>
+        </div>
     </div>
          
 </div>
@@ -72,156 +205,145 @@
 
 
 <!-- Start fables Navigation -->
-<div class="fables-navigation fables-main-background-color py-3 py-lg-0">
-    <div class="container">
-               <div class="row">
-                   <div class="col-12 col-md-10 col-lg-9 pr-md-0">                       
-                       <nav class="navbar navbar-expand-md btco-hover-menu py-lg-2">
-         
-                            <a class="navbar-brand pl-0" href="index.html"><img src="../assets/custom/images/vgulogo.jpeg" alt="fables Template" class="fables-logo" height="70px" width="70px"></a>
-                            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#fablesNavDropdown" aria-controls="fablesNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
-                                <span class="fables-iconmenu-icon text-white font-16"></span>
+<div class="fables-navigation" style="display:flex; align-items: center; justify-content: space-evenly; box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;">
+    <div class="">
+            <div class="row">
+                <div class="col-12 col-md-10 col-lg-9 pr-md-0">
+                    <nav class="navbar navbar-expand-md btco-hover-menu">
+                        <div class="mobilenav">
+                                                <div>
+                            <a class="navbar-brand pl-0" href="../"><img src="../assets/custom/images/vgulogo.jpeg"
+                                    alt="fables Template" class="fables-logo" height="80px" width="80px" /></a>
+                        </div>
+                        <div>
+                        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#fablesNavDropdown" aria-controls="fablesNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+                                <span class="fables-iconmenu-icon font-16" style="color: #7f1813;"></span>
                             </button>
-                            <div class="collapse navbar-collapse" id="fablesNavDropdown"> 
+                        </div>
+                        </div>
+                        
 
-                                <ul class="navbar-nav mx-auto fables-nav">   
-                                    <li class="nav-item dropdown">
-                                        <a class="nav-link dropdown-toggle" href="#" id="sub-nav1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                                            Home
-                                        </a>
-                                    </li>
 
-                                    <li class="nav-item dropdown">
-                                        <a class="nav-link dropdown-toggle" href="./about/" id="sub-nav3" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                                            About
-                                             </a>
-                                    </li>
+                        <div class="collapse navbar-collapse headernav" id="fablesNavDropdown">
 
-                                    <li class="nav-item dropdown">
-                                        <a class="nav-link dropdown-toggle" href="#" id="sub-nav2" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                                            Programme
-                                        </a>
-                                        <ul class="dropdown-menu" aria-labelledby="sub-nav2">
+                            <ul class="navbar-nav mx-auto fables-nav" style="padding:10px;">
+                                <li class="nav-item">
+                                    <a class="nav-link" href="../">Home</a>
+                                </li>
 
-                                            <li><a class="dropdown-item dropdown-toggle" href="#">UG Courses</a>
-                                                <ul class="dropdown-menu">  
-                                                    <li class="dropdown-submenu">
-                                                            <a class="dropdown-item dropdown-toggle" href="#">BBA</a>
-                                                            <ul class="dropdown-menu">
-                                                                <li><a class="dropdown-item" href="header1-transparent.html">Digital Marketing</a></li>
-                                                                <li><a class="dropdown-item" href="header1-light.html">Retail Management</a></li>
-                                                                <li><a class="dropdown-item" href="header1-dark.html">Fintech</a></li>
-                                                            </ul>
-                                                        </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" href="../about/">About</a>
+                                </li>
 
-                                                    <li><a class="dropdown-item dropdown-toggle" href="#">BCA</a>
-                                                    <ul class="dropdown-menu">
-                                                    <li><a class="dropdown-item" href="header1-transparent.html">UX</a></li>
-                                                            <li><a class="dropdown-item" href="header1-light.html">Data Science</a></li>
-                                                            <li><a class="dropdown-item" href="header1-dark.html">Blockchain Technology</a></li>
-                                                            <li><a class="dropdown-item" href="header1-dark.html">Cloud Technology & Information Security</a></li>
-                                                            <li><a class="dropdown-item" href="header1-dark.html">Artificial Intelligence</a></li>
-                                                            </ul>
-                                                    </li>
-                                                    <li><a class="dropdown-item dropdown-toggle" href="#">BA</a>
-                                                    </li>
 
-                                                </ul>
-                                            </li>
-                                            <li><a class="dropdown-item dropdown-toggle" href="#">PG Courses</a>
-                                                <ul class="dropdown-menu">  
-                                                <li><a class="dropdown-item" href="blog-cat1.html">MA</a></li>
-                                                    <li><a class="dropdown-item dropdown-toggle" href="#">MBA</a>
-                                                    <ul class="dropdown-menu">
-                                                    <li><a class="dropdown-item" href="header1-transparent.html">Human Resource</a></li>
-                                                            <li><a class="dropdown-item" href="header1-light.html">Marketing</a></li>
-                                                            <li><a class="dropdown-item" href="header1-dark.html">Finance</a></li>
-                                                            <li><a class="dropdown-item" href="header1-dark.html">Healthcare</a></li>
-                                                            <li><a class="dropdown-item" href="header1-dark.html">Agri Business</a></li>
-                                                            <li><a class="dropdown-item" href="header1-dark.html">Information Technology</a></li>
-                                                            <li><a class="dropdown-item" href="header1-dark.html">International Business</a></li>
-                                                            <li><a class="dropdown-item" href="header1-dark.html">Operations Management</a></li>
-                                                            </ul>
-                                                    </li>
-                                                    <li><a class="dropdown-item dropdown-toggle" href="#">MCA</a>
-                                                        </li>
-                                                    <li><a class="dropdown-item dropdown-toggle" href="#">M.Sc</a>
-                                                    <ul class="dropdown-menu">
-                                                    <li><a class="dropdown-item" href="header1-transparent.html">Maths</a></li>
-                                                    </ul>
-                                                        </li>
-                                                        </ul>
-                                            </li>
-                                             
-                                        </ul>
-                                    </li>
+                                <li class="nav-item dropdown">
+                                    <a class="nav-link dropdown-toggle" href="#" id="sub-nav2" data-toggle="dropdown"
+                                        aria-haspopup="true" aria-expanded="false">
+                                        Programme
+                                    </a>
+                                    <ul class="dropdown-menu" aria-labelledby="sub-nav2">
 
-                                    <li class="nav-item dropdown">
-                                        <a class="nav-link dropdown-toggle" href="#" id="sub-nav4" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                                            UG
-                                        </a>
-                                        <ul class="dropdown-menu" aria-labelledby="sub-nav4">
-                                            <li><a class="dropdown-item" href="store_grid_list.html"> </a>BA</li>
-                                            <li><a class="dropdown-item" href="store_single.html"></a>BBA
-                                            <ul class="dropdown-menu">
-                                                                <li><a class="dropdown-item" href="header1-transparent.html">Digital Marketing</a></li>
-                                                                <li><a class="dropdown-item" href="header1-light.html">Retail Management</a></li>
-                                                                <li><a class="dropdown-item" href="header1-dark.html">Fintech</a></li>
-                                                            </ul>
+                                        <li>
+                                            <a class="dropdown-item" href="../ug/">UG Courses</a>
                                         </li>
-                                            <li><a class="dropdown-item" href="store_single.html"></a>BCA
-                                            <ul class="dropdown-menu">
-                                                    <li><a class="dropdown-item" href="header1-transparent.html">UX</a></li>
-                                                            <li><a class="dropdown-item" href="header1-light.html">Data Science</a></li>
-                                                            <li><a class="dropdown-item" href="header1-dark.html">Blockchain Technology</a></li>
-                                                            <li><a class="dropdown-item" href="header1-dark.html">Cloud Technology & Information Security</a></li>
-                                                            <li><a class="dropdown-item" href="header1-dark.html">Artificial Intelligence</a></li>
-                                                            </ul>
-                                        </li> 
-                                        </ul>
-                                    </li>
-                                    <li class="nav-item dropdown">
-                                        <a class="nav-link dropdown-toggle" href="#" id="sub-nav5" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                                            PG
-                                        </a>
-                                        <ul class="dropdown-menu" aria-labelledby="sub-nav5">
-                                            <li><a class="dropdown-item" href="blog-cat1.html">MA</a></li>
-                                            <li><a class="dropdown-item" href="blog-cat2.html">MBA</a>
-                                            <ul class="dropdown-menu">
-                                                    <li><a class="dropdown-item" href="header1-transparent.html">Human Resource</a></li>
-                                                            <li><a class="dropdown-item" href="header1-light.html">Marketing</a></li>
-                                                            <li><a class="dropdown-item" href="header1-dark.html">Finance</a></li>
-                                                            <li><a class="dropdown-item" href="header1-dark.html">Healthcare</a></li>
-                                                            <li><a class="dropdown-item" href="header1-dark.html">Agri Business</a></li>
-                                                            <li><a class="dropdown-item" href="header1-dark.html">Information Technology</a></li>
-                                                            <li><a class="dropdown-item" href="header1-dark.html">International Business</a></li>
-                                                            <li><a class="dropdown-item" href="header1-dark.html">Operations Management</a></li>
-                                                            </ul>
+                                        <li>
+                                            <a class="dropdown-item" href="../pg/">PG Courses</a>
                                         </li>
-                                            <li><a class="dropdown-item" href="blog-cat3.html">MCA</a></li>
-                                            <li><a class="dropdown-item" href="blog-details1.html">M.Sc</a>
-                                            <ul class="dropdown-menu">
-                                                    <li><a class="dropdown-item" href="header1-transparent.html">Maths</a></li>
-                                                    </ul></li> 
-                                        </ul>
-                                    </li> 
-                                  
-                                    <li class="nav-item dropdown">
-                                        <a class="nav-link dropdown-toggle" href="#" id="sub-nav7" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                                            Contact Us
-                                        </a>
-                                    </li>  
-                                </ul> 
 
-                    </div>
-                </nav>
-                   </div>
-               
-               </div>
+                                    </ul>
+                                </li>
+
+                                <li class="nav-item dropdown">
+                                    <a class="nav-link dropdown-toggle" href="#" id="sub-nav4" data-toggle="dropdown"
+                                        aria-haspopup="true" aria-expanded="false">
+                                        UG
+                                    </a>
+                                    <ul class="dropdown-menu" aria-labelledby="sub-nav4">
+                                        <li>
+                                            <a class="dropdown-item" href="../ba/">BA</a>
+                                        </li>
+                                        <li class="dropdown">
+                                            <a class="dropdown-item" href="#">BBA</a>
+                                            <ul class="dropdown-menu">
+                                                <li><a class="dropdown-item" href="../bba-digital_marketing">Digital
+                                                        Marketing</a></li>
+                                                <li><a class="dropdown-item" href="../bba-retail_management">Retail
+                                                        Management</a></li>
+                                                <li><a class="dropdown-item" href="../bba-fintech">Fintech</a></li>
+                                            </ul>
+                                        </li>
+
+                                        <li class="dropdown">
+                                            <a class="dropdown-item" href="#">BCA</a>
+                                            <ul class="dropdown-menu">
+                                                <li><a class="dropdown-item" href="../bca-ux">UX</a></li>
+                                                <li><a class="dropdown-item" href="../bca-data_science">Data Science</a>
+                                                </li>
+                                                <li><a class="dropdown-item"
+                                                        href="../bca-blockchain_technology">Blockchain Technology</a>
+                                                </li>
+                                                <li><a class="dropdown-item"
+                                                        href="../bca-ctis__cloud_technology_&_information_security">Cloud
+                                                        Technology & Information Security</a></li>
+                                                <li><a class="dropdown-item"
+                                                        href="../bca-artificial_intelligence">Artificial Intelligence</a>
+                                                </li>
+                                            </ul>
+                                        </li>
+
+                                    </ul>
+                                </li>
+                                <li class="nav-item dropdown">
+                                    <a class="nav-link dropdown-toggle" href="#" id="sub-nav5" data-toggle="dropdown"
+                                        aria-haspopup="true" aria-expanded="false">
+                                        PG
+                                    </a>
+                                    <ul class="dropdown-menu" aria-labelledby="sub-nav5">
+                                        <li><a class="dropdown-item" href="../ma">MA</a></li>
+                                        <li><a class="dropdown-item">MBA</a>
+                                            <ul class="dropdown-menu">
+                                                <li><a class="dropdown-item" href="../mba-hrm">Human Resource</a></li>
+                                                <li><a class="dropdown-item" href="../mba-marketing">Marketing</a></li>
+                                                <li><a class="dropdown-item" href="../mba-finance">Finance</a></li>
+                                                <li><a class="dropdown-item" href="../mba-healthcare">Healthcare</a></li>
+                                                <li><a class="dropdown-item" href="../mba-agri_business">Agri
+                                                        Business</a></li>
+                                                <li><a class="dropdown-item"
+                                                        href="../mba-information_technology">Information Technology</a>
+                                                </li>
+                                                <li><a class="dropdown-item"
+                                                        href="../mba-international_business">International Business</a>
+                                                </li>
+                                                <li><a class="dropdown-item"
+                                                        href="../mba-operations_management">Operations Management</a>
+                                                </li>
+                                            </ul>
+                                        </li>
+                                        <li><a class="dropdown-item" href="../mca-computer_application">MCA</a></li>
+                                        <li><a class="dropdown-item">M.Sc</a>
+                                            <ul class="dropdown-menu">
+                                                <li><a class="dropdown-item" href="../msc-mathematics">Maths</a></li>
+                                            </ul>
+                                        </li>
+                                    </ul>
+                                </li>
+
+                                <li class="nav-item">
+                                    <a class="nav-link" href="../contact/">Contact</a>
+                                </li>
+                                <button class="pulse-button" style="margin-left: 100px; width: 150px; padding: 10px;"
+                                    onClick="applynow()">Apply Now</button>
+                            </ul>
+
+                        </div>
+                    </nav>
+                </div>
+
+            </div>
+        </div>
     </div>
-</div> 
 <!-- /End fables Navigation --> 
-<div class="container my-5">
+<div class="container my-5 ugcourse">
     <h2 class="text-center fables-second-text-color font-35 font-weight-bold mb-4">Explore Our <span class="fables-main-text-color">UG Courses</span><span> 🎓</span></h2>
     <p class="text-center fables-fifth-text-color mb-5 font-18">Get industry-relevant skills with flexibility, expert faculty & placement support at Online VGU.</p>
 
@@ -229,198 +351,154 @@
 
 <!-- B.A. -->
 <div class="col-md-4 mb-4">
-    <div class="card h-100 shadow-lg border-0">
-        <div class="card-body p-4" style="display: flex; align-items: center; justify-content: center; flex-direction: column; box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;">
-            <h5 class="card-title font-weight-bold mb-2 fables-main-text-color">B.A</h5>
-            <p class="card-text text-muted font-15 mb-3">
+    <div class="custom-card">
+        <div class="custom-card-body">
+            <h5 class="custom-card-title">B.A</h5>
+            <p class="custom-card-text">
                 Build a strong foundation in humanities, communication, critical thinking, and social sciences.
             </p>
-            <ul class="list-unstyled mb-3">
+            <ul>
                 <li><strong>Duration:</strong> 3 Years</li>
-                <li><strong>Eligibility:</strong> 10+2 from any stream</li>
-                <li><strong>Fees:</strong> ₹ 30,000 / year</li>
+                <li><strong>Eligibility:</strong> 45% marks in 10+2</li>
+                <li><strong>Fees:</strong> ₹ 72,000</li>
             </ul>
-            <a href="#" class="btn fables-second-background-color white-color fables-btn-rounded px-4 py-2 d-inline-block">🚀 Apply Now</a>
-        </div>
-    </div>
-</div>
-
-<!-- BBA -->
-<div class="col-md-4 mb-4">
-    <div class="card h-100 shadow-lg border-0">
-        <div class="card-body p-4" style="display: flex; align-items: center; justify-content: center; flex-direction: column; box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;">
-            <h5 class="card-title font-weight-bold mb-2 fables-main-text-color">BBA</h5>
-            <p class="card-text text-muted font-15 mb-3">
-                Learn core business concepts including management, marketing, finance, and organizational behavior.
-            </p>
-            <ul class="list-unstyled mb-3">
-                <li><strong>Duration:</strong> 3 Years</li>
-                <li><strong>Eligibility:</strong> 10+2 from any stream</li>
-                <li><strong>Fees:</strong> ₹ 40,000 / year</li>
-            </ul>
-            <a href="#" class="btn fables-second-background-color white-color fables-btn-rounded px-4 py-2 d-inline-block">🚀 Apply Now</a>
+            <a href="../ba" class="custom-apply-btn">🚀 View More</a>
         </div>
     </div>
 </div>
 
 <!-- BBA - Digital Marketing -->
 <div class="col-md-4 mb-4">
-    <div class="card h-100 shadow-lg border-0">
-        <div class="card-body p-4" style="display: flex; align-items: center; justify-content: center; flex-direction: column; box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;">
-            <h5 class="card-title font-weight-bold mb-2 fables-main-text-color">BBA - Digital Marketing</h5>
-            <p class="card-text text-muted font-15 mb-3">
-                Explore online marketing, SEO, social media, analytics, and content creation for digital business growth.
-            </p>
-            <ul class="list-unstyled mb-3">
-                <li><strong>Duration:</strong> 3 Years</li>
-                <li><strong>Eligibility:</strong> 10+2 from any stream</li>
-                <li><strong>Fees:</strong> ₹ 40,000 / year</li>
+    <div class="custom-card">
+        <div class="custom-card-body">
+            <h5 class="custom-card-title">BBA - Digital Marketing</h5>
+            <p class="custom-card-text">
+            Explore online marketing, SEO, social media, analytics, and content creation for digital business growth.            </p>
+            <ul>
+            <li><strong>Duration:</strong> 3 Years</li>
+                <li><strong>Eligibility:</strong> 45% marks in 10+2</li>
+                <li><strong>Fees:</strong> ₹ 1,32,000</li>
             </ul>
-            <a href="#" class="btn fables-second-background-color white-color fables-btn-rounded px-4 py-2 d-inline-block">🚀 Apply Now</a>
+            <a href="../bba-digital_marketing" class="btn fables-second-background-color white-color fables-btn-rounded px-4 py-2 d-inline-block">🚀 View More</a>
         </div>
     </div>
 </div>
 
 <!-- BBA - Retail Management -->
 <div class="col-md-4 mb-4">
-    <div class="card h-100 shadow-lg border-0">
-        <div class="card-body p-4" style="display: flex; align-items: center; justify-content: center; flex-direction: column; box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;">
-            <h5 class="card-title font-weight-bold mb-2 fables-main-text-color">BBA - Retail Management</h5>
-            <p class="card-text text-muted font-15 mb-3">
-                Focus on retail operations, supply chain, customer service, and merchandising strategies.
-            </p>
-            <ul class="list-unstyled mb-3">
-                <li><strong>Duration:</strong> 3 Years</li>
-                <li><strong>Eligibility:</strong> 10+2 from any stream</li>
-                <li><strong>Fees:</strong> ₹ 40,000 / year</li>
+    <div class="custom-card">
+        <div class="custom-card-body">
+            <h5 class="custom-card-title">BBA - Retail Management</h5>
+            <p class="custom-card-text">
+            Focus on retail operations, supply chain, customer service, and merchandising strategies.   </p>
+            <ul>
+            <li><strong>Duration:</strong> 3 Years</li>
+                <li><strong>Eligibility:</strong> 45% marks in 10+2</li>
+                <li><strong>Fees:</strong> ₹ 1,32,000</li>
             </ul>
-            <a href="#" class="btn fables-second-background-color white-color fables-btn-rounded px-4 py-2 d-inline-block">🚀 Apply Now</a>
+            <a href="../bba-retail_management" class="btn fables-second-background-color white-color fables-btn-rounded px-4 py-2 d-inline-block">🚀 View More</a>
         </div>
     </div>
 </div>
 
 <!-- BBA - Fintech -->
 <div class="col-md-4 mb-4">
-    <div class="card h-100 shadow-lg border-0">
-        <div class="card-body p-4" style="display: flex; align-items: center; justify-content: center; flex-direction: column; box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;">
-            <h5 class="card-title font-weight-bold mb-2 fables-main-text-color">BBA - Fintech</h5>
-            <p class="card-text text-muted font-15 mb-3">
-                Learn about digital finance, blockchain, mobile banking, and financial technologies shaping the future.
-            </p>
-            <ul class="list-unstyled mb-3">
-                <li><strong>Duration:</strong> 3 Years</li>
-                <li><strong>Eligibility:</strong> 10+2 from any stream</li>
-                <li><strong>Fees:</strong> ₹ 40,000 / year</li>
+    <div class="custom-card">
+        <div class="custom-card-body">
+            <h5 class="custom-card-title">BBA - Fintech</h5>
+            <p class="custom-card-text">
+            Learn about digital finance, blockchain, mobile banking, and financial technologies shaping the future.  </p>
+            <ul>
+            <li><strong>Duration:</strong> 3 Years</li>
+                <li><strong>Eligibility:</strong> 45% marks in 10+2</li>
+                <li><strong>Fees:</strong> ₹ 1,32,000</li>
             </ul>
-            <a href="#" class="btn fables-second-background-color white-color fables-btn-rounded px-4 py-2 d-inline-block">🚀 Apply Now</a>
-        </div>
-    </div>
-</div>
-
-<!-- BCA -->
-<div class="col-md-4 mb-4">
-    <div class="card h-100 shadow-lg border-0">
-        <div class="card-body p-4" style="display: flex; align-items: center; justify-content: center; flex-direction: column; box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;">
-            <h5 class="card-title font-weight-bold mb-2 fables-main-text-color">BCA</h5>
-            <p class="card-text text-muted font-15 mb-3">
-                Gain strong programming skills, database knowledge, and practical software development experience.
-            </p>
-            <ul class="list-unstyled mb-3">
-                <li><strong>Duration:</strong> 3 Years</li>
-                <li><strong>Eligibility:</strong> 10+2 with Mathematics or Computer Science</li>
-                <li><strong>Fees:</strong> ₹ 38,000 / year</li>
-            </ul>
-            <a href="#" class="btn fables-second-background-color white-color fables-btn-rounded px-4 py-2 d-inline-block">🚀 Apply Now</a>
+            <a href="../bba-fintech" class="btn fables-second-background-color white-color fables-btn-rounded px-4 py-2 d-inline-block">🚀 View More</a>
         </div>
     </div>
 </div>
 
 <!-- BCA - UX -->
 <div class="col-md-4 mb-4">
-    <div class="card h-100 shadow-lg border-0">
-        <div class="card-body p-4" style="display: flex; align-items: center; justify-content: center; flex-direction: column; box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;">
-            <h5 class="card-title font-weight-bold mb-2 fables-main-text-color">BCA - UX</h5>
-            <p class="card-text text-muted font-15 mb-3">
-                Explore user experience design, interface prototyping, usability testing, and front-end development.
-            </p>
-            <ul class="list-unstyled mb-3">
-                <li><strong>Duration:</strong> 3 Years</li>
-                <li><strong>Eligibility:</strong> 10+2 with Mathematics or Computer Science</li>
-                <li><strong>Fees:</strong> ₹ 38,000 / year</li>
+    <div class="custom-card">
+        <div class="custom-card-body">
+            <h5 class="custom-card-title">BCA - UX</h5>
+            <p class="custom-card-text">
+            Explore user experience design, interface prototyping, usability testing, and front-end development. </p>
+            <ul>
+            <li><strong>Duration:</strong> 3 Years</li>
+                <li><strong>Eligibility:</strong> 45% marks in 10+2</li>
+                <li><strong>Fees:</strong> ₹ 1,32,000</li>
             </ul>
-            <a href="#" class="btn fables-second-background-color white-color fables-btn-rounded px-4 py-2 d-inline-block">🚀 Apply Now</a>
+            <a href="../bca-ux" class="btn fables-second-background-color white-color fables-btn-rounded px-4 py-2 d-inline-block">🚀 View More</a>
         </div>
     </div>
 </div>
 
 <!-- BCA - Data Science -->
 <div class="col-md-4 mb-4">
-    <div class="card h-100 shadow-lg border-0">
-        <div class="card-body p-4" style="display: flex; align-items: center; justify-content: center; flex-direction: column; box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;">
-            <h5 class="card-title font-weight-bold mb-2 fables-main-text-color">BCA - Data Science</h5>
-            <p class="card-text text-muted font-15 mb-3">
-                Study data analytics, statistics, Python, and machine learning for actionable business insights.
-            </p>
-            <ul class="list-unstyled mb-3">
-                <li><strong>Duration:</strong> 3 Years</li>
-                <li><strong>Eligibility:</strong> 10+2 with Mathematics or Computer Science</li>
-                <li><strong>Fees:</strong> ₹ 38,000 / year</li>
+    <div class="custom-card">
+        <div class="custom-card-body">
+            <h5 class="custom-card-title">BCA - Data Science</h5>
+            <p class="custom-card-text">
+            Study data analytics, statistics, Python, and machine learning for actionable business insights. </p>
+            <ul>
+            <li><strong>Duration:</strong> 3 Years</li>
+                <li><strong>Eligibility:</strong> 45% marks in 10+2</li>
+                <li><strong>Fees:</strong> ₹ 1,32,000</li>
             </ul>
-            <a href="#" class="btn fables-second-background-color white-color fables-btn-rounded px-4 py-2 d-inline-block">🚀 Apply Now</a>
+            <a href="../bca-data_science" class="btn fables-second-background-color white-color fables-btn-rounded px-4 py-2 d-inline-block">🚀 View More</a>
         </div>
     </div>
 </div>
 
 <!-- BCA - Blockchain Technology -->
 <div class="col-md-4 mb-4">
-    <div class="card h-100 shadow-lg border-0">
-        <div class="card-body p-4" style="display: flex; align-items: center; justify-content: center; flex-direction: column; box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;">
-            <h5 class="card-title font-weight-bold mb-2 fables-main-text-color">BCA - Blockchain Technology</h5>
-            <p class="card-text text-muted font-15 mb-3">
-                Understand blockchain principles, cryptocurrency, smart contracts, and decentralized applications.
-            </p>
-            <ul class="list-unstyled mb-3">
-                <li><strong>Duration:</strong> 3 Years</li>
-                <li><strong>Eligibility:</strong> 10+2 with Mathematics or Computer Science</li>
-                <li><strong>Fees:</strong> ₹ 38,000 / year</li>
+    <div class="custom-card">
+        <div class="custom-card-body">
+            <h5 class="custom-card-title">BCA - Blockchain Technology</h5>
+            <p class="custom-card-text">
+            Understand blockchain principles, cryptocurrency, smart contracts, and decentralized applications.</p>
+            <ul>
+            <li><strong>Duration:</strong> 3 Years</li>
+                <li><strong>Eligibility:</strong> 45% marks in 10+2</li>
+                <li><strong>Fees:</strong> ₹ 1,32,000</li>
             </ul>
-            <a href="#" class="btn fables-second-background-color white-color fables-btn-rounded px-4 py-2 d-inline-block">🚀 Apply Now</a>
+            <a href="../bca-blockchain_technology" class="btn fables-second-background-color white-color fables-btn-rounded px-4 py-2 d-inline-block">🚀 View More</a>
         </div>
     </div>
 </div>
 
 <!-- BCA - Cloud Technology & Info Security -->
 <div class="col-md-4 mb-4">
-    <div class="card h-100 shadow-lg border-0">
-        <div class="card-body p-4" style="display: flex; align-items: center; justify-content: center; flex-direction: column; box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;">
-            <h5 class="card-title font-weight-bold mb-2 fables-main-text-color">BCA - Cloud Technology & Information Security</h5>
-            <p class="card-text text-muted font-15 mb-3">
-                Learn cloud computing, cybersecurity, virtual infrastructure, and secure system design.
-            </p>
-            <ul class="list-unstyled mb-3">
-                <li><strong>Duration:</strong> 3 Years</li>
-                <li><strong>Eligibility:</strong> 10+2 with Mathematics or Computer Science</li>
-                <li><strong>Fees:</strong> ₹ 38,000 / year</li>
+    <div class="custom-card">
+        <div class="custom-card-body">
+            <h5 class="custom-card-title">BCA - Cloud Technology & Information Security</h5>
+            <p class="custom-card-text">
+            Learn cloud computing, cybersecurity, virtual infrastructure, and secure system design.</p>
+            <ul>
+            <li><strong>Duration:</strong> 3 Years</li>
+                <li><strong>Eligibility:</strong> 45% marks in 10+2</li>
+                <li><strong>Fees:</strong> ₹ 1,32,000</li>
             </ul>
-            <a href="#" class="btn fables-second-background-color white-color fables-btn-rounded px-4 py-2 d-inline-block">🚀 Apply Now</a>
+            <a href="../bca-ctis__cloud_technology_&_information_security" class="btn fables-second-background-color white-color fables-btn-rounded px-4 py-2 d-inline-block">🚀 View More</a>
         </div>
     </div>
 </div>
 
 <!-- BCA - Artificial Intelligence -->
 <div class="col-md-4 mb-4">
-    <div class="card h-100 shadow-lg border-0">
-        <div class="card-body p-4" style="display: flex; align-items: center; justify-content: center; flex-direction: column; box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;">
-            <h5 class="card-title font-weight-bold mb-2 fables-main-text-color">BCA - Artificial Intelligence</h5>
-            <p class="card-text text-muted font-15 mb-3">
-                Dive into AI, machine learning algorithms, neural networks, and real-world automation projects.
-            </p>
-            <ul class="list-unstyled mb-3">
-                <li><strong>Duration:</strong> 3 Years</li>
-                <li><strong>Eligibility:</strong> 10+2 with Mathematics or Computer Science</li>
-                <li><strong>Fees:</strong> ₹ 38,000 / year</li>
+    <div class="custom-card">
+        <div class="custom-card-body">
+            <h5 class="custom-card-title">BCA - Artificial Intelligence</h5>
+            <p class="custom-card-text">
+            Dive into AI, machine learning algorithms, neural networks, and real-world automation projects.</p>
+            <ul>
+            <li><strong>Duration:</strong> 3 Years</li>
+                <li><strong>Eligibility:</strong> 45% marks in 10+2</li>
+                <li><strong>Fees:</strong> ₹ 1,32,000</li>
             </ul>
-            <a href="#" class="btn fables-second-background-color white-color fables-btn-rounded px-4 py-2 d-inline-block">🚀 Apply Now</a>
+            <a href="../bca-artificial_intelligence" class="btn fables-second-background-color white-color fables-btn-rounded px-4 py-2 d-inline-block">🚀 View More</a>
         </div>
     </div>
 </div>
@@ -431,7 +509,7 @@
 
      
 <!-- Start page content --> 
-<div class="container mt-5">
+<div class="container mt-5 aboutlanding">
        
        <h2 class="font-35 font-weight-bold text-center fables-second-text-color">About Online VGU</h2> 
        
@@ -480,7 +558,7 @@
                        <p class="white-color font-14 together-details my-3">
                            Discover the future of learning with Online VGU. Whether you're starting your journey or advancing your career, our digital campus provides the tools, knowledge, and flexibility to help you succeed.
                        </p>  
-                       <a href="#" class="btn fables-second-background-color white-color white-color-hover fables-btn-rounded py-2 px-5 my-0 my-md-4">Explore Programs</a> 
+                       <a href="../explore" class="btn fables-second-background-color white-color white-color-hover fables-btn-rounded py-2 px-5 my-0 my-md-4">Explore Programs</a> 
                    </div>
                </div>
            </div>
@@ -529,7 +607,7 @@
 <!-- /End page content -->
     
 <!-- Start Footer 2 Background Image  -->
-<div class="fables-footer-image fables-after-overlay white-color py-4 py-lg-5 bg-rules" style="margin-top: -150px;">
+<div class="fables-footer-image fables-after-overlay white-color py-4 py-lg-5 bg-rules footerlanding" style="margin-top: -150px;">
     <div class="container">
         <div class="row">
             <div class="col-12 col-lg-3 mb-4 mb-lg-0">
@@ -543,51 +621,36 @@
                 
             </div>
              
+            
             <div class="col-12 col-sm-6 col-lg-3">
-                <h2 class="font-20 semi-font fables-second-border-color border-bottom pb-3">Contact us</h2>
-             
-                <div class="my-3">
-                    <h4 class="font-16 semi-font"><span class="fables-iconphone fables-second-text-color pr-2 font-20 mt-1 d-inline-block"></span> Call Now </h4>
-                    <p class="font-14 fables-fifth-text-color mt-2 ml-4">+333 111 111 000</p>
+                    <h2 class="font-20 semi-font fables-second-border-color border-bottom pb-3 mb-3">Quick Links</h2>
+                    <ul class="nav fables-footer-links">
+                        <li><a href="../ba">BA</a></li>
+                        <li><a href="../bba-digital_marketing">BBA - Digital Marketing</a></li>
+                        <li><a href="../bba-retail_management">BBA - Retail Management</a></li>
+                        <li><a href="../bba-fintech">BBA - Fintech</a></li>
+                        <li><a href="../bca-ux">BCA - UX</a></li>
+                        <li><a href="../bca-data_science">BCA - Data Science</a></li>
+                        <li><a href="../bca-blockchain_technology">BCA - Blockchain Technology</a></li>
+                        <li><a href="../bca-ctis__cloud_technology_&_information_security">BCA - Cloud Technology & Information Security</a></li>
+                        <li><a href="../bca-artificial_intelligence">BCA - Artificial Intelligence</a></li>
+                    </ul>
                 </div>
-                <div class="my-3">
-                    <h4 class="font-16 semi-font"><span class="fables-iconemail fables-second-text-color pr-2 font-20 mt-1 d-inline-block"></span> Mail </h4>
-                    <p class="font-14 fables-fifth-text-color mt-2 ml-4">adminsupport@website.com</p>
+                <div class="col-12 col-sm-6 col-lg-3 mt-5">
+                    <ul class="nav fables-footer-links">
+                        <li><a href="../ma">MA</a></li>
+                        <li><a href="../mba-hrm">MBA - Human Resource</a></li>
+                        <li><a href="../mba-marketing">MBA - Marketing</a></li>
+                        <li><a href="../mba-finance">MBA - Finance</a></li>
+                        <li><a href="../mba-healthcare">MBA - Healthcare</a></li>
+                        <li><a href="../mba-agri_business">MBA - Agri Business</a></li>
+                        <li><a href="../mba-information_technology">MBA - Information Technology</a></li>
+                        <li><a href="../mba-international_business">MBA - International Business</a></li>
+                        <li><a href="../mba-operations_management">MBA - Operations Management</a></li>
+                        <li><a href="../mca-computer_application">MCA</a></li>
+                        <li><a href="../msc-mathematics">M.Sc - Maths</a></li>
+                    </ul>
                 </div>
-            </div>
-            <div class="col-12 col-sm-6 col-lg-3">
-                <h2 class="font-20 semi-font fables-second-border-color border-bottom pb-3 mb-3">Quick Links</h2>
-                <ul class="nav fables-footer-links">
-                    <li><a href="about1.html">BA</a></li>
-                    <li><a href="contactus1.html">BBA</a></li>
-                    <li><a href="contactus1.html">BBA - Digital Marketing</a></li>
-                    <li><a href="contactus1.html">BBA - Retail Management</a></li>
-                    <li><a href="contactus1.html">BBA - Fintech</a></li>
-                    <li><a href="gallery.html">BCA</a></li>
-                    <li><a href="gallery.html">BCA - UX</a></li>
-                    <li><a href="gallery.html">BCA - Data Science</a></li>
-                    <li><a href="gallery.html">BCA - Blockchain Technology</a></li>
-                    <li><a href="gallery.html">BCA - Cloud Technology & Information Security</a></li>
-                    <li><a href="gallery.html">BCA - Artificial Intelligence</a></li>
-                </ul>
-            </div>
-            <div class="col-12 col-sm-6 col-lg-3 mt-5">
-                <ul class="nav fables-footer-links">
-                    <li><a href="team.html">MA</a></li>
-                    <li><a href="blog.html">MBA</a></li>
-                    <li><a href="blog.html">MBA - Human Resource</a></li>
-                    <li><a href="blog.html">MBA - Marketing</a></li>
-                    <li><a href="blog.html">MBA - Finance</a></li>
-                    <li><a href="blog.html">MBA - Healthcare</a></li>
-                    <li><a href="blog.html">MBA - Agri Business</a></li>
-                    <li><a href="blog.html">MBA - Information Technology</a></li>
-                    <li><a href="blog.html">MBA - International Business</a></li>
-                    <li><a href="blog.html">MBA - Operations Management</a></li>
-                    <li><a href="testimonials.html">MCA</a></li>
-                    <li><a href="testimonials.html">M.Sc</a></li>
-                    <li><a href="testimonials.html">M.Sc -  Maths</a></li>
-                </ul>
-            </div>
                       
         </div> 
         
@@ -602,7 +665,7 @@
             <li><a href="#" target="_blank"><i class="fab fa-twitter-square"></i></a></li>
             <li><a href="#" target="_blank"><i class="fab fa-linkedin"></i></a></li>
         </ul>
-        <p class="mb-0">Copyright © fables 2018. All rights reserved.</p> 
+        <p class="mb-0">iop.onlinevgu.com All rights reserved.</p> 
 
 </div>
     
@@ -625,6 +688,20 @@
      $(".player").mb_YTPlayer();
     
 </script>
+
+<script>
+    function applynow() {
+           window.location.href = '../applynow'
+    }
+</script>
     
+<script>
+     const input = document.querySelector("#phone");
+    const iti = intlTelInput(input, {
+      initialCountry: "in",  // Default country code is India
+      separateDialCode: true,  // Shows the country code next to the number
+      nationalMode: false,  // Enforces full international format
+    });
+</script>
 </body>
 </html>

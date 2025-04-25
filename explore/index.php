@@ -58,7 +58,8 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400..900&family=Spectral:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,200;1,300;1,400;1,500;1,600;1,700;1,800&family=Vollkorn:ital,wght@0,400..900;1,400..900&display=swap" rel="stylesheet">
-      
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/intl-tel-input/17.0.8/css/intlTelInput.min.css">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/intl-tel-input/17.0.8/js/intlTelInput.min.js"></script>
      
 </head>
 
@@ -89,8 +90,6 @@
             font-family: Roboto Slab;
             font-size: 17px !important;
         }
-
-     
 
         .ugcourse .custom-card {
         background: linear-gradient(135deg, #ffffff, #f8f9fa);
@@ -151,17 +150,8 @@
    .ugcourse .custom-apply-btn:hover {
    background-color: #7f1813;
     }
+
 @media only screen and (max-width: 900px){
-    .mobilenav{
-                display: flex;
-                align-items: center;
-                justify-content: center;
-                gap: 150px;
-            }
-.mobilenav img{
-    width: 50px;
-    height: 50px;
-}
     .aboutlanding h2{
     font-size: 25px;
   }  
@@ -174,7 +164,18 @@
     .footerlanding img{
     display: none;
      }
+     .mobilenav{
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                gap: 150px;
+            }
+                .mobilenav img{
+                    width: 50px;
+                    height: 50px;
+                }
 }
+
 </style>   
 
 <div class="search-section">
@@ -204,7 +205,6 @@
     
 
 
-<!-- Start fables Navigation -->
 <div class="fables-navigation" style="display:flex; align-items: center; justify-content: space-evenly;box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;">
     <div class="">
             <div class="row">
@@ -342,15 +342,168 @@
             </div>
         </div>
     </div>
-
 <!-- /End fables Navigation --> 
 <div class="container my-5 ugcourse">
-    <h2 class="text-center fables-second-text-color font-35 font-weight-bold mb-4">Explore Our <span class="fables-main-text-color">PG Courses</span><span> 🎓</span></h2>
+    <h2 class="text-center fables-second-text-color font-35 font-weight-bold mb-4">Explore Our <span class="fables-main-text-color">All Courses</span><span> 🎓</span></h2>
     <p class="text-center fables-fifth-text-color mb-5 font-18">Get industry-relevant skills with flexibility, expert faculty & placement support at Online VGU.</p>
 
-    <div class="row mt-5">
+    <div class="row">
 
-    <div class="col-md-4 mb-4">
+<!-- B.A. -->
+<div class="col-md-4 mb-4">
+    <div class="custom-card">
+        <div class="custom-card-body">
+            <h5 class="custom-card-title">B.A</h5>
+            <p class="custom-card-text">
+                Build a strong foundation in humanities, communication, critical thinking, and social sciences.
+            </p>
+            <ul>
+                <li><strong>Duration:</strong> 3 Years</li>
+                <li><strong>Eligibility:</strong> 45% marks in 10+2</li>
+                <li><strong>Fees:</strong> ₹ 72,000</li>
+            </ul>
+            <a href="../ba" class="custom-apply-btn">🚀 View More</a>
+        </div>
+    </div>
+</div>
+
+<!-- BBA - Digital Marketing -->
+<div class="col-md-4 mb-4">
+    <div class="custom-card">
+        <div class="custom-card-body">
+            <h5 class="custom-card-title">BBA - Digital Marketing</h5>
+            <p class="custom-card-text">
+            Explore online marketing, SEO, social media, analytics, and content creation for digital business growth.            </p>
+            <ul>
+            <li><strong>Duration:</strong> 3 Years</li>
+                <li><strong>Eligibility:</strong> 45% marks in 10+2</li>
+                <li><strong>Fees:</strong> ₹ 1,32,000</li>
+            </ul>
+            <a href="../bba-digital_marketing" class="btn fables-second-background-color white-color fables-btn-rounded px-4 py-2 d-inline-block">🚀 View More</a>
+        </div>
+    </div>
+</div>
+
+<!-- BBA - Retail Management -->
+<div class="col-md-4 mb-4">
+    <div class="custom-card">
+        <div class="custom-card-body">
+            <h5 class="custom-card-title">BBA - Retail Management</h5>
+            <p class="custom-card-text">
+            Focus on retail operations, supply chain, customer service, and merchandising strategies.   </p>
+            <ul>
+            <li><strong>Duration:</strong> 3 Years</li>
+                <li><strong>Eligibility:</strong> 45% marks in 10+2</li>
+                <li><strong>Fees:</strong> ₹ 1,32,000</li>
+            </ul>
+            <a href="../bba-retail_management" class="btn fables-second-background-color white-color fables-btn-rounded px-4 py-2 d-inline-block">🚀 View More</a>
+        </div>
+    </div>
+</div>
+
+<!-- BBA - Fintech -->
+<div class="col-md-4 mb-4">
+    <div class="custom-card">
+        <div class="custom-card-body">
+            <h5 class="custom-card-title">BBA - Fintech</h5>
+            <p class="custom-card-text">
+            Learn about digital finance, blockchain, mobile banking, and financial technologies shaping the future.  </p>
+            <ul>
+            <li><strong>Duration:</strong> 3 Years</li>
+                <li><strong>Eligibility:</strong> 45% marks in 10+2</li>
+                <li><strong>Fees:</strong> ₹ 1,32,000</li>
+            </ul>
+            <a href="../bba-fintech" class="btn fables-second-background-color white-color fables-btn-rounded px-4 py-2 d-inline-block">🚀 View More</a>
+        </div>
+    </div>
+</div>
+
+<!-- BCA - UX -->
+<div class="col-md-4 mb-4">
+    <div class="custom-card">
+        <div class="custom-card-body">
+            <h5 class="custom-card-title">BCA - UX</h5>
+            <p class="custom-card-text">
+            Explore user experience design, interface prototyping, usability testing, and front-end development. </p>
+            <ul>
+            <li><strong>Duration:</strong> 3 Years</li>
+                <li><strong>Eligibility:</strong> 45% marks in 10+2</li>
+                <li><strong>Fees:</strong> ₹ 1,32,000</li>
+            </ul>
+            <a href="../bca-ux" class="btn fables-second-background-color white-color fables-btn-rounded px-4 py-2 d-inline-block">🚀 View More</a>
+        </div>
+    </div>
+</div>
+
+<!-- BCA - Data Science -->
+<div class="col-md-4 mb-4">
+    <div class="custom-card">
+        <div class="custom-card-body">
+            <h5 class="custom-card-title">BCA - Data Science</h5>
+            <p class="custom-card-text">
+            Study data analytics, statistics, Python, and machine learning for actionable business insights. </p>
+            <ul>
+            <li><strong>Duration:</strong> 3 Years</li>
+                <li><strong>Eligibility:</strong> 45% marks in 10+2</li>
+                <li><strong>Fees:</strong> ₹ 1,32,000</li>
+            </ul>
+            <a href="../bca-data_science" class="btn fables-second-background-color white-color fables-btn-rounded px-4 py-2 d-inline-block">🚀 View More</a>
+        </div>
+    </div>
+</div>
+
+<!-- BCA - Blockchain Technology -->
+<div class="col-md-4 mb-4">
+    <div class="custom-card">
+        <div class="custom-card-body">
+            <h5 class="custom-card-title">BCA - Blockchain Technology</h5>
+            <p class="custom-card-text">
+            Understand blockchain principles, cryptocurrency, smart contracts, and decentralized applications.</p>
+            <ul>
+            <li><strong>Duration:</strong> 3 Years</li>
+                <li><strong>Eligibility:</strong> 45% marks in 10+2</li>
+                <li><strong>Fees:</strong> ₹ 1,32,000</li>
+            </ul>
+            <a href="../bca-blockchain_technology" class="btn fables-second-background-color white-color fables-btn-rounded px-4 py-2 d-inline-block">🚀 View More</a>
+        </div>
+    </div>
+</div>
+
+<!-- BCA - Cloud Technology & Info Security -->
+<div class="col-md-4 mb-4">
+    <div class="custom-card">
+        <div class="custom-card-body">
+            <h5 class="custom-card-title">BCA - Cloud Technology & Information Security</h5>
+            <p class="custom-card-text">
+            Learn cloud computing, cybersecurity, virtual infrastructure, and secure system design.</p>
+            <ul>
+            <li><strong>Duration:</strong> 3 Years</li>
+                <li><strong>Eligibility:</strong> 45% marks in 10+2</li>
+                <li><strong>Fees:</strong> ₹ 1,32,000</li>
+            </ul>
+            <a href="../bca-ctis__cloud_technology_&_information_security" class="btn fables-second-background-color white-color fables-btn-rounded px-4 py-2 d-inline-block">🚀 View More</a>
+        </div>
+    </div>
+</div>
+
+<!-- BCA - Artificial Intelligence -->
+<div class="col-md-4 mb-4">
+    <div class="custom-card">
+        <div class="custom-card-body">
+            <h5 class="custom-card-title">BCA - Artificial Intelligence</h5>
+            <p class="custom-card-text">
+            Dive into AI, machine learning algorithms, neural networks, and real-world automation projects.</p>
+            <ul>
+            <li><strong>Duration:</strong> 3 Years</li>
+                <li><strong>Eligibility:</strong> 45% marks in 10+2</li>
+                <li><strong>Fees:</strong> ₹ 1,32,000</li>
+            </ul>
+            <a href="../bca-artificial_intelligence" class="btn fables-second-background-color white-color fables-btn-rounded px-4 py-2 d-inline-block">🚀 View More</a>
+        </div>
+    </div>
+</div>
+
+<div class="col-md-4 mb-4">
     <div class="custom-card">
         <div class="custom-card-body">
             <h5 class="custom-card-title">MA</h5>
@@ -525,9 +678,7 @@
         </div>
     </div>
 </div>
-
 </div>
-
 
 </div>
 
@@ -618,7 +769,10 @@
         </div>  
     </div>
 </div>
-</div>
+
+
+               
+            </div>
        </div>
        
        
@@ -643,7 +797,7 @@
             </div>
              
             
-            <div class="col-12 col-sm-6 col-lg-3">
+           <div class="col-12 col-sm-6 col-lg-3">
                     <h2 class="font-20 semi-font fables-second-border-color border-bottom pb-3 mb-3">Quick Links</h2>
                     <ul class="nav fables-footer-links">
                         <li><a href="../ba">BA</a></li>

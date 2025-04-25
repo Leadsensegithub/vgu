@@ -3,12 +3,23 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="fables">
-    <meta name="author" content="Enterprise Development">
-    <link rel="shortcut icon" href="./assets/custom/images/shortcut.png">
-
-    <title>Online VGU</title>
     
+      <!-- Favicon -->
+      <link href="../assets/custom/images/vgulogo.jpeg" rel="icon">
+ 
+    <title>About Us VGU | NAAC A+, AICTE, UGC, and DEB approved university</title>
+    <meta name="title" content="About Us VGU | NAAC A+, AICTE, UGC, and DEB approved university" />
+    <meta name="description"
+        content="VGU Online, Your Gateway to Quality Education, may help you achieve excellence. Discover new programs and improve your educational endeavors for a brighter tomorrow.">
+    <meta name="keywords"
+        content="Vivekananda Global University, VGU online degrees, NAAC A+ accredited university, UGC-recognized programs, online degree courses, flexible online education, affordable online learning, industry-aligned programs, online undergraduate courses, online postgraduate programs, BBA, BCA, MBA, distance education, career support, expert faculty, higher education, global learning, online university India, VGU programs, online education India">
+    <meta property="og:title" content="About Us VGU | NAAC A+, AICTE, UGC, and DEB approved university">
+    <meta property="og:description"
+        content="VGU Online, Your Gateway to Quality Education, may help you achieve excellence. Discover new programs and improve your educational endeavors for a brighter tomorrow.">
+
+    
+        <meta property="og:site_name" content="online vgu.com" />
+
     <!-- animate.css-->  
     <link href="../assets/vendor/animate.css-master/animate.min.css" rel="stylesheet">
     <!-- Load Screen -->
@@ -36,13 +47,113 @@
     <!-- fables CUSTOM CSS FILE -->
     <link href="../assets/custom/css/custom.css" rel="stylesheet">
     <!-- fables CUSTOM CSS RESPONSIVE FILE -->
-    <link href="../assets/custom/css/custom-responsive.css" rel="stylesheet">
+     <link href="../assets/custom/css/custom-responsive.css" rel="stylesheet">
+       <link
+        href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400..900&family=Roboto+Slab:wght@100..900&display=swap"
+        rel="stylesheet">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400..900&family=Vollkorn:ital,wght@0,400..900;1,400..900&display=swap" rel="stylesheet">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400..900&family=Spectral:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,200;1,300;1,400;1,500;1,600;1,700;1,800&family=Vollkorn:ital,wght@0,400..900;1,400..900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/intl-tel-input/17.0.8/css/intlTelInput.min.css">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/intl-tel-input/17.0.8/js/intlTelInput.min.js"></script>
      
 </head>
 
 
 <body>
-   
+   <style>
+        .iti{
+            width: 100% !important;
+        }
+    @keyframes pulse {
+  0%, 100% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(1.1);
+  }
+}
+.pulse-button {
+            background-color: #7f1813;
+            color: #fff;
+            border: none;
+            border-radius: 5px;
+            animation: pulse 1.2s infinite;
+            cursor: pointer;
+        }
+        
+        
+        .headernav ul li a {
+            color: #7f1813 !important;
+            font-weight: bold !important;
+            font-family: Roboto Slab;
+            font-size: 17px !important;
+        }
+
+     
+
+.applynowform{
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+.applynowform form {
+    padding: 20px;
+}
+.applynowform label{
+    color: #7f1813;
+    font-weight: bold;
+}
+@media only screen and (max-width: 900px){
+  .aboutlanding h2{
+    font-size: 25px;
+  }  
+  .formlanding h2{
+        font-size: 20px;
+    }
+    .mobilenav{
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                gap: 150px;
+            }
+.mobilenav img{
+    width: 50px;
+    height: 50px;
+}
+    .formlanding h2 span{
+        font-size: 15px;
+    }
+    .formlanding .applynowform{
+        width: 280px;
+    }
+    .formlanding .applynowform label{
+        font-size: 12px;
+    }
+    .formlanding .applynowform input::placeholder{
+        font-size: 10px;
+    }
+    .formlanding .applynowform input{
+        height: 25px;
+    }
+    .formlanding .applynowform select{
+        height: 30px !important;
+        font-size: 10px;
+    }
+     .formlanding .applynowform textarea::placeholder{
+        font-size: 10px;
+     }
+     .footerlanding p{
+        padding-top: 150px;
+     }
+     .footerlanding img{
+    display: none;
+     }
+}
+
+   </style>
 
 <div class="search-section">
     <a class="close-search" href="#"></a>
@@ -56,7 +167,7 @@
                      <button type="submit" class="btn bg-transparent text-white"> <i class="fas fa-search"></i> </button>
                 </div>
             </div>
-        </form>
+        </div>
     </div>
          
 </div>
@@ -72,159 +183,148 @@
 
 
 <!-- Start fables Navigation -->
-<div class="fables-navigation fables-main-background-color py-3 py-lg-0">
-    <div class="container">
-               <div class="row">
-                   <div class="col-12 col-md-10 col-lg-9 pr-md-0">                       
-                       <nav class="navbar navbar-expand-md btco-hover-menu py-lg-2">
-         
-                            <a class="navbar-brand pl-0" href="index.html"><img src="../assets/custom/images/vgulogo.jpeg" alt="fables Template" class="fables-logo" height="70px" width="70px"></a>
-                            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#fablesNavDropdown" aria-controls="fablesNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
-                                <span class="fables-iconmenu-icon text-white font-16"></span>
+<div class="fables-navigation" style="display:flex; align-items: center; justify-content: space-evenly;box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;">
+    <div class="">
+            <div class="row">
+                <div class="col-12 col-md-10 col-lg-9 pr-md-0">
+                    <nav class="navbar navbar-expand-md btco-hover-menu">
+                        <div class="mobilenav">
+                                                <div>
+                            <a class="navbar-brand pl-0" href="../"><img src="../assets/custom/images/vgulogo.jpeg"
+                                    alt="fables Template" class="fables-logo" height="80px" width="80px" /></a>
+                        </div>
+                        <div>
+                        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#fablesNavDropdown" aria-controls="fablesNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+                                <span class="fables-iconmenu-icon font-16" style="color: #7f1813;"></span>
                             </button>
-                            <div class="collapse navbar-collapse" id="fablesNavDropdown"> 
+                        </div>
+                        </div>
+                        
 
-                                <ul class="navbar-nav mx-auto fables-nav">   
-                                    <li class="nav-item dropdown">
-                                        <a class="nav-link dropdown-toggle" href="#" id="sub-nav1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                                            Home
-                                        </a>
-                                    </li>
 
-                                    <li class="nav-item dropdown">
-                                        <a class="nav-link dropdown-toggle" href="./about/" id="sub-nav3" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                                            About
-                                             </a>
-                                    </li>
+                        <div class="collapse navbar-collapse headernav" id="fablesNavDropdown">
 
-                                    <li class="nav-item dropdown">
-                                        <a class="nav-link dropdown-toggle" href="#" id="sub-nav2" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                                            Programme
-                                        </a>
-                                        <ul class="dropdown-menu" aria-labelledby="sub-nav2">
+                            <ul class="navbar-nav mx-auto fables-nav" style="padding:10px;">
+                                <li class="nav-item">
+                                    <a class="nav-link" href="../">Home</a>
+                                </li>
 
-                                            <li><a class="dropdown-item dropdown-toggle" href="#">UG Courses</a>
-                                                <ul class="dropdown-menu">  
-                                                    <li class="dropdown-submenu">
-                                                            <a class="dropdown-item dropdown-toggle" href="#">BBA</a>
-                                                            <ul class="dropdown-menu">
-                                                                <li><a class="dropdown-item" href="header1-transparent.html">Digital Marketing</a></li>
-                                                                <li><a class="dropdown-item" href="header1-light.html">Retail Management</a></li>
-                                                                <li><a class="dropdown-item" href="header1-dark.html">Fintech</a></li>
-                                                            </ul>
-                                                        </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" href="../about/">About</a>
+                                </li>
 
-                                                    <li><a class="dropdown-item dropdown-toggle" href="#">BCA</a>
-                                                    <ul class="dropdown-menu">
-                                                    <li><a class="dropdown-item" href="header1-transparent.html">UX</a></li>
-                                                            <li><a class="dropdown-item" href="header1-light.html">Data Science</a></li>
-                                                            <li><a class="dropdown-item" href="header1-dark.html">Blockchain Technology</a></li>
-                                                            <li><a class="dropdown-item" href="header1-dark.html">Cloud Technology & Information Security</a></li>
-                                                            <li><a class="dropdown-item" href="header1-dark.html">Artificial Intelligence</a></li>
-                                                            </ul>
-                                                    </li>
-                                                    <li><a class="dropdown-item dropdown-toggle" href="#">BA</a>
-                                                    </li>
 
-                                                </ul>
-                                            </li>
-                                            <li><a class="dropdown-item dropdown-toggle" href="#">PG Courses</a>
-                                                <ul class="dropdown-menu">  
-                                                <li><a class="dropdown-item" href="blog-cat1.html">MA</a></li>
-                                                    <li><a class="dropdown-item dropdown-toggle" href="#">MBA</a>
-                                                    <ul class="dropdown-menu">
-                                                    <li><a class="dropdown-item" href="header1-transparent.html">Human Resource</a></li>
-                                                            <li><a class="dropdown-item" href="header1-light.html">Marketing</a></li>
-                                                            <li><a class="dropdown-item" href="header1-dark.html">Finance</a></li>
-                                                            <li><a class="dropdown-item" href="header1-dark.html">Healthcare</a></li>
-                                                            <li><a class="dropdown-item" href="header1-dark.html">Agri Business</a></li>
-                                                            <li><a class="dropdown-item" href="header1-dark.html">Information Technology</a></li>
-                                                            <li><a class="dropdown-item" href="header1-dark.html">International Business</a></li>
-                                                            <li><a class="dropdown-item" href="header1-dark.html">Operations Management</a></li>
-                                                            </ul>
-                                                    </li>
-                                                    <li><a class="dropdown-item dropdown-toggle" href="#">MCA</a>
-                                                        </li>
-                                                    <li><a class="dropdown-item dropdown-toggle" href="#">M.Sc</a>
-                                                    <ul class="dropdown-menu">
-                                                    <li><a class="dropdown-item" href="header1-transparent.html">Maths</a></li>
-                                                    </ul>
-                                                        </li>
-                                                        </ul>
-                                            </li>
-                                             
-                                        </ul>
-                                    </li>
+                                <li class="nav-item dropdown">
+                                    <a class="nav-link dropdown-toggle" href="#" id="sub-nav2" data-toggle="dropdown"
+                                        aria-haspopup="true" aria-expanded="false">
+                                        Programme
+                                    </a>
+                                    <ul class="dropdown-menu" aria-labelledby="sub-nav2">
 
-                                    <li class="nav-item dropdown">
-                                        <a class="nav-link dropdown-toggle" href="#" id="sub-nav4" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                                            UG
-                                        </a>
-                                        <ul class="dropdown-menu" aria-labelledby="sub-nav4">
-                                            <li><a class="dropdown-item" href="store_grid_list.html"> </a>BA</li>
-                                            <li><a class="dropdown-item" href="store_single.html"></a>BBA
-                                            <ul class="dropdown-menu">
-                                                                <li><a class="dropdown-item" href="header1-transparent.html">Digital Marketing</a></li>
-                                                                <li><a class="dropdown-item" href="header1-light.html">Retail Management</a></li>
-                                                                <li><a class="dropdown-item" href="header1-dark.html">Fintech</a></li>
-                                                            </ul>
+                                        <li>
+                                            <a class="dropdown-item" href="../ug/">UG Courses</a>
                                         </li>
-                                            <li><a class="dropdown-item" href="store_single.html"></a>BCA
-                                            <ul class="dropdown-menu">
-                                                    <li><a class="dropdown-item" href="header1-transparent.html">UX</a></li>
-                                                            <li><a class="dropdown-item" href="header1-light.html">Data Science</a></li>
-                                                            <li><a class="dropdown-item" href="header1-dark.html">Blockchain Technology</a></li>
-                                                            <li><a class="dropdown-item" href="header1-dark.html">Cloud Technology & Information Security</a></li>
-                                                            <li><a class="dropdown-item" href="header1-dark.html">Artificial Intelligence</a></li>
-                                                            </ul>
-                                        </li> 
-                                        </ul>
-                                    </li>
-                                    <li class="nav-item dropdown">
-                                        <a class="nav-link dropdown-toggle" href="#" id="sub-nav5" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                                            PG
-                                        </a>
-                                        <ul class="dropdown-menu" aria-labelledby="sub-nav5">
-                                            <li><a class="dropdown-item" href="blog-cat1.html">MA</a></li>
-                                            <li><a class="dropdown-item" href="blog-cat2.html">MBA</a>
-                                            <ul class="dropdown-menu">
-                                                    <li><a class="dropdown-item" href="header1-transparent.html">Human Resource</a></li>
-                                                            <li><a class="dropdown-item" href="header1-light.html">Marketing</a></li>
-                                                            <li><a class="dropdown-item" href="header1-dark.html">Finance</a></li>
-                                                            <li><a class="dropdown-item" href="header1-dark.html">Healthcare</a></li>
-                                                            <li><a class="dropdown-item" href="header1-dark.html">Agri Business</a></li>
-                                                            <li><a class="dropdown-item" href="header1-dark.html">Information Technology</a></li>
-                                                            <li><a class="dropdown-item" href="header1-dark.html">International Business</a></li>
-                                                            <li><a class="dropdown-item" href="header1-dark.html">Operations Management</a></li>
-                                                            </ul>
+                                        <li>
+                                            <a class="dropdown-item" href="../pg/">PG Courses</a>
                                         </li>
-                                            <li><a class="dropdown-item" href="blog-cat3.html">MCA</a></li>
-                                            <li><a class="dropdown-item" href="blog-details1.html">M.Sc</a>
-                                            <ul class="dropdown-menu">
-                                                    <li><a class="dropdown-item" href="header1-transparent.html">Maths</a></li>
-                                                    </ul></li> 
-                                        </ul>
-                                    </li> 
-                                  
-                                    <li class="nav-item dropdown">
-                                        <a class="nav-link dropdown-toggle" href="#" id="sub-nav7" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                                            Contact Us
-                                        </a>
-                                    </li>  
-                                </ul> 
 
-                    </div>
-                </nav>
-                   </div>
-               
-               </div>
+                                    </ul>
+                                </li>
+
+                                <li class="nav-item dropdown">
+                                    <a class="nav-link dropdown-toggle" href="#" id="sub-nav4" data-toggle="dropdown"
+                                        aria-haspopup="true" aria-expanded="false">
+                                        UG
+                                    </a>
+                                    <ul class="dropdown-menu" aria-labelledby="sub-nav4">
+                                        <li>
+                                            <a class="dropdown-item" href="../ba/">BA</a>
+                                        </li>
+                                        <li class="dropdown">
+                                            <a class="dropdown-item" href="#">BBA</a>
+                                            <ul class="dropdown-menu">
+                                                <li><a class="dropdown-item" href="../bba-digital_marketing">Digital
+                                                        Marketing</a></li>
+                                                <li><a class="dropdown-item" href="../bba-retail_management">Retail
+                                                        Management</a></li>
+                                                <li><a class="dropdown-item" href="../bba-fintech">Fintech</a></li>
+                                            </ul>
+                                        </li>
+
+                                        <li class="dropdown">
+                                            <a class="dropdown-item" href="#">BCA</a>
+                                            <ul class="dropdown-menu">
+                                                <li><a class="dropdown-item" href="../bca-ux">UX</a></li>
+                                                <li><a class="dropdown-item" href="../bca-data_science">Data Science</a>
+                                                </li>
+                                                <li><a class="dropdown-item"
+                                                        href="../bca-blockchain_technology">Blockchain Technology</a>
+                                                </li>
+                                                <li><a class="dropdown-item"
+                                                        href="../bca-ctis__cloud_technology_&_information_security">Cloud
+                                                        Technology & Information Security</a></li>
+                                                <li><a class="dropdown-item"
+                                                        href="../bca-artificial_intelligence">Artificial Intelligence</a>
+                                                </li>
+                                            </ul>
+                                        </li>
+
+                                    </ul>
+                                </li>
+                                <li class="nav-item dropdown">
+                                    <a class="nav-link dropdown-toggle" href="#" id="sub-nav5" data-toggle="dropdown"
+                                        aria-haspopup="true" aria-expanded="false">
+                                        PG
+                                    </a>
+                                    <ul class="dropdown-menu" aria-labelledby="sub-nav5">
+                                        <li><a class="dropdown-item" href="../ma">MA</a></li>
+                                        <li><a class="dropdown-item">MBA</a>
+                                            <ul class="dropdown-menu">
+                                                <li><a class="dropdown-item" href="../mba-hrm">Human Resource</a></li>
+                                                <li><a class="dropdown-item" href="../mba-marketing">Marketing</a></li>
+                                                <li><a class="dropdown-item" href="../mba-finance">Finance</a></li>
+                                                <li><a class="dropdown-item" href="../mba-healthcare">Healthcare</a></li>
+                                                <li><a class="dropdown-item" href="../mba-agri_business">Agri
+                                                        Business</a></li>
+                                                <li><a class="dropdown-item"
+                                                        href="../mba-information_technology">Information Technology</a>
+                                                </li>
+                                                <li><a class="dropdown-item"
+                                                        href="../mba-international_business">International Business</a>
+                                                </li>
+                                                <li><a class="dropdown-item"
+                                                        href="../mba-operations_management">Operations Management</a>
+                                                </li>
+                                            </ul>
+                                        </li>
+                                        <li><a class="dropdown-item" href="../mca-computer_application">MCA</a></li>
+                                        <li><a class="dropdown-item">M.Sc</a>
+                                            <ul class="dropdown-menu">
+                                                <li><a class="dropdown-item" href="../msc-mathematics">Maths</a></li>
+                                            </ul>
+                                        </li>
+                                    </ul>
+                                </li>
+
+                                <li class="nav-item">
+                                    <a class="nav-link" href="../contact/">Contact</a>
+                                </li>
+                                <button class="pulse-button" style="margin-left: 100px; width: 150px; padding: 10px;"
+                                    onClick="applynow()">Apply Now</button>
+                            </ul>
+
+                        </div>
+                    </nav>
+                </div>
+
+            </div>
+        </div>
     </div>
-</div> 
 <!-- /End fables Navigation --> 
     
      
 <!-- Start page content --> 
-<div class="container mt-5">
+<div class="container mt-5 aboutlanding">
        
        <h2 class="font-35 font-weight-bold text-center fables-second-text-color">About Online VGU</h2> 
        
@@ -273,7 +373,7 @@
                        <p class="white-color font-14 together-details my-3">
                            Discover the future of learning with Online VGU. Whether you're starting your journey or advancing your career, our digital campus provides the tools, knowledge, and flexibility to help you succeed.
                        </p>  
-                       <a href="#" class="btn fables-second-background-color white-color white-color-hover fables-btn-rounded py-2 px-5 my-0 my-md-4">Explore Programs</a> 
+                       <a href="../explore" class="btn fables-second-background-color white-color white-color-hover fables-btn-rounded py-2 px-5 my-0 my-md-4">Explore Programs</a> 
                    </div>
                </div>
            </div>
@@ -314,48 +414,73 @@
                
             </div>
        </div>
-       <div class="container" style="padding-bottom:50px;">
+       <div class="formlanding">
+       <h2 class="fables-second-text-color font-35 font-weight-bold text-center pb-5">
+       Start your journey with Online VGU Today <span style="font-size:30px;">🚀</span>
+        </h2>
+       <div class="container applynowform card" style="margin-bottom:50px;">
     <h2 class="fables-main-text-color font-35 font-weight-bold text-center my-4 my-lg-5">
     🎓  Apply <span class="fables-second-text-color">Now</span>
     </h2>
-    <p class="fables-main-text-color text-center mb-4 mb-md-5 font-19">Start your journey with Online VGU today <span style="font-size:20px;">🚀</span></p>
-
-    <form class="row g-3 wow fadeInUp" data-wow-duration="1.5s">
-        <div class="col-md-6 mb-4">
-            <label for="name">Full Name:</label>
-            <input type="text" class="form-control fables-input" placeholder="Full Name" required>
-        </div>
-        <div class="col-md-6 mb-4">
-        <label for="name">Email:</label>
-            <input type="email" class="form-control fables-input" placeholder="Email Address" required>
-        </div>
-        <div class="col-md-6 mb-4">
-        <label for="name">Phone No:</label>
-            <input type="tel" class="form-control fables-input" placeholder="Phone Number" required>
-        </div>
-        <div class="col-md-6 mb-4">
-        <label for="name">Select a Course:</label>
-            <select class="form-control fables-input" required>
-                <option value="" disabled selected>Select a Course</option>
-                <option>BA</option>
-                <option>BBA</option>
-                <option>BCA</option>
-                <option>MA English</option>
-                <option>MBA</option>
-                <option>MCA</option>
-                <option>M.A. JMC</option>
-                <option>M.Sc Maths</option>
-            </select>
-        </div>
-        <div class="col-12 mb-4">
-        <label for="name">Query:</label>
-            <textarea class="form-control fables-input" rows="4" placeholder="Your Message"></textarea>
-        </div>
-        <div class="col-12 text-center">
-            <button type="submit" class="btn fables-second-background-color white-color white-color-hover fables-btn-rounded px-5 py-2">Submit
-            </button>
-        </div>
-    </form>
+    <form id="leadForm" >
+        <div class="row" style="padding:10px;">
+    <div class="col-12 col-md-6 mb-4">
+        <label for="name">Full Name:</label>
+        <input type="text" id="name" class="form-control fables-input" placeholder="Full Name" required>
+        <small id="name-error" class="error-message" style="color: black; font-size: 11px;"></small>
+    </div>
+    <div class="col-12 col-md-6 mb-4">
+        <label for="email">Email:</label>
+        <input type="email" id="email" class="form-control fables-input" placeholder="Email Address" required>
+        <small id="email-error" class="error-message" style="color: black; font-size: 11px;"></small>
+    </div>
+    <div class="col-12 col-md-6 mb-4">
+        <label for="phone">Phone No:</label><br>
+        <input type="tel" id="phone" class="form-control fables-input" placeholder="Phone Number" required>
+        <small id="phone-error" class="error-message" style="color: black; font-size: 11px;"></small>
+    </div>
+    <div class="col-12 col-md-6 mb-4">
+        <label for="course">Select a Course:</label>
+        <select class="form-control fables-input" id="course" required>
+            <option value="" disabled selected>Select a Course</option>
+            <option>BA</option>
+            <option>BBA</option>
+            <option>BBA - Digital Marketing</option>
+            <option>BBA - Retail Management</option>
+            <option>BBA - Fintech</option>
+            <option>BCA</option>
+            <option>BCA - UX</option>
+            <option>BCA - Data Science</option>
+            <option>BCA - Blockchain Technology</option>
+            <option>BCA - Cloud Technology & Information Security</option>
+            <option>BCA - Artificial Intelligence</option>
+            <option>MA</option>
+            <option>MBA</option>
+            <option>MBA - Human Resource</option>
+            <option>MBA - Marketing</option>
+            <option>MBA - Finance</option>
+            <option>MBA - Healthcare</option>
+            <option>MBA - Agri Business</option>
+            <option>MBA - Information Technology</option>
+            <option>MBA - International Business</option>
+            <option>MBA - Operations Management</option>
+            <option>MCA</option>
+            <option>M.Sc</option>
+            <option>M.Sc Maths</option>
+        </select>
+        <small id="course-error" class="error-message" style="color: black; font-size: 11px;"></small>
+    </div>
+    <div class="col-12 mb-4">
+        <label for="query">Query:</label>
+        <textarea class="form-control fables-input" id="query" rows="4" placeholder="Your Message"></textarea>
+        <small id="query-error" class="error-message" style="color: black; font-size: 11px;"></small>
+    </div>
+    <div class="col-12 text-center">
+        <button type="button" class="btn fables-second-background-color white-color white-color-hover fables-btn-rounded px-5 py-2" onclick="validateForm()">Submit</button>
+    </div>
+    </div>
+</form>
+</div>
 </div>
 
 <div class="fables-testimonial fables-after-overlay fables-about-caption py-5 bg-rules" style="background-image: url(assets/custom/images/index2-overlay.jpg);">
@@ -368,7 +493,7 @@
                 <p class="font-weight-light fables-third-text-color">
                     Join thousands of learners across India who are upgrading their careers through flexible, accredited, and future-ready programs from Online VGU.
                 </p>
-                <a href="contactus1.html" class="btn fables-second-background-color white-color white-color-hover fables-btn-rounded mt-4 py-2 px-5">
+                <a href="../contact" class="btn fables-second-background-color white-color white-color-hover fables-btn-rounded mt-4 py-2 px-5">
                     Contact Us
                 </a>   
             </div> 
@@ -376,428 +501,768 @@
     </div>
 </div>
 
-<div class="fables-index-products large-mb fables-after-overlay py-4 py-md-5 mt-md-5 bg-rules" style="background-image: url(assets/custom/images/index-products-overlay.jpg);">
-           <div class="container z-index position-relative overflow-hidden"> 
-               <div class="row">
-                   <div class="col-12 col-md-7 wow fadeInLeft">
-                   <h2 class="fables-second-text-color font-35 font-weight-bold">Our <span class="white-color">Courses</span></h2>
-                        <p class="fables-third-text-color mt-4 mb-md-5">
-                            Explore UGC-approved online programs from Online VGU — flexible, career-focused, and industry-ready. Learn from anywhere. Apply now and take the next step in your journey!
-                        </p>
-                    </div>
-                   <div class="col-12 col-md-5 col-lg-3 text-right offset-lg-2 my-4 my-md-0 mt-md-5 mt-lg-0 text-center">
-                       <a href="#" class="btn fables-second-background-color white-color white-color-hover fables-btn-rounded px-5 py-2">View all Courses</a>
-                   </div>
-               </div>   
-               <div class="owl-carousel owl-theme dots-0 circle-nav carousel-items-4"> 
-                     <div class="card rounded-0 mb-4 border-light wow fadeIn" data-wow-delay=".4s" style="box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;">
-                       <div class="row">
-                           <div class="fables-product-img col-12" style="display: flex; align-items: center; justify-content: center;">
-                              <span style="font-size:100px;">🎓</span>
-                          </div>
-                          <div class="card-body col-12">
-                            <h5 class="card-title mx-3">
-                                <a href="#" class="fables-main-text-color fables-store-product-title fables-second-hover-color" style="display: flex; align-items: center; justify-content: center;">BA</a>
-                            </h5>
-                            <p class="card-text fables-fifth-text-color font-15 mx-3" style="text-align:center;">Begin your journey with <br> Online VGU.</p>
-                            <p class="font-weight-bold fables-second-text-color my-2 mb-3 mx-3" style="text-align:center;">$ 98.00 | 3 Years</p>
-                            <p class="fables-product-info"><a href="#" class="btn fables-second-border-color fables-second-text-color fables-btn-rouned fables-hover-btn-color font-14 px-4 py-2">
-                            <span>🚀 </span> 
-                            <span class="fables-btn-value" style="color:7f1813;">Apply Now</span></a></p>
-                          </div>
-                       </div>
-                     </div>  
-                     <div class="card rounded-0 mb-4 border-light wow fadeIn" data-wow-delay=".4s" style="box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;">
-                       <div class="row">
-                           <div class="fables-product-img col-12" style="display: flex; align-items: center; justify-content: center;">
-                              <span style="font-size:100px; text-align:">🎓</span>
-                          </div>
-                          <div class="card-body col-12">
-                            <h5 class="card-title mx-3">
-                                <a href="#" class="fables-main-text-color fables-store-product-title fables-second-hover-color" style="display: flex; align-items: center; justify-content: center;">BBA</a>
-                            </h5>
-                            <p class="card-text fables-fifth-text-color font-15 mx-3" style="text-align:center;">Begin your journey with <br> Online VGU.</p>
-                            <p class="font-weight-bold fables-second-text-color my-2 mb-3 mx-3" style="text-align:center;">$ 98.00 | 3 Years</p>
-                            <p class="fables-product-info"><a href="#" class="btn fables-second-border-color fables-second-text-color fables-btn-rouned fables-hover-btn-color font-14 px-4 py-2">
-                            <span>🚀 </span> 
-                            <span class="fables-btn-value">Apply Now</span></a></p>
-                          </div>
-                       </div>
-                     </div>
-                     <div class="card rounded-0 mb-4 border-light wow fadeIn" data-wow-delay=".4s" style="box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;">
-                       <div class="row">
-                           <div class="fables-product-img col-12" style="display: flex; align-items: center; justify-content: center;">
-                              <span style="font-size:100px; text-align:">🎓</span>
-                          </div>
-                          <div class="card-body col-12">
-                            <h5 class="card-title mx-3">
-                                <a href="#" class="fables-main-text-color fables-store-product-title fables-second-hover-color" style="display: flex; align-items: center; justify-content: center;">BBA - Digital Marketing</a>
-                            </h5>
-                            <p class="card-text fables-fifth-text-color font-15 mx-3" style="text-align:center;">Begin your journey with <br> Online VGU.</p>
-                            <p class="font-weight-bold fables-second-text-color my-2 mb-3 mx-3" style="text-align:center;">$ 98.00 | 3 Years</p>
-                            <p class="fables-product-info"><a href="#" class="btn fables-second-border-color fables-second-text-color fables-btn-rouned fables-hover-btn-color font-14 px-4 py-2">
-                            <span>🚀 </span> 
-                            <span class="fables-btn-value">Apply Now</span></a></p>
-                          </div>
-                       </div>
-                     </div>
-                     <div class="card rounded-0 mb-4 border-light wow fadeIn" data-wow-delay=".4s" style="box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;">
-                       <div class="row">
-                           <div class="fables-product-img col-12" style="display: flex; align-items: center; justify-content: center;">
-                              <span style="font-size:100px; text-align:">🎓</span>
-                          </div>
-                          <div class="card-body col-12">
-                            <h5 class="card-title mx-3">
-                                <a href="#" class="fables-main-text-color fables-store-product-title fables-second-hover-color" style="display: flex; align-items: center; justify-content: center;">BBA - Retail Management</a>
-                            </h5>
-                            <p class="card-text fables-fifth-text-color font-15 mx-3" style="text-align:center;">Begin your journey with <br> Online VGU.</p>
-                            <p class="font-weight-bold fables-second-text-color my-2 mb-3 mx-3" style="text-align:center;">$ 98.00 | 3 Years</p>
-                            <p class="fables-product-info"><a href="#" class="btn fables-second-border-color fables-second-text-color fables-btn-rouned fables-hover-btn-color font-14 px-4 py-2">
-                            <span>🚀 </span> 
-                            <span class="fables-btn-value">Apply Now</span></a></p>
-                          </div>
-                       </div>
-                     </div>
-                     <div class="card rounded-0 mb-4 border-light wow fadeIn" data-wow-delay=".4s" style="box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;">
-                       <div class="row">
-                           <div class="fables-product-img col-12" style="display: flex; align-items: center; justify-content: center;">
-                              <span style="font-size:100px; text-align:">🎓</span>
-                          </div>
-                          <div class="card-body col-12">
-                            <h5 class="card-title mx-3">
-                                <a href="#" class="fables-main-text-color fables-store-product-title fables-second-hover-color" style="display: flex; align-items: center; justify-content: center;">BBA - Fintech</a>
-                            </h5>
-                            <p class="card-text fables-fifth-text-color font-15 mx-3" style="text-align:center;">Begin your journey with <br> Online VGU.</p>
-                            <p class="font-weight-bold fables-second-text-color my-2 mb-3 mx-3" style="text-align:center;">$ 98.00 | 3 Years</p>
-                            <p class="fables-product-info"><a href="#" class="btn fables-second-border-color fables-second-text-color fables-btn-rouned fables-hover-btn-color font-14 px-4 py-2">
-                            <span>🚀 </span> 
-                            <span class="fables-btn-value">Apply Now</span></a></p>
-                          </div>
-                       </div>
-                     </div>
-                     <div class="card rounded-0 mb-4 border-light wow fadeIn" data-wow-delay=".4s" style="box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;">
-                       <div class="row">
-                           <div class="fables-product-img col-12" style="display: flex; align-items: center; justify-content: center;">
-                              <span style="font-size:100px; text-align:">🎓</span>
-                          </div>
-                          <div class="card-body col-12">
-                            <h5 class="card-title mx-3">
-                                <a href="#" class="fables-main-text-color fables-store-product-title fables-second-hover-color" style="display: flex; align-items: center; justify-content: center;">BCA</a>
-                            </h5>
-                            <p class="card-text fables-fifth-text-color font-15 mx-3" style="text-align:center;">Begin your journey with <br> Online VGU.</p>
-                            <p class="font-weight-bold fables-second-text-color my-2 mb-3 mx-3" style="text-align:center;">$ 98.00 | 3 Years</p>
-                            <p class="fables-product-info"><a href="#" class="btn fables-second-border-color fables-second-text-color fables-btn-rouned fables-hover-btn-color font-14 px-4 py-2">
-                            <span>🚀 </span> 
-                            <span class="fables-btn-value">Apply Now</span></a></p>
-                          </div>
-                       </div>
-                     </div>
-                     <div class="card rounded-0 mb-4 border-light wow fadeIn" data-wow-delay=".4s" style="box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;">
-                       <div class="row">
-                           <div class="fables-product-img col-12" style="display: flex; align-items: center; justify-content: center;">
-                              <span style="font-size:100px; text-align:">🎓</span>
-                          </div>
-                          <div class="card-body col-12">
-                            <h5 class="card-title mx-3">
-                                <a href="#" class="fables-main-text-color fables-store-product-title fables-second-hover-color" style="display: flex; align-items: center; justify-content: center;">BCA - UX</a>
-                            </h5>
-                            <p class="card-text fables-fifth-text-color font-15 mx-3" style="text-align:center;">Begin your journey with <br> Online VGU.</p>
-                            <p class="font-weight-bold fables-second-text-color my-2 mb-3 mx-3" style="text-align:center;">$ 98.00 | 3 Years</p>
-                            <p class="fables-product-info"><a href="#" class="btn fables-second-border-color fables-second-text-color fables-btn-rouned fables-hover-btn-color font-14 px-4 py-2">
-                            <span>🚀 </span> 
-                            <span class="fables-btn-value">Apply Now</span></a></p>
-                          </div>
-                       </div>
-                     </div>
-                     <div class="card rounded-0 mb-4 border-light wow fadeIn" data-wow-delay=".4s" style="box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;">
-                       <div class="row">
-                           <div class="fables-product-img col-12" style="display: flex; align-items: center; justify-content: center;">
-                              <span style="font-size:100px; text-align:">🎓</span>
-                          </div>
-                          <div class="card-body col-12">
-                            <h5 class="card-title mx-3">
-                                <a href="#" class="fables-main-text-color fables-store-product-title fables-second-hover-color" style="display: flex; align-items: center; justify-content: center;">BCA - Data Science</a>
-                            </h5>
-                            <p class="card-text fables-fifth-text-color font-15 mx-3" style="text-align:center;">Begin your journey with <br> Online VGU.</p>
-                            <p class="font-weight-bold fables-second-text-color my-2 mb-3 mx-3" style="text-align:center;">$ 98.00 | 3 Years</p>
-                            <p class="fables-product-info"><a href="#" class="btn fables-second-border-color fables-second-text-color fables-btn-rouned fables-hover-btn-color font-14 px-4 py-2">
-                            <span>🚀 </span> 
-                            <span class="fables-btn-value">Apply Now</span></a></p>
-                          </div>
-                       </div>
-                     </div>
-                     <div class="card rounded-0 mb-4 border-light wow fadeIn" data-wow-delay=".4s" style="box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;">
-                       <div class="row">
-                           <div class="fables-product-img col-12" style="display: flex; align-items: center; justify-content: center;">
-                              <span style="font-size:100px; text-align:">🎓</span>
-                          </div>
-                          <div class="card-body col-12">
-                            <h5 class="card-title mx-3">
-                                <a href="#" class="fables-main-text-color fables-store-product-title fables-second-hover-color" style="display: flex; align-items: center; justify-content: center;">BCA - Blockchain Technology</a>
-                            </h5>
-                            <p class="card-text fables-fifth-text-color font-15 mx-3" style="text-align:center;">Begin your journey with <br> Online VGU.</p>
-                            <p class="font-weight-bold fables-second-text-color my-2 mb-3 mx-3" style="text-align:center;">$ 98.00 | 3 Years</p>
-                            <p class="fables-product-info"><a href="#" class="btn fables-second-border-color fables-second-text-color fables-btn-rouned fables-hover-btn-color font-14 px-4 py-2">
-                            <span>🚀 </span> 
-                            <span class="fables-btn-value">Apply Now</span></a></p>
-                          </div>
-                       </div>
-                     </div>
-                     <div class="card rounded-0 mb-4 border-light wow fadeIn" data-wow-delay=".4s" style="box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;">
-                       <div class="row">
-                           <div class="fables-product-img col-12" style="display: flex; align-items: center; justify-content: center;">
-                              <span style="font-size:100px; text-align:">🎓</span>
-                          </div>
-                          <div class="card-body col-12">
-                            <h5 class="card-title mx-3">
-                                <a href="#" class="fables-main-text-color fables-store-product-title fables-second-hover-color" style="display: flex; align-items: center; justify-content: center;">BCA - Cloud Technology & Information Security</a>
-                            </h5>
-                            <p class="card-text fables-fifth-text-color font-15 mx-3" style="text-align:center;">Begin your journey with <br> Online VGU.</p>
-                            <p class="font-weight-bold fables-second-text-color my-2 mb-3 mx-3" style="text-align:center;">$ 98.00 | 3 Years</p>
-                            <p class="fables-product-info"><a href="#" class="btn fables-second-border-color fables-second-text-color fables-btn-rouned fables-hover-btn-color font-14 px-4 py-2">
-                            <span>🚀 </span> 
-                            <span class="fables-btn-value">Apply Now</span></a></p>
-                          </div>
-                       </div>
-                     </div>
-                     <div class="card rounded-0 mb-4 border-light wow fadeIn" data-wow-delay=".4s" style="box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;">
-                       <div class="row">
-                           <div class="fables-product-img col-12" style="display: flex; align-items: center; justify-content: center;">
-                              <span style="font-size:100px; text-align:">🎓</span>
-                          </div>
-                          <div class="card-body col-12">
-                            <h5 class="card-title mx-3">
-                                <a href="#" class="fables-main-text-color fables-store-product-title fables-second-hover-color" style="display: flex; align-items: center; justify-content: center;">BCA - Artificial Intelligence</a>
-                            </h5>
-                            <p class="card-text fables-fifth-text-color font-15 mx-3" style="text-align:center;">Begin your journey with <br> Online VGU.</p>
-                            <p class="font-weight-bold fables-second-text-color my-2 mb-3 mx-3" style="text-align:center;">$ 98.00 | 3 Years</p>
-                            <p class="fables-product-info"><a href="#" class="btn fables-second-border-color fables-second-text-color fables-btn-rouned fables-hover-btn-color font-14 px-4 py-2">
-                            <span>🚀 </span> 
-                            <span class="fables-btn-value">Apply Now</span></a></p>
-                          </div>
-                       </div>
-                     </div>
-                     <div class="card rounded-0 mb-4 border-light wow fadeIn" data-wow-delay=".4s" style="box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;">
-                       <div class="row">
-                           <div class="fables-product-img col-12" style="display: flex; align-items: center; justify-content: center;">
-                              <span style="font-size:100px; text-align:">🎓</span>
-                          </div>
-                          <div class="card-body col-12">
-                            <h5 class="card-title mx-3">
-                                <a href="#" class="fables-main-text-color fables-store-product-title fables-second-hover-color" style="display: flex; align-items: center; justify-content: center;">MA</a>
-                            </h5>
-                            <p class="card-text fables-fifth-text-color font-15 mx-3" style="text-align:center;">Begin your journey with <br> Online VGU.</p>
-                            <p class="font-weight-bold fables-second-text-color my-2 mb-3 mx-3" style="text-align:center;">$ 98.00 | 2 Years</p>
-                            <p class="fables-product-info"><a href="#" class="btn fables-second-border-color fables-second-text-color fables-btn-rouned fables-hover-btn-color font-14 px-4 py-2">
-                            <span>🚀 </span> 
-                            <span class="fables-btn-value">Apply Now</span></a></p>
-                          </div>
-                       </div>
-                     </div>
-                     <div class="card rounded-0 mb-4 border-light wow fadeIn" data-wow-delay=".4s" style="box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;">
-                       <div class="row">
-                           <div class="fables-product-img col-12" style="display: flex; align-items: center; justify-content: center;">
-                              <span style="font-size:100px; text-align:">🎓</span>
-                          </div>
-                          <div class="card-body col-12">
-                            <h5 class="card-title mx-3">
-                                <a href="#" class="fables-main-text-color fables-store-product-title fables-second-hover-color" style="display: flex; align-items: center; justify-content: center;">MBA</a>
-                            </h5>
-                            <p class="card-text fables-fifth-text-color font-15 mx-3" style="text-align:center;">Begin your journey with <br> Online VGU.</p>
-                            <p class="font-weight-bold fables-second-text-color my-2 mb-3 mx-3" style="text-align:center;">$ 98.00 | 2 Years</p>
-                            <p class="fables-product-info"><a href="#" class="btn fables-second-border-color fables-second-text-color fables-btn-rouned fables-hover-btn-color font-14 px-4 py-2">
-                            <span>🚀 </span> 
-                            <span class="fables-btn-value">Apply Now</span></a></p>
-                          </div>
-                       </div>
-                     </div>
-                     <div class="card rounded-0 mb-4 border-light wow fadeIn" data-wow-delay=".4s" style="box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;">
-                       <div class="row">
-                           <div class="fables-product-img col-12" style="display: flex; align-items: center; justify-content: center;">
-                              <span style="font-size:100px; text-align:">🎓</span>
-                          </div>
-                          <div class="card-body col-12">
-                            <h5 class="card-title mx-3">
-                                <a href="#" class="fables-main-text-color fables-store-product-title fables-second-hover-color" style="display: flex; align-items: center; justify-content: center;">MBA - Human Resource</a>
-                            </h5>
-                            <p class="card-text fables-fifth-text-color font-15 mx-3" style="text-align:center;">Begin your journey with <br> Online VGU.</p>
-                            <p class="font-weight-bold fables-second-text-color my-2 mb-3 mx-3" style="text-align:center;">$ 98.00 | 2 Years</p>
-                            <p class="fables-product-info"><a href="#" class="btn fables-second-border-color fables-second-text-color fables-btn-rouned fables-hover-btn-color font-14 px-4 py-2">
-                            <span>🚀 </span> 
-                            <span class="fables-btn-value">Apply Now</span></a></p>
-                          </div>
-                       </div>
-                     </div>
-                     <div class="card rounded-0 mb-4 border-light wow fadeIn" data-wow-delay=".4s" style="box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;">
-                       <div class="row">
-                           <div class="fables-product-img col-12" style="display: flex; align-items: center; justify-content: center;">
-                              <span style="font-size:100px; text-align:">🎓</span>
-                          </div>
-                          <div class="card-body col-12">
-                            <h5 class="card-title mx-3">
-                                <a href="#" class="fables-main-text-color fables-store-product-title fables-second-hover-color" style="display: flex; align-items: center; justify-content: center;">MBA - Marketing</a>
-                            </h5>
-                            <p class="card-text fables-fifth-text-color font-15 mx-3" style="text-align:center;">Begin your journey with <br> Online VGU.</p>
-                            <p class="font-weight-bold fables-second-text-color my-2 mb-3 mx-3" style="text-align:center;">$ 98.00 | 2 Years</p>
-                            <p class="fables-product-info"><a href="#" class="btn fables-second-border-color fables-second-text-color fables-btn-rouned fables-hover-btn-color font-14 px-4 py-2">
-                            <span>🚀 </span> 
-                            <span class="fables-btn-value">Apply Now</span></a></p>
-                          </div>
-                       </div>
-                     </div>
-                     <div class="card rounded-0 mb-4 border-light wow fadeIn" data-wow-delay=".4s" style="box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;">
-                       <div class="row">
-                           <div class="fables-product-img col-12" style="display: flex; align-items: center; justify-content: center;">
-                              <span style="font-size:100px; text-align:">🎓</span>
-                          </div>
-                          <div class="card-body col-12">
-                            <h5 class="card-title mx-3">
-                                <a href="#" class="fables-main-text-color fables-store-product-title fables-second-hover-color" style="display: flex; align-items: center; justify-content: center;">MBA - Finance</a>
-                            </h5>
-                            <p class="card-text fables-fifth-text-color font-15 mx-3" style="text-align:center;">Begin your journey with <br> Online VGU.</p>
-                            <p class="font-weight-bold fables-second-text-color my-2 mb-3 mx-3" style="text-align:center;">$ 98.00 | 2 Years</p>
-                            <p class="fables-product-info"><a href="#" class="btn fables-second-border-color fables-second-text-color fables-btn-rouned fables-hover-btn-color font-14 px-4 py-2">
-                            <span>🚀 </span> 
-                            <span class="fables-btn-value">Apply Now</span></a></p>
-                          </div>
-                       </div>
-                     </div>
-                     <div class="card rounded-0 mb-4 border-light wow fadeIn" data-wow-delay=".4s" style="box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;">
-                       <div class="row">
-                           <div class="fables-product-img col-12" style="display: flex; align-items: center; justify-content: center;">
-                              <span style="font-size:100px; text-align:">🎓</span>
-                          </div>
-                          <div class="card-body col-12">
-                            <h5 class="card-title mx-3">
-                                <a href="#" class="fables-main-text-color fables-store-product-title fables-second-hover-color" style="display: flex; align-items: center; justify-content: center;">MBA - Healthcare</a>
-                            </h5>
-                            <p class="card-text fables-fifth-text-color font-15 mx-3" style="text-align:center;">Begin your journey with <br> Online VGU.</p>
-                            <p class="font-weight-bold fables-second-text-color my-2 mb-3 mx-3" style="text-align:center;">$ 98.00 | 2 Years</p>
-                            <p class="fables-product-info"><a href="#" class="btn fables-second-border-color fables-second-text-color fables-btn-rouned fables-hover-btn-color font-14 px-4 py-2">
-                            <span>🚀 </span> 
-                            <span class="fables-btn-value">Apply Now</span></a></p>
-                          </div>
-                       </div>
-                     </div>
-                     <div class="card rounded-0 mb-4 border-light wow fadeIn" data-wow-delay=".4s" style="box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;">
-                       <div class="row">
-                           <div class="fables-product-img col-12" style="display: flex; align-items: center; justify-content: center;">
-                              <span style="font-size:100px; text-align:">🎓</span>
-                          </div>
-                          <div class="card-body col-12">
-                            <h5 class="card-title mx-3">
-                                <a href="#" class="fables-main-text-color fables-store-product-title fables-second-hover-color" style="display: flex; align-items: center; justify-content: center;">MBA - Agri Business</a>
-                            </h5>
-                            <p class="card-text fables-fifth-text-color font-15 mx-3" style="text-align:center;">Begin your journey with <br> Online VGU.</p>
-                            <p class="font-weight-bold fables-second-text-color my-2 mb-3 mx-3" style="text-align:center;">$ 98.00 | 2 Years</p>
-                            <p class="fables-product-info"><a href="#" class="btn fables-second-border-color fables-second-text-color fables-btn-rouned fables-hover-btn-color font-14 px-4 py-2">
-                            <span>🚀 </span> 
-                            <span class="fables-btn-value">Apply Now</span></a></p>
-                          </div>
-                       </div>
-                     </div>
-                     <div class="card rounded-0 mb-4 border-light wow fadeIn" data-wow-delay=".4s" style="box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;">
-                       <div class="row">
-                           <div class="fables-product-img col-12" style="display: flex; align-items: center; justify-content: center;">
-                              <span style="font-size:100px; text-align:">🎓</span>
-                          </div>
-                          <div class="card-body col-12">
-                            <h5 class="card-title mx-3">
-                                <a href="#" class="fables-main-text-color fables-store-product-title fables-second-hover-color" style="display: flex; align-items: center; justify-content: center;">MBA - Information Technology</a>
-                            </h5>
-                            <p class="card-text fables-fifth-text-color font-15 mx-3" style="text-align:center;">Begin your journey with <br> Online VGU.</p>
-                            <p class="font-weight-bold fables-second-text-color my-2 mb-3 mx-3" style="text-align:center;">$ 98.00 | 2 Years</p>
-                            <p class="fables-product-info"><a href="#" class="btn fables-second-border-color fables-second-text-color fables-btn-rouned fables-hover-btn-color font-14 px-4 py-2">
-                            <span>🚀 </span> 
-                            <span class="fables-btn-value">Apply Now</span></a></p>
-                          </div>
-                       </div>
-                     </div>
-                     <div class="card rounded-0 mb-4 border-light wow fadeIn" data-wow-delay=".4s" style="box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;">
-                       <div class="row">
-                           <div class="fables-product-img col-12" style="display: flex; align-items: center; justify-content: center;">
-                              <span style="font-size:100px; text-align:">🎓</span>
-                          </div>
-                          <div class="card-body col-12">
-                            <h5 class="card-title mx-3">
-                                <a href="#" class="fables-main-text-color fables-store-product-title fables-second-hover-color" style="display: flex; align-items: center; justify-content: center;">MBA - International Business</a>
-                            </h5>
-                            <p class="card-text fables-fifth-text-color font-15 mx-3" style="text-align:center;">Begin your journey with <br> Online VGU.</p>
-                            <p class="font-weight-bold fables-second-text-color my-2 mb-3 mx-3" style="text-align:center;">$ 98.00 | 2 Years</p>
-                            <p class="fables-product-info"><a href="#" class="btn fables-second-border-color fables-second-text-color fables-btn-rouned fables-hover-btn-color font-14 px-4 py-2">
-                            <span>🚀 </span> 
-                            <span class="fables-btn-value">Apply Now</span></a></p>
-                          </div>
-                       </div>
-                     </div>
-                     <div class="card rounded-0 mb-4 border-light wow fadeIn" data-wow-delay=".4s" style="box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;">
-                       <div class="row">
-                           <div class="fables-product-img col-12" style="display: flex; align-items: center; justify-content: center;">
-                              <span style="font-size:100px; text-align:">🎓</span>
-                          </div>
-                          <div class="card-body col-12">
-                            <h5 class="card-title mx-3">
-                                <a href="#" class="fables-main-text-color fables-store-product-title fables-second-hover-color" style="display: flex; align-items: center; justify-content: center;">MBA - Operations Management</a>
-                            </h5>
-                            <p class="card-text fables-fifth-text-color font-15 mx-3" style="text-align:center;">Begin your journey with <br> Online VGU.</p>
-                            <p class="font-weight-bold fables-second-text-color my-2 mb-3 mx-3" style="text-align:center;">$ 98.00 | 2 Years</p>
-                            <p class="fables-product-info"><a href="#" class="btn fables-second-border-color fables-second-text-color fables-btn-rouned fables-hover-btn-color font-14 px-4 py-2">
-                            <span>🚀 </span> 
-                            <span class="fables-btn-value">Apply Now</span></a></p>
-                          </div>
-                       </div>
-                     </div>
-                     <div class="card rounded-0 mb-4 border-light wow fadeIn" data-wow-delay=".4s" style="box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;">
-                       <div class="row">
-                           <div class="fables-product-img col-12" style="display: flex; align-items: center; justify-content: center;">
-                              <span style="font-size:100px; text-align:">🎓</span>
-                          </div>
-                          <div class="card-body col-12">
-                            <h5 class="card-title mx-3">
-                                <a href="#" class="fables-main-text-color fables-store-product-title fables-second-hover-color" style="display: flex; align-items: center; justify-content: center;">MCA</a>
-                            </h5>
-                            <p class="card-text fables-fifth-text-color font-15 mx-3" style="text-align:center;">Begin your journey with <br> Online VGU.</p>
-                            <p class="font-weight-bold fables-second-text-color my-2 mb-3 mx-3" style="text-align:center;">$ 98.00 | 2 Years</p>
-                            <p class="fables-product-info"><a href="#" class="btn fables-second-border-color fables-second-text-color fables-btn-rouned fables-hover-btn-color font-14 px-4 py-2">
-                            <span>🚀 </span> 
-                            <span class="fables-btn-value">Apply Now</span></a></p>
-                          </div>
-                       </div>
-                     </div>
-                     <div class="card rounded-0 mb-4 border-light wow fadeIn" data-wow-delay=".4s" style="box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;">
-                       <div class="row">
-                           <div class="fables-product-img col-12" style="display: flex; align-items: center; justify-content: center;">
-                              <span style="font-size:100px; text-align:">🎓</span>
-                          </div>
-                     <div class="card-body col-12">
-                            <h5 class="card-title mx-3">
-                                <a href="#" class="fables-main-text-color fables-store-product-title fables-second-hover-color" style="display: flex; align-items: center; justify-content: center;">M.Sc Maths</a>
-                            </h5>
-                            <p class="card-text fables-fifth-text-color font-15 mx-3">
-                            Begin your journey with Online VGU.
-                            </p>
-                            <p class="font-weight-bold fables-second-text-color my-2 mb-3 mx-3" style="text-align:center;">$ 98.00 | 2 Years</p>
-                            <p class="fables-product-info">
-                                <a href="#" class="btn fables-second-border-color fables-second-text-color fables-btn-rouned fables-hover-btn-color font-14 px-4 py-2">
-                                    <span>🚀</span> 
-                                    <span class="fables-btn-value">Apply Now</span>
-                                </a>
-                            </p>
-                        </div>
+<div class="fables-index-products large-mb fables-after-overlay py-4 py-md-5 mt-md-5 bg-rules"
+        style="background-image: url(assets/custom/images/index-products-overlay.jpg);">
+        <div class="container z-index position-relative overflow-hidden">
+            <div class="row">
+                <div class="col-12 col-md-7 wow fadeInLeft">
+                    <h2 class="fables-second-text-color font-35 font-weight-bold">Our<span class="white-color">
+                            Courses</span></h2>
+                    <p class="fables-third-text-color mt-4 mb-md-5">
+                        Explore UGC-approved online programs from Online VGU — flexible, career-focused, and
+                        industry-ready. Learn from anywhere. Apply now and take the next step in your journey!
+                    </p>
+                </div>
+                <div class="col-12 col-md-5 col-lg-3 text-right offset-lg-2 my-4 my-md-0 mt-md-5 mt-lg-0 text-center">
+                    <a href="../explore"
+                        class="btn fables-second-background-color white-color white-color-hover fables-btn-rounded px-5 py-2">View
+                        all Courses</a>
+                </div>
+            </div>
+            <div class="owl-carousel owl-theme dots-0 circle-nav carousel-items-4">
 
-                       </div>
-                     </div>
-                     
-                </div>  
-           </div>
-       </div> 
-           
+            <div class="card rounded-3 mb-4 border-0 shadow-lg wow fadeInUp" data-wow-delay=".4s"
+    style="overflow: hidden; transition: 0.3s ease;">
+    <div class="row no-gutters">
+        <div class="col-12 text-center py-4" style="background-color: #fbeeee;">
+            <span style="font-size: 90px;">🎓</span>
+        </div>
+        <div class="card-body col-12 px-4 py-3 text-center" style="height:330px;border: 1px solid rgb(240, 178, 178); border-top: none;">
+            <h5 class="card-title mb-2">
+                <a href="../ba"
+                    class="text-dark font-weight-bold"
+                    style="font-size: 24px; text-decoration: none;">
+                    Bachelor of Arts (BA)
+                </a>
+            </h5>
+
+            <ul class="list-unstyled my-3" style="font-size: 14px; color: #555;">
+                <li>✅ UGC Approved</li>
+                <li>✅ 100% Online</li>
+                <li>✅ Expert Faculty</li>
+            </ul>
+
+            <div class="mb-3" style="font-size: 18px; font-weight: bold; color: #7f1813;">
+                ₹ 72,000 | 3 Years
+            </div>
+
+            <a href="../applynow"
+                class="btn btn-outline-danger rounded-pill px-4 py-2 font-weight-bold"
+                style="font-size: 14px;">
+                🚀 Apply Now
+            </a>
+        </div>
+    </div>
+</div>
+
+
+<div class="card rounded-3 mb-4 border-0 shadow-lg wow fadeInUp" data-wow-delay=".4s"
+    style="overflow: hidden; transition: 0.3s ease;">
+    <div class="row no-gutters">
+        <!-- Icon Section -->
+        <div class="col-12 text-center py-4" style="background-color: #e6f2ff;">
+        <span style="font-size: 90px;">🎓</span>
+        </div>
+
+        <!-- Content Section -->
+        <div class="card-body col-12 px-4 py-3 text-center" style="height:330px;border: 1px solid rgb(240, 178, 178); border-top: none;">
+            <h5 class="card-title mb-2">
+                <a href="../bba-digital_marketing"
+                    class="text-dark font-weight-bold"
+                    style="font-size: 22px; text-decoration: none;">
+                    BBA - Digital Marketing
+                </a>
+            </h5>
+
+
+            <ul class="list-unstyled my-3" style="font-size: 14px; color: #555;">
+                <li>📊 Learn SEO, SEM, Content Strategy</li>
+                <li>💼 Real Industry Projects</li>
+            </ul>
+
+            <div class="mb-3" style="font-size: 18px; font-weight: bold; color: #7f1813;">
+                ₹ 1,32,000 | 3 Years
+            </div>
+
+            <a href="../applynow"
+                class="btn btn-outline-danger rounded-pill px-4 py-2 font-weight-bold"
+                style="font-size: 14px;">
+                🚀 Apply Now
+            </a>
+        </div>
+    </div>
+</div>
+
+<div class="card rounded-3 mb-4 border-0 shadow-lg wow fadeInUp" data-wow-delay=".4s"
+    style="overflow: hidden; transition: 0.3s ease;">
+    <div class="row no-gutters">
+        <!-- Icon Section -->
+        <div class="col-12 text-center py-4" style="background-color: #fbeeee;">
+        <span style="font-size: 90px;">🎓</span>
+        </div>
+
+        <!-- Content Section -->
+        <div class="card-body col-12 px-4 py-3 text-center" style="height:330px;border: 1px solid rgb(240, 178, 178); border-top: none;">
+            <h5 class="card-title mb-2">
+                <a href="../bba-retail_management"
+                    class="text-dark font-weight-bold"
+                    style="font-size: 22px; text-decoration: none;">
+                    BBA - Retail Management
+                </a>
+            </h5>
+
+            <ul class="list-unstyled my-3" style="font-size: 14px; color: #555;">
+                <li>🏬 Explore online & offline retail</li>
+                <li>📦 Understand supply chain logistics</li>
+            </ul>
+
+            <div class="mb-3" style="font-size: 18px; font-weight: bold; color: #7f1813;">
+                ₹ 1,32,000 | 3 Years
+            </div>
+
+            <a href="../applynow"
+                class="btn btn-outline-danger rounded-pill px-4 py-2 font-weight-bold"
+                style="font-size: 14px;">
+                🚀 Apply Now
+            </a>
+        </div>
+    </div>
+</div>
+
+<div class="card rounded-3 mb-4 border-0 shadow-lg wow fadeInUp" data-wow-delay=".4s"
+    style="overflow: hidden; transition: 0.3s ease;">
+    <div class="row no-gutters">
+        <!-- Icon Section -->
+        <div class="col-12 text-center py-4" style="background-color: #e6f2ff;">
+        <span style="font-size: 90px;">🎓</span>
+        </div>
+
+        <!-- Content Section -->
+        <div class="card-body col-12 px-4 py-3 text-center" style="height:330px;border: 1px solid rgb(240, 178, 178); border-top: none;">
+            <h5 class="card-title mb-2">
+                <a href="../bba-fintech"
+                    class="text-dark font-weight-bold"
+                    style="font-size: 22px; text-decoration: none;">
+                    BBA - Fintech
+                </a>
+            </h5>
+
+            <ul class="list-unstyled my-3" style="font-size: 14px; color: #555;">
+                <li>🔗 Blockchain & Crypto Basics</li>
+                <li>🏦 Digital Banking & Insurtech</li>
+                <li>💼 Industry-driven Curriculum</li>
+            </ul>
+
+            <div class="mb-3" style="font-size: 18px; font-weight: bold; color: #7f1813;">
+                ₹ 1,32,000 | 3 Years
+            </div>
+
+            <a href="../applynow"
+                class="btn btn-outline-danger rounded-pill px-4 py-2 font-weight-bold"
+                style="font-size: 14px;">
+                🚀 Apply Now
+            </a>
+        </div>
+    </div>
+</div>
+
+<div class="card rounded-3 mb-4 border-0 shadow-lg wow fadeInUp" data-wow-delay=".4s"
+    style="overflow: hidden; transition: 0.3s ease;">
+    <div class="row no-gutters">
+        <!-- Icon Section -->
+        <div class="col-12 text-center py-4" style="background-color: #fbeeee;">
+        <span style="font-size: 90px;">🎓</span>
+        </div>
+
+        <!-- Content Section -->
+        <div class="card-body col-12 px-4 py-3 text-center" style="height:330px;border: 1px solid rgb(240, 178, 178); border-top: none;">
+            <h5 class="card-title mb-2">
+                <a href="../bca-ux"
+                    class="text-dark font-weight-bold"
+                    style="font-size: 22px; text-decoration: none;">
+                    BCA - UX Design
+                </a>
+            </h5>
+
+            <ul class="list-unstyled my-3" style="font-size: 14px; color: #555;">
+                <li>🧠 User-Centered Design Process</li>
+                <li>📱 UI/UX Tools & Prototyping</li>
+                <li>🎯 Real-World UX Projects</li>
+            </ul>
+
+            <div class="mb-3" style="font-size: 18px; font-weight: bold; color: #7f1813;">
+                ₹ 1,32,000 | 3 Years
+            </div>
+
+            <a href="../applynow"
+                class="btn btn-outline-danger rounded-pill px-4 py-2 font-weight-bold"
+                style="font-size: 14px;">
+                🚀 Apply Now
+            </a>
+        </div>
+    </div>
+</div>
+
+<div class="card rounded-3 mb-4 border-0 shadow-lg wow fadeInUp" data-wow-delay=".4s"
+    style="overflow: hidden; transition: 0.3s ease;">
+    <div class="row no-gutters">
+        <!-- Icon Section -->
+        <div class="col-12 text-center py-4" style="background-color: #e6f2ff;">
+        <span style="font-size: 90px;">🎓</span>
+        </div>
+
+        <!-- Content Section -->
+        <div class="card-body col-12 px-4 py-3 text-center" style="height:330px;border: 1px solid rgb(240, 178, 178); border-top: none;">
+            <h5 class="card-title mb-2">
+                <a href="../bca-data_science"
+                    class="text-dark font-weight-bold"
+                    style="font-size: 22px; text-decoration: none;">
+                    BCA - Data Science
+                </a>
+            </h5>
+
+            <ul class="list-unstyled my-3" style="font-size: 14px; color: #555;">
+                <li>📈 Python, R & SQL Foundations</li>
+                <li>🧮 Data Visualization & ML Models</li>
+            </ul>
+
+            <div class="mb-3" style="font-size: 18px; font-weight: bold; color: #7f1813;">
+                ₹ 1,32,000 | 3 Years
+            </div>
+
+            <a href="../applynow"
+                class="btn btn-outline-danger rounded-pill px-4 py-2 font-weight-bold"
+                style="font-size: 14px;">
+                🚀 Apply Now
+            </a>
+        </div>
+    </div>
+</div>
+
+<div class="card rounded-3 mb-4 border-0 shadow-lg wow fadeInUp" data-wow-delay=".4s"
+    style="overflow: hidden; transition: 0.3s ease;">
+    <div class="row no-gutters">
+        <!-- Icon Section -->
+        <div class="col-12 text-center py-4" style="background-color: #fbeeee;">
+            <span style="font-size: 90px;">🎓</span>
+        </div>
+
+        <!-- Content Section -->
+        <div class="card-body col-12 px-4 py-3 text-center" style="height:330px;border: 1px solid rgb(240, 178, 178); border-top: none;">
+            <h5 class="card-title mb-2">
+                <a href="../bca-blockchain_technology"
+                    class="text-dark font-weight-bold"
+                    style="font-size: 22px; text-decoration: none;">
+                    BCA - Blockchain Technology
+                </a>
+            </h5>
+
+            <ul class="list-unstyled my-3" style="font-size: 14px; color: #555;">
+                <li>🔐 Learn Smart Contracts & DApps</li>
+                <li>📦 Real-World Project Implementation</li>
+            </ul>
+
+            <div class="mb-3" style="font-size: 18px; font-weight: bold; color: #7f1813;">
+                ₹ 1,32,000 | 3 Years
+            </div>
+
+            <a href="../applynow"
+                class="btn btn-outline-danger rounded-pill px-4 py-2 font-weight-bold"
+                style="font-size: 14px;">
+                🚀 Apply Now
+            </a>
+        </div>
+    </div>
+</div>
+
+<div class="card rounded-3 mb-4 border-0 shadow-lg wow fadeInUp" data-wow-delay=".4s"
+    style="overflow: hidden; transition: 0.3s ease;">
+    <div class="row no-gutters">
+        <!-- Icon Section -->
+        <div class="col-12 text-center py-4" style="background-color: #e6f2ff;">
+        <span style="font-size: 90px;">🎓</span>
+        </div>
+
+        <!-- Content Section -->
+        <div class="card-body col-12 px-4 py-3 text-center" style="height:330px;border: 1px solid rgb(240, 178, 178); border-top: none;">
+            <h5 class="card-title mb-2">
+                <a href="../bca-ctis__cloud_technology_&_information_security"
+                    class="text-dark font-weight-bold"
+                    style="font-size: 22px; text-decoration: none;">
+                    BCA - Cloud Technology & Information Security
+                </a>
+            </h5>
+
+            <ul class="list-unstyled my-3" style="font-size: 14px; color: #555;">
+                <li>☁️ Master Cloud Platforms (AWS, Azure, GCP)</li>
+                <li>🌐 Build Secure & Scalable Systems</li>
+            </ul>
+
+            <div class="mb-3" style="font-size: 18px; font-weight: bold; color: #7f1813;">
+                ₹ 1,32,000 | 3 Years
+            </div>
+
+            <a href="../applynow"
+                class="btn btn-outline-danger rounded-pill px-4 py-2 font-weight-bold"
+                style="font-size: 14px;">
+                🚀 Apply Now
+            </a>
+        </div>
+    </div>
+</div>
+
+<div class="card rounded-3 mb-4 border-0 shadow-lg wow fadeInUp" data-wow-delay=".4s"
+    style="transition: 0.3s ease;">
+    <div class="row no-gutters">
+        <!-- Icon Section -->
+        <div class="col-12 text-center py-4" style="background-color: #fbeeee;">
+            <span style="font-size: 90px;">🎓</span>
+        </div>
+
+        <!-- Content Section -->
+        <div class="card-body col-12 px-4 py-3 text-center" style="height:330px;border: 1px solid rgb(240, 178, 178); border-top: none;">
+            <h5 class="card-title mb-2">
+                <a href="../bca-artificial_intelligence"
+                    class="text-dark font-weight-bold"
+                    style="font-size: 22px; text-decoration: none;">
+                    BCA - Artificial Intelligence
+                </a>
+            </h5>
+
+            <ul class="list-unstyled my-3" style="font-size: 14px; color: #555;">
+                <li>🤖 Master AI Algorithms</li>
+                <li>🧠 Build Intelligent Systems and Neural Networks</li>
+            </ul>
+
+            <div class="mb-3" style="font-size: 18px; font-weight: bold;color: #7f1813;">
+                ₹ 1,32,000 | 3 Years
+            </div>
+
+            <a href="../applynow"
+                class="btn btn-outline-danger rounded-pill px-4 py-2 font-weight-bold"
+                style="font-size: 14px;">
+                🚀 Apply Now
+            </a>
+        </div>
+    </div>
+</div>
+
+
+<div class="card rounded-3 mb-4 border-0 shadow-lg wow fadeInUp" data-wow-delay=".4s"
+    style="overflow: hidden; transition: 0.3s ease;">
+    <div class="row no-gutters">
+        <!-- Icon Section -->
+        <div class="col-12 text-center py-4" style="background-color: #e6f2ff;">
+        <span style="font-size: 90px;">🎓</span>
+        </div>
+
+        <!-- Content Section -->
+        <div class="card-body col-12 px-4 py-3 text-center" style="height:330px;border: 1px solid rgb(240, 178, 178); border-top: none;">
+            <!-- Program Name -->
+            <h5 class="card-title mb-2">
+                <a href="../ma"
+                    class="text-dark font-weight-bold"
+                    style="font-size: 24px; text-decoration: none;">
+                    Master of Arts (MA)</a>
+            </h5>
+
+            <!-- Additional Benefits -->
+            <p class="fables-fifth-text-color font-14 mb-3" style="line-height: 1.5;">
+                - Flexible online learning format 📱<br>
+                - Hands-on learning and real-world case studies 💼
+            </p>
+
+            <div class="mb-3" style="font-size: 18px; font-weight: bold; color: #7f1813;">
+            ₹ 72,000 | 2 Years 
+            </div>
+
+            <a href="../applynow"
+                class="btn btn-outline-danger rounded-pill px-4 py-2 font-weight-bold"
+                style="font-size: 14px;">
+                🚀 Apply Now
+            </a>
+        </div>
+    </div>
+</div>
+
+
+
+<div class="card rounded-3 mb-4 border-0 shadow-lg wow fadeInUp" data-wow-delay=".4s"
+    style="overflow: hidden; transition: 0.3s ease;">
+    <div class="row no-gutters">
+        <!-- Icon Section -->
+        <div class="col-12 text-center py-4" style="background-color: #fbeeee;">
+        <span style="font-size: 90px;">🎓</span>
+        </div>
+
+        <!-- Content Section -->
+        <div class="card-body col-12 px-4 py-3 text-center" style="height:330px;border: 1px solid rgb(240, 178, 178); border-top: none;">
+        
+            <h5 class="card-title mb-2">
+                <a href="../mba-agri_business"
+                    class="text-dark font-weight-bold"
+                    style="font-size: 24px; text-decoration: none;">
+                    MBA - Agri Business </a>
+            </h5>
+
+
+            <!-- Additional Benefits -->
+            <p class="fables-fifth-text-color font-14 mb-3" style="line-height: 1.5;">
+                - Master business strategies in the Agri sector 🌾<br>
+                - Hands-on approach with real-life case studies 💼
+            </p>
+               
+            <div class="mb-3" style="font-size: 18px; font-weight: bold; color: #7f1813;">
+            ₹ 1,50,000 | 2 Years 💰
+            </div>
+            <a href="../applynow"
+                class="btn btn-outline-danger rounded-pill px-4 py-2 font-weight-bold"
+                style="font-size: 14px;">
+                🚀 Apply Now
+            </a>
+        </div>
+    </div>
+</div>
+
+<div class="card rounded-3 mb-4 border-0 shadow-lg wow fadeInUp" data-wow-delay=".4s"
+    style="overflow: hidden; transition: 0.3s ease;">
+    <div class="row no-gutters">
+        <!-- Icon Section -->
+        <div class="col-12 text-center py-4" style="background-color: #e6f2ff;">
+        <span style="font-size: 90px;">🎓</span>
+        </div>
+
+
+        <!-- Content Section -->
+        <div class="card-body col-12 px-4 py-3 text-center" style="height:330px;border: 1px solid rgb(240, 178, 178); border-top: none;">
+            <!-- Course Name -->
+            <h5 class="card-title mb-2" >
+                <a href="../mba-hrm"
+                    class="text-dark font-weight-bold"
+                    style="font-size: 24px; text-decoration: none;">
+                    MBA - HRM </a>
+            </h5>
+
+
+            <!-- Additional Benefits -->
+            <p class="fables-fifth-text-color font-14 mx-3 mb-3" style="line-height: 1.5; text-align:center;">
+                - Develop leadership and management skills 👩‍💼<br>
+                - Online learning for flexibility 🌍 🌟
+            </p>
+
+            <div class="mb-3" style="font-size: 18px; font-weight: bold;color: #7f1813;">
+            ₹ 1,50,000 | 2 Years 💰
+            </div>
+            <!-- Apply Now Button -->
+            <a href="../applynow"
+                class="btn btn-outline-danger rounded-pill px-4 py-2 font-weight-bold"
+                style="font-size: 14px;">
+                🚀 Apply Now
+            </a>
+        </div>
+    </div>
+</div>
+
+<div class="card rounded-3 mb-4 border-0 shadow-lg wow fadeInUp" data-wow-delay=".4s"
+    style="overflow: hidden; transition: 0.3s ease;">
+    <div class="row no-gutters">
+        <!-- Icon Section -->
+        <div class="col-12 text-center py-4" style="background-color: #fbeeee;">
+        <span style="font-size: 90px;">🎓</span>
+        </div>
+
+        <!-- Content Section -->
+        <div class="card-body col-12 px-4 py-3 text-center" style="height:330px;border: 1px solid rgb(240, 178, 178); border-top: none;">
+            <h5 class="card-title mb-2">
+                <a href="../mba-marketing"
+                    class="text-dark font-weight-bold"
+                    style="font-size: 24px; text-decoration: none;">
+                    MBA - Marketing</a>
+            </h5>
+
+
+            <!-- Additional Benefits -->
+            <p class="fables-fifth-text-color font-14 mx-3 mb-3" style="line-height: 1.5; text-align:center;">
+                - Learn digital marketing techniques 📱<br>
+                - Flexible online learning platform 🌍 🌟
+            </p>
+            <div class="mb-3" style="font-size: 18px; font-weight: bold; color: #7f1813;">
+            ₹ 1,50,000 | 2 Years 💰
+            </div>
+            <a href="../applynow"
+                class="btn btn-outline-danger rounded-pill px-4 py-2 font-weight-bold"
+                style="font-size: 14px;">
+                🚀 Apply Now
+            </a>
+        </div>
+    </div>
+</div>
+
+<div class="card rounded-3 mb-4 border-0 shadow-lg wow fadeInUp" data-wow-delay=".4s"
+    style="overflow: hidden; transition: 0.3s ease;">
+    <div class="row no-gutters">
+        <!-- Icon Section -->
+        <div class="col-12 text-center py-4" style="background-color: #e6f2ff;">
+        <span style="font-size: 90px;">🎓</span>
+        </div>
+
+
+        <!-- Content Section -->
+        <div class="card-body col-12 px-4 py-3 text-center" style="height:330px;border: 1px solid rgb(240, 178, 178); border-top: none;">
+            <h5 class="card-title mb-2">
+                <a href="../mba-finance"
+                    class="text-dark font-weight-bold"
+                    style="font-size: 24px; text-decoration: none;">
+                    MBA - Finance </a>
+            </h5>
+
+            <!-- Additional Benefits -->
+            <p class="fables-fifth-text-color font-14 mx-3 mb-3" style="line-height: 1.5; text-align:center;">
+                - Learn financial planning and risk management 💹<br>
+                - Flexible online learning format 🌍
+            </p>
+                
+            <div class="mb-3" style="font-size: 18px; font-weight: bold; color: #7f1813;">
+            ₹ 1,50,000 | 2 Years 💰
+            </div>
+
+            <a href="../applynow"
+                class="btn btn-outline-danger rounded-pill px-4 py-2 font-weight-bold"
+                style="font-size: 14px;">
+                🚀 Apply Now
+            </a>
+        </div>
+    </div>
+</div>
+
+<div class="card rounded-3 mb-4 border-0 shadow-lg wow fadeInUp" data-wow-delay=".4s"
+    style="overflow: hidden; transition: 0.3s ease;">
+    <div class="row no-gutters">
+        <!-- Icon Section -->
+        <div class="col-12 text-center py-4" style="background-color: #fbeeee;">
+        <span style="font-size: 90px;">🎓</span>
+        </div>
+
+        <!-- Content Section -->
+        <div class="card-body col-12 px-4 py-3 text-center" style="height:330px;border: 1px solid rgb(240, 178, 178); border-top: none;">
+            <h5 class="card-title mb-2">
+                <a href="../mba-healthcare"
+                    class="text-dark font-weight-bold"
+                    style="font-size: 24px; text-decoration: none;">
+                    MBA - Healthcare</a>
+            </h5>
+
+            <!-- Additional Benefits -->
+            <p class="fables-fifth-text-color font-14 mx-3 mb-3" style="line-height: 1.5; text-align:center;">
+                - Master skills in healthcare economics and policy 🏛️<br>
+                - Online learning format for global reach 🌍
+            </p>
+
+            <div class="mb-3" style="font-size: 18px; font-weight: bold; color: #7f1813;">
+            ₹ 1,50,000 | 2 Years 💰
+            </div>
+
+            <a href="../applynow"
+                class="btn btn-outline-danger rounded-pill px-4 py-2 font-weight-bold"
+                style="font-size: 14px;">
+                🚀 Apply Now
+            </a>
+        </div>
+    </div>
+</div>
+
+<div class="card rounded-3 mb-4 border-0 shadow-lg wow fadeInUp" data-wow-delay=".4s"
+    style="overflow: hidden; transition: 0.3s ease;">
+    <div class="row no-gutters">
+        <!-- Icon Section -->
+        <div class="col-12 text-center py-4" style="background-color: #e6f2ff;">
+        <span style="font-size: 90px;">🎓</span>
+        </div>
+
+
+        <!-- Content Section -->
+        <div class="card-body col-12 px-4 py-3 text-center" style="height:330px;border: 1px solid rgb(240, 178, 178); border-top: none;">
+            <h5 class="card-title mb-2">
+                <a href="../mba-information_technology"
+                    class="text-dark font-weight-bold"
+                    style="font-size: 24px; text-decoration: none;">
+                    MBA - Information Technology</a>
+            </h5>
+
+            <!-- Additional Benefits -->
+            <p class="fables-fifth-text-color font-14 mx-3 mb-3" style="line-height: 1.5; text-align:center;">
+                - Learn digital transformation strategies 🔄<br>
+                - Flexible online learning format 🌍
+            </p>
+                 
+            <div class="mb-3" style="font-size: 18px; font-weight: bold; color: #7f1813;">
+            ₹ 1,50,000 | 2 Years 💰
+            </div>
+
+            <a href="../applynow"
+                class="btn btn-outline-danger rounded-pill px-4 py-2 font-weight-bold"
+                style="font-size: 14px;">
+                🚀 Apply Now
+            </a>
+        </div>
+    </div>
+</div>
+<div class="card rounded-3 mb-4 border-0 shadow-lg wow fadeInUp" data-wow-delay=".4s"
+    style="overflow: hidden; transition: 0.3s ease;">
+    <div class="row no-gutters">
+        <!-- Icon Section -->
+        <div class="col-12 text-center py-4" style="background-color: #fbeeee;">
+        <span style="font-size: 90px;">🎓</span>
+        </div>
+
+        <!-- Content Section -->
+        <div class="card-body col-12 px-4 py-3 text-center" style="height:330px;border: 1px solid rgb(240, 178, 178); border-top: none;">
+            <h5 class="card-title mb-2">
+                <a href="../mba-international_business"
+                    class="text-dark font-weight-bold"
+                    style="font-size: 24px; text-decoration: none;">
+                    MBA - International Business </a>
+            </h5>
+
+            <!-- Additional Benefits -->
+            <p class="fables-fifth-text-color font-14 mx-3 mb-3" style="line-height: 1.5; text-align:center;">
+                - Learn global business strategies 🌍<br>
+                - Opportunities for international exposure 🌍
+            </p>
+            <div class="mb-3" style="font-size: 18px; font-weight: bold; color: #7f1813;">
+            ₹ 1,50,000 | 2 Years 💰
+            </div>
+
+            <a href="../applynow"
+                class="btn btn-outline-danger rounded-pill px-4 py-2 font-weight-bold"
+                style="font-size: 14px;">
+                🚀 Apply Now
+            </a>
+        </div>
+    </div>
+</div>
+
+             
+<div class="card rounded-3 mb-4 border-0 shadow-lg wow fadeInUp" data-wow-delay=".4s"
+    style="overflow: hidden; transition: 0.3s ease;">
+    <div class="row no-gutters">
+        <!-- Icon Section -->
+        <div class="col-12 text-center py-4" style="background-color: #e6f2ff;">
+        <span style="font-size: 90px;">🎓</span>
+        </div>
+
+
+        <!-- Content Section -->
+        <div class="card-body col-12 px-4 py-3 text-center" style="height:330px;border: 1px solid rgb(240, 178, 178); border-top: none;">
+            <h5 class="card-title mb-2">
+                <a href="../mba-operations_management"
+                    class="text-dark font-weight-bold"
+                    style="font-size: 24px; text-decoration: none;">
+                    MBA - Operations Management</a>
+            </h5>
+
+            <!-- Additional Benefits -->
+            <p class="fables-fifth-text-color font-14 mx-3 mb-3" style="line-height: 1.5; text-align:center;">
+                - Master key operations strategies 🔑<br>
+                - Learn supply chain management 🚚
+            </p>
+
+            <div class="mb-3" style="font-size: 18px; font-weight: bold; color: #7f1813;">
+            ₹ 1,50,000 | 2 Years 💰
+            </div>
+
+            <a href="../applynow"
+                class="btn btn-outline-danger rounded-pill px-4 py-2 font-weight-bold"
+                style="font-size: 14px;">
+                🚀 Apply Now
+            </a>
+        </div>
+    </div>
+</div>
+
+<div class="card rounded-3 mb-4 border-0 shadow-lg wow fadeInUp" data-wow-delay=".4s"
+    style="overflow: hidden; transition: 0.3s ease;">
+    <div class="row no-gutters">
+        <!-- Icon Section -->
+        <div class="col-12 text-center py-4" style="background-color: #fbeeee;">
+        <span style="font-size: 90px;">🎓</span>
+        </div>
+
+        <!-- Content Section -->
+        <div class="card-body col-12 px-4 py-3 text-center" style="height:330px;border: 1px solid rgb(240, 178, 178); border-top: none;">
+            <h5 class="card-title mb-2">
+                <a href="../mca-computer_application"
+                    class="text-dark font-weight-bold"
+                    style="font-size: 24px; text-decoration: none;">
+                    MCA - Computer Applications</a>
+            </h5>
+
+
+            <!-- Additional Benefits -->
+            <p class="fables-fifth-text-color font-14 mx-3 mb-3" style="line-height: 1.5; text-align:center;">
+                - Master programming languages 💻<br>
+                - Develop real-world software applications 🛠️🎓
+            </p>
+
+            <div class="mb-3" style="font-size: 18px; font-weight: bold; color: #7f1813;">
+            ₹ 1,50,000 | 2 Years 💰
+            </div>
+
+            <a href="../applynow"
+                class="btn btn-outline-danger rounded-pill px-4 py-2 font-weight-bold"
+                style="font-size: 14px;">
+                🚀 Apply Now
+            </a>
+        </div>
+    </div>
+</div>
+
+            
+<div class="card rounded-3 mb-4 border-0 shadow-lg wow fadeInUp" data-wow-delay=".4s"
+    style="overflow: hidden; transition: 0.3s ease;">
+    <div class="row no-gutters">
+        <!-- Icon Section -->
+        <div class="col-12 text-center py-4" style="background-color: #e6f2ff;">
+        <span style="font-size: 90px;">🎓</span>
+        </div>
+
+        <!-- Content Section -->
+        <div class="card-body col-12 px-4 py-3 text-center" style="height:330px;border: 1px solid rgb(240, 178, 178); border-top: none;">
+            <h5 class="card-title mb-2">
+                <a href="../msc-mathematics"
+                    class="text-dark font-weight-bold"
+                    style="font-size: 24px; text-decoration: none;">
+                    MSC - Mathematics</a>
+            </h5>
+
+            <!-- Additional Benefits -->
+            <p class="fables-fifth-text-color font-14 mx-3 mb-3" style="line-height: 1.5; text-align:center;">
+                - Master advanced mathematical theories 📚<br>
+                - Gain expertise in statistical analysis 📉
+            </p>
+
+            <div class="mb-3" style="font-size: 18px; font-weight: bold; color: #7f1813;">
+            ₹ 72,000 | 2 Years 
+            </div>
+
+            <a href="../applynow"
+                class="btn btn-outline-danger rounded-pill px-4 py-2 font-weight-bold"
+                style="font-size: 14px;">
+                🚀 Apply Now
+            </a>
+        </div>
+    </div>
+</div>
+
+            </div>
+        </div>
+    </div>
            
       
 <!-- /End page content -->
     
 <!-- Start Footer 2 Background Image  -->
-<div class="fables-footer-image fables-after-overlay white-color py-4 py-lg-5 bg-rules" style="margin-top: -150px;">
+<div class="fables-footer-image fables-after-overlay white-color py-4 py-lg-5 bg-rules footerlanding" style="margin-top: -150px;">
     <div class="container">
         <div class="row">
             <div class="col-12 col-lg-3 mb-4 mb-lg-0">
@@ -811,51 +1276,36 @@
                 
             </div>
              
+            
             <div class="col-12 col-sm-6 col-lg-3">
-                <h2 class="font-20 semi-font fables-second-border-color border-bottom pb-3">Contact us</h2>
-             
-                <div class="my-3">
-                    <h4 class="font-16 semi-font"><span class="fables-iconphone fables-second-text-color pr-2 font-20 mt-1 d-inline-block"></span> Call Now </h4>
-                    <p class="font-14 fables-fifth-text-color mt-2 ml-4">+333 111 111 000</p>
+                    <h2 class="font-20 semi-font fables-second-border-color border-bottom pb-3 mb-3">Quick Links</h2>
+                    <ul class="nav fables-footer-links">
+                        <li><a href="../ba">BA</a></li>
+                        <li><a href="../bba-digital_marketing">BBA - Digital Marketing</a></li>
+                        <li><a href="../bba-retail_management">BBA - Retail Management</a></li>
+                        <li><a href="../bba-fintech">BBA - Fintech</a></li>
+                        <li><a href="../bca-ux">BCA - UX</a></li>
+                        <li><a href="../bca-data_science">BCA - Data Science</a></li>
+                        <li><a href="../bca-blockchain_technology">BCA - Blockchain Technology</a></li>
+                        <li><a href="../bca-ctis__cloud_technology_&_information_security">BCA - Cloud Technology & Information Security</a></li>
+                        <li><a href="../bca-artificial_intelligence">BCA - Artificial Intelligence</a></li>
+                    </ul>
                 </div>
-                <div class="my-3">
-                    <h4 class="font-16 semi-font"><span class="fables-iconemail fables-second-text-color pr-2 font-20 mt-1 d-inline-block"></span> Mail </h4>
-                    <p class="font-14 fables-fifth-text-color mt-2 ml-4">adminsupport@website.com</p>
+                <div class="col-12 col-sm-6 col-lg-3 mt-5">
+                    <ul class="nav fables-footer-links">
+                        <li><a href="../ma">MA</a></li>
+                        <li><a href="../mba-hrm">MBA - Human Resource</a></li>
+                        <li><a href="../mba-marketing">MBA - Marketing</a></li>
+                        <li><a href="../mba-finance">MBA - Finance</a></li>
+                        <li><a href="../mba-healthcare">MBA - Healthcare</a></li>
+                        <li><a href="../mba-agri_business">MBA - Agri Business</a></li>
+                        <li><a href="../mba-information_technology">MBA - Information Technology</a></li>
+                        <li><a href="../mba-international_business">MBA - International Business</a></li>
+                        <li><a href="../mba-operations_management">MBA - Operations Management</a></li>
+                        <li><a href="../mca-computer_application">MCA</a></li>
+                        <li><a href="../msc-mathematics">M.Sc - Maths</a></li>
+                    </ul>
                 </div>
-            </div>
-            <div class="col-12 col-sm-6 col-lg-3">
-                <h2 class="font-20 semi-font fables-second-border-color border-bottom pb-3 mb-3">Quick Links</h2>
-                <ul class="nav fables-footer-links">
-                    <li><a href="about1.html">BA</a></li>
-                    <li><a href="contactus1.html">BBA</a></li>
-                    <li><a href="contactus1.html">BBA - Digital Marketing</a></li>
-                    <li><a href="contactus1.html">BBA - Retail Management</a></li>
-                    <li><a href="contactus1.html">BBA - Fintech</a></li>
-                    <li><a href="gallery.html">BCA</a></li>
-                    <li><a href="gallery.html">BCA - UX</a></li>
-                    <li><a href="gallery.html">BCA - Data Science</a></li>
-                    <li><a href="gallery.html">BCA - Blockchain Technology</a></li>
-                    <li><a href="gallery.html">BCA - Cloud Technology & Information Security</a></li>
-                    <li><a href="gallery.html">BCA - Artificial Intelligence</a></li>
-                </ul>
-            </div>
-            <div class="col-12 col-sm-6 col-lg-3 mt-5">
-                <ul class="nav fables-footer-links">
-                    <li><a href="team.html">MA</a></li>
-                    <li><a href="blog.html">MBA</a></li>
-                    <li><a href="blog.html">MBA - Human Resource</a></li>
-                    <li><a href="blog.html">MBA - Marketing</a></li>
-                    <li><a href="blog.html">MBA - Finance</a></li>
-                    <li><a href="blog.html">MBA - Healthcare</a></li>
-                    <li><a href="blog.html">MBA - Agri Business</a></li>
-                    <li><a href="blog.html">MBA - Information Technology</a></li>
-                    <li><a href="blog.html">MBA - International Business</a></li>
-                    <li><a href="blog.html">MBA - Operations Management</a></li>
-                    <li><a href="testimonials.html">MCA</a></li>
-                    <li><a href="testimonials.html">M.Sc</a></li>
-                    <li><a href="testimonials.html">M.Sc -  Maths</a></li>
-                </ul>
-            </div>
                       
         </div> 
         
@@ -870,7 +1320,7 @@
             <li><a href="#" target="_blank"><i class="fab fa-twitter-square"></i></a></li>
             <li><a href="#" target="_blank"><i class="fab fa-linkedin"></i></a></li>
         </ul>
-        <p class="mb-0">Copyright © fables 2018. All rights reserved.</p> 
+        <p class="mb-0">iop.onlinevgu.com All rights reserved.</p> 
 
 </div>
     
@@ -889,10 +1339,25 @@
 <script src="../assets/vendor/video-background/jquery.mb.YTPlayer.js"></script>
 <script src="../assets/vendor/WOW-master/dist/wow.min.js"></script>
 <script src="../assets/custom/js/custom.js"></script>  
+<script src="../assets/custom/js/form.js"></script>
 <script>
      $(".player").mb_YTPlayer();
     
 </script>
+
+<script>
+    function applynow() {
+           window.location.href = '../applynow'
+    }
+</script>
     
+<script>
+     const input = document.querySelector("#phone");
+    const iti = intlTelInput(input, {
+      initialCountry: "in",  // Default country code is India
+      separateDialCode: true,  // Shows the country code next to the number
+      nationalMode: false,  // Enforces full international format
+    });
+</script>
 </body>
 </html>

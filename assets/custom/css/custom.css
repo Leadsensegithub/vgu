@@ -355,9 +355,6 @@ body{
     -webkit-transition: all ease-in-out .3s;
     transition: all ease-in-out .3s;
 }
-.fables-testimonial {
-    background-image: url(../images/big-overlay.jpg);  
-}
 .fables-testimonial-no-background{
     background: none;
     padding: 0;
@@ -2320,7 +2317,6 @@ body{
     background-color: #7f1813;
 }
 .half-width-testimonial{
-    background-image: url(../images/index-testimonial.jpg); 
     margin-bottom: 11% !important;
 }
 .half-width-testimonial .owl-item{
@@ -2862,9 +2858,6 @@ a:hover , .btn-link:hover{
 }
  .fables-second-hover-color:hover , .fables-second-hover-color-link a:hover{
     color: #fff;
-}
-.fables-second-border-color {
-    border-color: #7f1813 !important;
 }
 .fables-second-hover-text-color:hover .fables-main-text-color ,.fables-second-hover-color:hover .fables-third-text-color
 ,.fables-second-hover-text-color:hover .fables-fifth-border-color{

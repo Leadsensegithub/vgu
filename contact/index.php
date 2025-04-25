@@ -59,12 +59,109 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400..900&family=Spectral:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,200;1,300;1,400;1,500;1,600;1,700;1,800&family=Vollkorn:ital,wght@0,400..900;1,400..900&display=swap" rel="stylesheet">
       
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/intl-tel-input/17.0.8/css/intlTelInput.min.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/intl-tel-input/17.0.8/js/intlTelInput.min.js"></script>
      
 </head>
 
 
 <body>
-<style>
+    <style>
+        .iti{
+            width: 100% !important;
+        }
+          body {
+      margin: 0;
+      padding: 0;
+      font-family: Arial, sans-serif;
+    }
+
+    .contactpage{
+      display: flex;
+    justify-content: center;
+      border-radius: 8px;
+      margin-top: 30px;
+      margin-bottom: 250px;
+    }
+    .contactpage .form-section label{
+        color: #7f1813;
+    }
+
+   .contactpage .form-section, .info-section {
+      padding: 30px;
+      flex: 1;
+    }
+
+   .contactpage .form-section {
+      background-color: #ffffff;
+      box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    }
+
+    .contactpage .info-section {
+      color: #5c1210;
+    }
+.contactpage .info-section h4{
+    color: #212529;
+}
+   .contactpage h2 {
+      margin-bottom: 20px;
+    }
+
+   .contactpage label {
+      display: block;
+      margin-top: 15px;
+      font-weight: bold;
+    }
+
+   .contactpage input, textarea, select {
+      width: 100%;
+      padding: 12px;
+      margin-top: 5px;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+      height: 40px !important;
+    }
+    .contactpage select {
+      width: 100%;
+      height: 10px;
+    }
+
+    .contactpage textarea {
+      resize: vertical;
+      min-height: 100px;
+    }
+
+   .contactpage .submit-btn {
+      background-color: #7f1813;
+      color: white;
+      padding: 14px 20px;
+      border: none;
+      margin-top: 20px;
+      cursor: pointer;
+      border-radius: 5px;
+      width: 100%;
+      transition: background-color 0.3s ease;
+    }
+
+   .contactpage .submit-btn:hover {
+      background-color: #5c1210;
+    }
+
+   .contactpage .contact-info {
+      margin-top: 30px;
+    }
+
+   .contactpage .contact-item {
+      margin-bottom: 20px;
+      font-size: 16px;
+    }
+
+   .contactpage .contact-item i {
+      margin-right: 10px;
+      color: #5c1210;
+      font-size: 25px;
+    }
     @keyframes pulse {
   0%, 100% {
     transform: scale(1);
@@ -81,7 +178,12 @@
             animation: pulse 1.2s infinite;
             cursor: pointer;
         }
-        
+        .headernav ul li a {
+            color: #7f1813 !important;
+            font-weight: bold !important;
+            font-family: Roboto Slab;
+            font-size: 17px !important;
+        }
         
         .headernav ul li a {
             color: #7f1813 !important;
@@ -92,66 +194,14 @@
 
      
 
-        .ugcourse .custom-card {
-        background: linear-gradient(135deg, #ffffff, #f8f9fa);
-        border-radius: 15px;
-        box-shadow: 0 10px 25px rgb(247, 196, 193);
-        transition: transform 0.3s ease, box-shadow 0.3s ease;
-        height: 100%;
-    }
-
-   .ugcourse .custom-card:hover {
-        transform: translateY(-8px);
-        box-shadow: 0 15px 35px #7f1813;
-    }
-
-   .ugcourse .custom-card-body {
-        padding: 30px;
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        text-align: center;
-    }
-
-   .ugcourse .custom-card-title {
-        font-weight: 700;
-        color: #7f1813;
-        margin-bottom: 15px;
-        font-size: 1.5rem;
-    }
-
-   .ugcourse .custom-card-text {
-        color: #6c757d;
-        font-size: 14px;
-        margin-bottom: 20px;
-    }
-
-   .ugcourse .custom-card ul {
-        padding: 0;
-        list-style: none;
-        color: #495057;
-        margin-bottom: 20px;
-    }
-
-   .ugcourse .custom-card li {
-        margin-bottom: 8px;
-    }
-
-   .ugcourse .custom-apply-btn {
-    background-color: #7f1813;
-        color: white;
-        border: none;
-        padding: 10px 25px;
-        border-radius: 30px;
-        font-weight: bold;
-        transition: background-color 0.3s ease;
-        text-decoration: none;
-    }
-
-   .ugcourse .custom-apply-btn:hover {
-   background-color: #7f1813;
-    }
 @media only screen and (max-width: 900px){
+  .contactpage{
+    display: flex;
+    flex-direction: column;
+  }
+  .formlanding h2{
+        font-size: 20px;
+    } 
     .mobilenav{
                 display: flex;
                 align-items: center;
@@ -162,20 +212,42 @@
     width: 50px;
     height: 50px;
 }
-    .aboutlanding h2{
-    font-size: 25px;
-  }  
-    .ugcourse h2{
+    .formlanding h2 span{
         font-size: 20px;
     }
-    .ugcourse p{
-        font-size: 13px;
+    .formlanding .applynowform{
+        width: 280px;
+        padding: 10px;
     }
-    .footerlanding img{
+    .formlanding .applynowform label{
+        font-size: 12px;
+    }
+    .formlanding .applynowform input::placeholder{
+        font-size: 8px;
+    }
+    .formlanding .applynowform input{
+        height: 10px !important;
+    }
+    .formlanding .applynowform select{
+        height: 25px !important;
+        font-size: 7px;
+    }
+    .formlanding p{
+        font-size: 15px ;
+    }
+    .info-section h4{
+        font-size: 15px;
+    }
+     .formlanding .applynowform textarea::placeholder{
+        font-size: 10px;
+     }
+     .footerlanding img{
     display: none;
      }
 }
-</style>   
+
+    </style>
+   
 
 <div class="search-section">
     <a class="close-search" href="#"></a>
@@ -342,293 +414,109 @@
             </div>
         </div>
     </div>
-
 <!-- /End fables Navigation --> 
-<div class="container my-5 ugcourse">
-    <h2 class="text-center fables-second-text-color font-35 font-weight-bold mb-4">Explore Our <span class="fables-main-text-color">PG Courses</span><span> 🎓</span></h2>
-    <p class="text-center fables-fifth-text-color mb-5 font-18">Get industry-relevant skills with flexibility, expert faculty & placement support at Online VGU.</p>
+<div class="container contactpage">
+    
+  <div class="info-section" style="margin-bottom:100px;">
+    <h4>Contact Details</h4>
+    <div class="contact-info">
+     
+      <div class="contact-item">
+      <i class="fa-solid fa-globe"></i> onlinevgu.com
+      </div>
+    </div>
+    <div class="followus mt-5">
+    <h4>Follow Us</h4>
+    <ul class="nav fables-footer-social-links  fables-light-footer-links" style="padding-top:20px;">
+            <li><a href="#" target="_blank"><i class="fab fa-google-plus-square"></i></a></li>
+            <li><a href="#" target="_blank"><i class="fab fa-facebook"></i></a></li>
+            <li><a href="#" target="_blank"><i class="fab fa-instagram"></i></a></li>
+            <li><a href="#" target="_blank"><i class="fab fa-pinterest-square"></i></a></li>
+            <li><a href="#" target="_blank"><i class="fab fa-twitter-square"></i></a></li>
+            <li><a href="#" target="_blank"><i class="fab fa-linkedin"></i></a></li>
+        </ul>
+    </div>
+  </div>
 
-    <div class="row mt-5">
+  <div class="formlanding form-section">
+  <div>
+    <h2 class="fables-main-text-color font-35 font-weight-bold text-center">
+    🎓  Contact<span class="fables-second-text-color"> us</span>
+    </h2>
+    <p class="fables-main-text-color text-center mb-4 mb-md-5 font-19">Start your journey with Online VGU today <span style="font-size:20px;">🚀</span></p>
 
-    <div class="col-md-4 mb-4">
-    <div class="custom-card">
-        <div class="custom-card-body">
-            <h5 class="custom-card-title">MA</h5>
-            <p class="custom-card-text">
-            Advance your expertise in humanities, literature, and social sciences with a research-focused approach.</p>
-            <ul>
-            <li><strong>Duration:</strong> 2 Years</li>
-                    <li><strong>Eligibility:</strong> 45% Aggregate in Graduation</li>
-                    <li><strong>Fees:</strong> ₹ 72,000</li>
-            </ul>
-            <a href="../ma" class="btn fables-second-background-color white-color fables-btn-rounded px-4 py-2 d-inline-block">🚀 View More</a>
-        </div>
+    <form id="leadForm" >
+        <div class="row applynowform">
+    <div class="col-12 col-md-6 mb-4">
+        <label for="name">Full Name:</label>
+        <input type="text" id="name" class="form-control fables-input" placeholder="Full Name" required>
+        <small id="name-error" class="error-message" style="color: black; font-size: 11px;"></small>
+    </div>
+    <div class="col-12 col-md-6 mb-4">
+        <label for="email">Email:</label>
+        <input type="email" id="email" class="form-control fables-input" placeholder="Email Address" required>
+        <small id="email-error" class="error-message" style="color: black; font-size: 11px;"></small>
+    </div>
+    <div class="col-12 col-md-6 mb-4">
+        <label for="phone">Phone No:</label><br>
+        <input type="tel" id="phone" class="form-control fables-input" placeholder="Phone Number" required>
+        <small id="phone-error" class="error-message" style="color: black; font-size: 11px;"></small>
+    </div>
+    <div class="col-12 col-md-6 mb-4">
+        <label for="course">Select a Course:</label>
+        <select class="form-control fables-input" id="course" required>
+            <option value="" disabled selected>Select a Course</option>
+            <option>BA</option>
+            <option>BBA</option>
+            <option>BBA - Digital Marketing</option>
+            <option>BBA - Retail Management</option>
+            <option>BBA - Fintech</option>
+            <option>BCA</option>
+            <option>BCA - UX</option>
+            <option>BCA - Data Science</option>
+            <option>BCA - Blockchain Technology</option>
+            <option>BCA - Cloud Technology & Information Security</option>
+            <option>BCA - Artificial Intelligence</option>
+            <option>MA</option>
+            <option>MBA</option>
+            <option>MBA - Human Resource</option>
+            <option>MBA - Marketing</option>
+            <option>MBA - Finance</option>
+            <option>MBA - Healthcare</option>
+            <option>MBA - Agri Business</option>
+            <option>MBA - Information Technology</option>
+            <option>MBA - International Business</option>
+            <option>MBA - Operations Management</option>
+            <option>MCA</option>
+            <option>M.Sc</option>
+            <option>M.Sc Maths</option>
+        </select>
+        <small id="course-error" class="error-message" style="color: black; font-size: 11px;"></small>
+    </div>
+    <div class="col-12 mb-4">
+        <label for="query">Query:</label>
+        <textarea class="form-control fables-input" id="query" rows="4" placeholder="Your Message"></textarea>
+        <small id="query-error" class="error-message" style="color: black; font-size: 11px;"></small>
+    </div>
+    <div class="col-12 text-center">
+        <button type="button" class="btn fables-second-background-color white-color white-color-hover fables-btn-rounded px-5 py-2" onclick="validateForm()">Submit</button>
+    </div>
+    </div>
+</form>
     </div>
 </div>
 
-<div class="col-md-4 mb-4">
-    <div class="custom-card">
-        <div class="custom-card-body">
-            <h5 class="custom-card-title">MBA - Human Resource</h5>
-            <p class="custom-card-text">
-            Learn to manage workforce planning, recruitment, training, and employee relations with strategic HR skills.</p>
-            <ul>
-            <li><strong>Duration:</strong> 2 Years</li>
-                    <li><strong>Eligibility:</strong> 45% Aggregate in Graduation</li>
-                    <li><strong>Fees:</strong> ₹ 1,50,000</li>
-            </ul>
-            <a href="../mba-hrm" class="btn fables-second-background-color white-color fables-btn-rounded px-4 py-2 d-inline-block">🚀 View More</a>
-        </div>
-    </div>
-</div>
-
-<div class="col-md-4 mb-4">
-    <div class="custom-card">
-        <div class="custom-card-body">
-            <h5 class="custom-card-title">MBA - Finance</h5>
-            <p class="custom-card-text">
-            Dive deep into financial management, investment analysis, and strategic decision-making tools.</p>
-            <ul>
-            <li><strong>Duration:</strong> 2 Years</li>
-                    <li><strong>Eligibility:</strong> 45% Aggregate in Graduation</li>
-                    <li><strong>Fees:</strong> ₹ 1,50,000</li>
-            </ul>
-            <a href="../mba-finance" class="btn fables-second-background-color white-color fables-btn-rounded px-4 py-2 d-inline-block">🚀 View More</a>
-        </div>
-    </div>
-</div>
-
-    <div class="col-md-4 mb-4">
-    <div class="custom-card">
-        <div class="custom-card-body">
-            <h5 class="custom-card-title">MBA - Marketing</h5>
-            <p class="custom-card-text">
-            Build expertise in branding, advertising, digital marketing, and consumer behavior analytics.</p>
-            <ul>
-            <li><strong>Duration:</strong> 2 Years</li>
-                    <li><strong>Eligibility:</strong> 45% Aggregate in Graduation</li>
-                    <li><strong>Fees:</strong> ₹ 1,50,000</li>
-            </ul>
-            <a href="../mba-marketing" class="btn fables-second-background-color white-color fables-btn-rounded px-4 py-2 d-inline-block">🚀 View More</a>
-        </div>
-    </div>
-</div>
-
-    <div class="col-md-4 mb-4">
-    <div class="custom-card">
-        <div class="custom-card-body">
-            <h5 class="custom-card-title">MBA - Information Technology</h5>
-            <p class="custom-card-text">
-            Master IT strategy, systems design, data management, and digital transformation in business.</p>
-            <ul>
-            <li><strong>Duration:</strong> 2 Years</li>
-                    <li><strong>Eligibility:</strong> 45% Aggregate in Graduation</li>
-                    <li><strong>Fees:</strong> ₹ 1,50,000</li>
-            </ul>
-            <a href="../mba-information_technology" class="btn fables-second-background-color white-color fables-btn-rounded px-4 py-2 d-inline-block">🚀 View More</a>
-        </div>
-    </div>
-</div>
-
-<div class="col-md-4 mb-4">
-    <div class="custom-card">
-        <div class="custom-card-body">
-            <h5 class="custom-card-title">MBA - Agri Business</h5>
-            <p class="custom-card-text">
-            Master business strategies in the Agri sector,Hands-on approach with real-life case studies</p>
-            <ul>
-            <li><strong>Duration:</strong> 2 Years</li>
-                    <li><strong>Eligibility:</strong> 45% Aggregate in Graduation</li>
-                    <li><strong>Fees:</strong> ₹ 1,50,000</li>
-            </ul>
-            <a href="../mba-agri_business" class="btn fables-second-background-color white-color fables-btn-rounded px-4 py-2 d-inline-block">🚀 View More</a>
-        </div>
-    </div>
-</div>
-
-<div class="col-md-4 mb-4">
-    <div class="custom-card">
-        <div class="custom-card-body">
-            <h5 class="custom-card-title">MBA - Healthcare</h5>
-            <p class="custom-card-text">
-            Learn to manage hospital systems, health policies, and operational efficiency in the healthcare sector.</p>
-            <ul>
-            <li><strong>Duration:</strong> 2 Years</li>
-                    <li><strong>Eligibility:</strong> 45% Aggregate in Graduation</li>
-                    <li><strong>Fees:</strong> ₹ 1,50,000</li>
-            </ul>
-            <a href="../mba-healthcare" class="btn fables-second-background-color white-color fables-btn-rounded px-4 py-2 d-inline-block">🚀 View More</a>
-        </div>
-    </div>
-</div>
-
-<div class="col-md-4 mb-4">
-    <div class="custom-card">
-        <div class="custom-card-body">
-            <h5 class="custom-card-title">MBA - International Business</h5>
-            <p class="custom-card-text">
-            Develop skills in global trade, cross-cultural management, international marketing, and export-import operations.</p>
-            <ul>
-            <li><strong>Duration:</strong> 2 Years</li>
-                <li><strong>Eligibility:</strong> 45% Aggregate in Graduation</li>
-                <li><strong>Fees:</strong> ₹ 1,50,000</li>
-            </ul>
-            <a href="../mba-international_business" class="btn fables-second-background-color white-color fables-btn-rounded px-4 py-2 d-inline-block">🚀 View More</a>
-        </div>
-    </div>
-</div>
-
-<div class="col-md-4 mb-4">
-    <div class="custom-card">
-        <div class="custom-card-body">
-            <h5 class="custom-card-title">MBA - Operations Management</h5>
-            <p class="custom-card-text">
-            Focus on process optimization, supply chain management, logistics, and production planning to improve efficiency.</p>
-            <ul>
-            <li><strong>Duration:</strong> 2 Years</li>
-                <li><strong>Eligibility:</strong> 45% Aggregate in Graduation</li>
-                <li><strong>Fees:</strong> ₹ 1,50,000</li>
-            </ul>
-            <a href="../mba-operations_management" class="btn fables-second-background-color white-color fables-btn-rounded px-4 py-2 d-inline-block">🚀 View More</a>
-        </div>
-    </div>
-</div>
-
-    <div class="col-md-4 mb-4">
-    <div class="custom-card">
-        <div class="custom-card-body">
-            <h5 class="custom-card-title">MCA</h5>
-            <p class="custom-card-text">
-            Enhance your software skills with in-depth knowledge of application development and system architecture.</p>
-            <ul>
-            <li><strong>Duration:</strong> 2 Years</li>
-                    <li><strong>Eligibility:</strong> 45% Aggregate in Graduation</li>
-                    <li><strong>Fees:</strong> ₹ 1,50,000</li>
-            </ul>
-            <a href="../mca-computer_application" class="btn fables-second-background-color white-color fables-btn-rounded px-4 py-2 d-inline-block">🚀 View More</a>
-        </div>
-    </div>
-</div>
-
-    <div class="col-md-4 mb-4">
-    <div class="custom-card">
-        <div class="custom-card-body">
-            <h5 class="custom-card-title">M.Sc - Mathematics</h5>
-            <p class="custom-card-text">
-            Specialize in pure and applied mathematics, logical reasoning, and quantitative research skills.</p>
-            <ul>
-            <li><strong>Duration:</strong> 2 Years</li>
-                    <li><strong>Eligibility:</strong> 45% Aggregate in Graduation</li>
-                    <li><strong>Fees:</strong> ₹ 72,000</li>
-            </ul>
-            <a href="../msc-mathematics" class="btn fables-second-background-color white-color fables-btn-rounded px-4 py-2 d-inline-block">🚀 View More</a>
-        </div>
-    </div>
-</div>
-
-</div>
-
+  </div>
 
 </div>
 
      
-<!-- Start page content --> 
-<div class="container mt-5 aboutlanding">
-       
-       <h2 class="font-35 font-weight-bold text-center fables-second-text-color">About Online VGU</h2> 
-       
-       <div class="row mt-3 mt-lg-5">
-           <div class="col-12 col-lg-6 mt-3 mt-lg-0 overflow-hidden">
-               <p class="fables-main-text-color font-25 mb-2 wow fadeInLeft">WHY</p>
-               <h2 class="fables-second-text-color font-35 font-weight-bold wow fadeInLeft">
-                   CHOOSE <span class="fables-main-text-color">ONLINE VGU</span>
-               </h2>
-               <p class="fables-forth-text-color mt-4 mb-4">
-                   At Online VGU, we go beyond conventional learning. Our flexible, innovative, and student-centric approach ensures that you receive a world-class education—anytime, anywhere. Our dedicated faculty and support teams are just a click away.
-               </p>  
-       
-               <div class="position-relative mb-3 wow bounceInDown" data-wow-delay=".3s"> 
-                   <p class="fables-fifth-text-color fables-dots-text">
-                       <span class="fables-dots-circle fables-second-before fables-second-border-color"></span>
-                       Flexible and self-paced programs tailored for working professionals.
-                   </p>
-               </div>
-               <div class="position-relative mb-3 wow bounceInDown" data-wow-delay=".6s">
-                   <p class="fables-fifth-text-color fables-dots-text">
-                       <span class="fables-dots-circle fables-second-before fables-second-border-color"></span>
-                       Learn from the same expert faculty as on-campus VGU.
-                   </p>
-               </div>
-               <div class="position-relative mb-3 wow bounceInDown" data-wow-delay=".9s">
-                   <p class="fables-fifth-text-color fables-dots-text">
-                       <span class="fables-dots-circle fables-second-before fables-second-border-color"></span>
-                       Access to digital libraries, recorded lectures, and live sessions.
-                   </p>
-               </div>
-               <div class="position-relative mb-3 wow bounceInDown" data-wow-delay="1.2s">
-                   <p class="fables-fifth-text-color fables-dots-text">
-                       <span class="fables-dots-circle fables-second-before fables-second-border-color"></span>
-                       Career support and placement assistance from Online VGU’s dedicated cell.
-                   </p>
-               </div>
-           </div>
-       
-           <div class="col-12 col-lg-6"> 
-               <div class="together-block">
-                   <div class="fables-main-color-transparent p-4 p-lg-5 position-relative">
-                       <img src="../assets/custom/images/man-image.png" alt="Online VGU Student" class="img-fluid together-abs-img wow fadeIn">
-                       <p class="white-color font-17 mb-2">Empower Your Future</p>
-                       <h2 class="white-color font-30 semi-font">Grow with Online VGU</h2>
-                       <p class="white-color font-14 together-details my-3">
-                           Discover the future of learning with Online VGU. Whether you're starting your journey or advancing your career, our digital campus provides the tools, knowledge, and flexibility to help you succeed.
-                       </p>  
-                       <a href="../explore" class="btn fables-second-background-color white-color white-color-hover fables-btn-rounded py-2 px-5 my-0 my-md-4">Explore Programs</a> 
-                   </div>
-               </div>
-           </div>
-       </div>
-              </div>
-
-              <div class="fables-testimonial fables-after-overlay py-4 py-md-5 my-4 my-lg-5 half-width-testimonial bg-rules">
-            <div class="container z-index position-relative"> 
-            <div class="row mt-5">
-    <div class="col-12 col-md-6 wow fadeIn" data-wow-duration="2.5s" data-wow-delay=".4s"> 
-        <h2 class="fables-second-text-color font-35 font-weight-bold">
-            Online <span class="white-color">VGU Advantage</span>
-        </h2>
-        <h6 class="fables-third-text-color mt-4 mb-4" style="line-height:1.7;">
-            <span style="font-size:25px;">🎓 </span>Online VGU combines quality education with digital flexibility—designed for modern learners. Our UGC-entitled programs are led by experienced faculty, enriched with real-world case studies, and built for career growth.
-            <br><br>
-            <span style="font-size:25px;">💼 </span>Get access to 100% placement assistance, skill-based learning modules, and interactive digital classrooms.
-            <br><br>
-            <span style="font-size:25px;">▶️ </span>Watch the short video to see how Online VGU is reshaping higher education and empowering students across the country.
-        </h6> 
-    </div>
-
-    <!-- Right Video Content -->
-    <div class="col-12 col-md-6 wow fadeIn mt-4 mt-md-5 mt-lg-0" data-wow-duration="2.5s" data-wow-delay=".4s">
-        <div class="position-relative image-container zoomIn-effect"> 
-            <img src="../assets/custom/images/vgu.jpeg" alt="Online VGU Video" class="img-fluid">
-            <div class="demo-gallery-poster fables-main-gradient">
-                <a data-fancybox href="assets/custom/videos/onlineVguIntro.mp4">
-                    <span class="fables-iconplay fables-second-text-color fa-4x wow bounce"
-                          style="font-size:50px; color:#fff; display: flex; align-items: center; justify-content: center; padding-top: 5px;"></span>
-                </a> 
-            </div> 
-        </div>  
-    </div>
-</div>
-</div>
-       </div>
-       
-       
-       
            
       
 <!-- /End page content -->
     
 <!-- Start Footer 2 Background Image  -->
-<div class="fables-footer-image fables-after-overlay white-color py-4 py-lg-5 bg-rules footerlanding" style="margin-top: -150px;">
+<div class="fables-footer-image fables-after-overlay white-color py-4 py-lg-5 bg-rules" style="margin-top: -150px;">
     <div class="container">
         <div class="row">
             <div class="col-12 col-lg-3 mb-4 mb-lg-0">
@@ -643,7 +531,7 @@
             </div>
              
             
-            <div class="col-12 col-sm-6 col-lg-3">
+           <div class="col-12 col-sm-6 col-lg-3">
                     <h2 class="font-20 semi-font fables-second-border-color border-bottom pb-3 mb-3">Quick Links</h2>
                     <ul class="nav fables-footer-links">
                         <li><a href="../ba">BA</a></li>
@@ -705,6 +593,7 @@
 <script src="../assets/vendor/video-background/jquery.mb.YTPlayer.js"></script>
 <script src="../assets/vendor/WOW-master/dist/wow.min.js"></script>
 <script src="../assets/custom/js/custom.js"></script>  
+<script src="../assets/custom/js/form.js"></script>
 <script>
      $(".player").mb_YTPlayer();
     
