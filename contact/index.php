@@ -224,14 +224,11 @@
         font-size: 12px;
     }
     .formlanding .applynowform input::placeholder{
-        font-size: 8px;
+        font-size: 11px;
     }
-    .formlanding .applynowform input{
-        height: 10px !important;
-    }
+   
     .formlanding .applynowform select{
-        height: 25px !important;
-        font-size: 7px;
+        font-size: 11px;
     }
     .formlanding p{
         font-size: 15px ;
