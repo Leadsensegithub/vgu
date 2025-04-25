@@ -283,7 +283,7 @@
                     <div class="mobilenav">
     <div>
         <a class="navbar-brand pl-0" href="./">
-            <img src="./assets/custom/images/vgulogo.jpeg" alt="VGULogo" class="fables-logo" />
+            <img src="./assets/custom/images/vgulogo.jpeg" alt="VGULogo" class="fables-logo" height="80px" width="80px"/>
         </a>
     </div>
     <div>
