@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /private/
+Disallow: /tmp/
+Allow: /
+
+Sitemap: https://iop.onlinevgu.com/sitemap.xml

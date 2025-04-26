@@ -6,6 +6,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
     <!-- Favicon -->
+      <meta name="robots" content="index, follow">
+
      <link rel="icon" type="image/png" href="https://iop.onlinevgu.com/assets/custom/images/logo.png" >
     <title>Everything About Online MBA Marketing Guide: Key Details & Costs</title>
     <meta name="title" content="Everything About Online MBA Marketing Guide: Key Details & Costs" />

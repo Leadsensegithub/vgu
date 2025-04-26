@@ -166,7 +166,7 @@ function validateForm() {
 
     if (isValid) {
         $('.p').removeClass('preloader-deactivate');
-        addLeadToBitrix24(name, email, phone, '691', 'WEB')
+        addLeadToBitrix24(name, email, phone, '2529', 'WEB')
         return true;
     } else {
         return false;

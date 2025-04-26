@@ -6,6 +6,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
     <!-- Favicon -->
+      <meta name="robots" content="index, follow">
+
      <link rel="icon" type="image/png" href="https://iop.onlinevgu.com/assets/custom/images/logo.png" >
     <title>Online MA degree from VGU, empowers minds with flexible learning</title>
     <meta name="title" content="Online MA degree from VGU, empowers minds with flexible learning" />

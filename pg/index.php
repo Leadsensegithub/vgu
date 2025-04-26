@@ -5,7 +5,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     
       <!-- Favicon -->
-       <link rel="icon" type="image/png" href="https://iop.onlinevgu.com/assets/custom/images/logo.png" >
+        <meta name="robots" content="index, follow">
+
+     <link rel="icon" type="image/png" href="https://iop.onlinevgu.com/assets/custom/images/logo.png" >
  
       <title>Online Degree Courses at VGU – NAAC A+ Accredited University</title>
     <meta name="title" content="Online Degree Courses at VGU – NAAC A+ Accredited University" />

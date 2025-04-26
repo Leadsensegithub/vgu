@@ -166,7 +166,7 @@ console.log("kkkk")
 
     if (isValid) {
      
-        addLeadToBitrix24(name, email, phone, '691', 'WEB')
+        addLeadToBitrix24(name, email, phone, '2529', 'WEB')
         return true;
     } else {
         return false;
@@ -213,7 +213,7 @@ function formValidate() {
 
     if (isValid) {
         $('.preloader').removeClass('preloader-deactivate');
-        addLeadToBitrix24(names, emails, phones,coursess, '2469', 'WEB')
+        addLeadToBitrix24(names, emails, phones,coursess, '2529', 'WEB')
         return true;
     } else {
         return false;
