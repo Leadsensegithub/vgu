@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
     <!-- Favicon -->
-    <link href="./assets/custom/images/vgulogo.jpeg" rel="icon">
+     <link rel="icon" type="image/png" href="https://iop.onlinevgu.com/assets/custom/images/logo.png" >
     <title>Online Degree Courses at VGU – NAAC A+ Accredited University</title>
     <meta name="title" content="Online Degree Courses at VGU – NAAC A+ Accredited University" />
     <meta name="description"
@@ -67,6 +67,19 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/intl-tel-input/17.0.8/css/intlTelInput.min.css">
 <script src="https://cdnjs.cloudflare.com/ajax/libs/intl-tel-input/17.0.8/js/intlTelInput.min.js"></script>
 
+ <!--Start of Tawk.to Script-->
+    <script type="text/javascript">
+        var Tawk_API = Tawk_API || {}, Tawk_LoadStart = new Date();
+        (function () {
+            var s1 = document.createElement("script"), s0 = document.getElementsByTagName("script")[0];
+            s1.async = true;
+            s1.src = 'https://embed.tawk.to/680c70c1429e411905b97a6e/1ipo9gt60';
+            s1.charset = 'UTF-8';
+            s1.setAttribute('crossorigin', '*');
+            s0.parentNode.insertBefore(s1, s0);
+        })();
+    </script>
+    <!--End of Tawk.to Script-->
 </head>
 
 

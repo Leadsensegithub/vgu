@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     
       <!-- Favicon -->
-      <link href="../assets/custom/images/vgulogo.jpeg" rel="icon">
+       <link rel="icon" type="image/png" href="https://iop.onlinevgu.com/assets/custom/images/logo.png" >
  
       <title>Online Degree Courses at VGU – NAAC A+ Accredited University</title>
     <meta name="title" content="Online Degree Courses at VGU – NAAC A+ Accredited University" />
@@ -61,6 +61,19 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/intl-tel-input/17.0.8/css/intlTelInput.min.css">
 <script src="https://cdnjs.cloudflare.com/ajax/libs/intl-tel-input/17.0.8/js/intlTelInput.min.js"></script>
      
+ <!--Start of Tawk.to Script-->
+    <script type="text/javascript">
+        var Tawk_API = Tawk_API || {}, Tawk_LoadStart = new Date();
+        (function () {
+            var s1 = document.createElement("script"), s0 = document.getElementsByTagName("script")[0];
+            s1.async = true;
+            s1.src = 'https://embed.tawk.to/680c70c1429e411905b97a6e/1ipo9gt60';
+            s1.charset = 'UTF-8';
+            s1.setAttribute('crossorigin', '*');
+            s0.parentNode.insertBefore(s1, s0);
+        })();
+    </script>
+    <!--End of Tawk.to Script-->
 </head>
 
 
@@ -213,7 +226,7 @@
                     <nav class="navbar navbar-expand-md btco-hover-menu">
                         <div class="mobilenav">
                                                 <div>
-                            <a class="navbar-brand pl-0" href="../"><img src="../assets/custom/images/vgulogo.jpeg"
+                            <a class="navbar-brand pl-0" href="../"><img src="https://iop.onlinevgu.com/assets/custom/images/vgulogo.jpeg"
                                     alt="fables Template" class="fables-logo" height="80px" width="80px" /></a>
                         </div>
                         <div>
@@ -788,7 +801,7 @@
     <div class="container">
         <div class="row">
             <div class="col-12 col-lg-3 mb-4 mb-lg-0">
-                <a href="#" class="fables-second-border-color border-bottom pb-3 d-block mb-3 mt-minus-13"><img src="../assets/custom/images/vgulogo.jpeg" alt="fables template" width="100px" height="100px"></a>
+                <a href="#" class="fables-second-border-color border-bottom pb-3 d-block mb-3 mt-minus-13"><img src="https://iop.onlinevgu.com/assets/custom/images/vgulogo.jpeg" alt="fables template" width="100px" height="100px"></a>
                                 <p class="font-15 fables-third-text-color">
                     Online VGU offers a dynamic learning experience designed for Today’s learners. With flexible schedules, expert faculty, and industry-aligned courses, students can pursue their degrees without compromising on quality or convenience.
                     <br><br>
