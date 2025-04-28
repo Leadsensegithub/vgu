@@ -87,7 +87,8 @@
 
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 <body>
-    <style>   .applybutton{
+    <style>  
+     .applybutton{
             bottom: 0;
             margin-bottom: 20px;
             margin-left: 70px;
@@ -441,7 +442,7 @@
     <!--Video Section-->
     <section class="landingvideo content-section video-section fables-after-overlay position-relative">
 
-        <img src="./assets/custom/images/aboutvgu.jpg" alt="" class="bg-video">
+        <img src="./assets/custom/images/aboutvgu.jpg" alt="About Online VGU" class="bg-video">
 
         <div class="container position-relative z-index text-center d-flex justify-content-center align-items-center">
         <div class="fables-video-caption wow fadeInUp" data-wow-delay="0.3s" data-wow-duration="1s">
