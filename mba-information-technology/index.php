@@ -413,8 +413,8 @@ Online MBA IT Program India,VGU IT MBA Admission,Technology Management MBA Onlin
       <div class="courselanding">
       <div class="row" style="margin-bottom:130px; margin: 20px;">
         <div class="col-lg-6 leftsection">
-            <h2 class="pb-3" style="font-family: Spectral; font-size: 40px;"><span style="font-size: 60px; color: #7f1813; font-weight: bold;">Online</span>  
-                MBA-Information Technology</h2>
+            <h1 class="pb-3" style="font-family: Spectral; font-size: 40px;"><span style="font-size: 60px; color: #7f1813; font-weight: bold;">Online</span>  
+                MBA-Information Technology</h1>
             <h3 class="pb-4" style="font-family: Vollkorn;">Vivekananda Global University</h3>
             <p style="line-height: 2;">Vivekananda Global University (VGU) offers a comprehensive Online Master of
                 Business Administration (MBA) in Information Technology program, designed to bridge the gap between
@@ -422,10 +422,10 @@ Online MBA IT Program India,VGU IT MBA Admission,Technology Management MBA Onlin
                 in their postgraduate education while earning a degree from a UGC-recognized institution.</p>
             <h4 class="mt-5" style="font-family: Vollkorn;">Online VGU Approved By ✅</h4>
             <div class="pt-4 approvedimg">
-                <img src="../assets/custom/images/aicte.jpeg" alt="aicte" height="90px" width="90px" class="aicte">
-                <img src="../assets/custom/images/aiu.png" alt="aiu" height="90px" width="90px">
-                <img src="../assets/custom/images/ncte.png" alt="ncte" height="90px" width="90px">
-                <img src="../assets/custom/images/ugc.png" alt="ugc" height="90px" width="90px">
+            <img src="../assets/custom/images/aicte.JPEG" alt="aicte" height="90px" width="90px" class="aicte">
+                    <img src="../assets/custom/images/aiu.PNG" alt="aiu" height="90px" width="90px">
+                    <img src="../assets/custom/images/ncte.PNG" alt="ncte" height="90px" width="90px">
+                    <img src="../assets/custom/images/ugc.PNG" alt="ugc" height="90px" width="90px">
             </div>
         </div>
         <div class="col-lg-6 formlanding rightsection">

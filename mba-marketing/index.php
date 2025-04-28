@@ -11,7 +11,7 @@
      <link rel="icon" type="image/png" href="https://iop.onlinevgu.com/assets/custom/images/logo.png" >
     <title>Everything About Online MBA Marketing Guide: Key Details & Costs</title>
     <meta name="title" content="Everything About Online MBA Marketing Guide: Key Details & Costs" />
-    <meta name="description" content="Everything About Online MBA Marketing Guide: Key Details & Costs">
+    <meta name="description" content="VGU's Online MBA program develops essential marketing skills. Strategic insights and hands-on digital experience transform ideas into effective marketing strategies">
     <meta name="keywords" content="Online MBA in Marketing Management,VGU Online MBA Marketing,
 Digital Marketing MBA Online,Vivekananda Global University MBA Marketing,Marketing Specialization MBA Online,
 Distance MBA in Marketing,Online MBA Marketing Program India,VGU Marketing MBA Admission,
@@ -412,8 +412,8 @@ Online Business Marketing Degree,MBA in Digital & Strategic Marketing VGU">
       <div class="courselanding">
       <div class="row" style="margin-bottom:130px; margin: 20px;">
         <div class="col-lg-6 leftsection">
-            <h2 class="pb-3" style="font-family: Spectral; font-size: 40px;"><span style="font-size: 60px; color: #7f1813; font-weight: bold;">Online</span>  
-                MBA-Marketing</h2>
+            <h1 class="pb-3" style="font-family: Spectral; font-size: 40px;"><span style="font-size: 60px; color: #7f1813; font-weight: bold;">Online</span>  
+                MBA-Marketing</h1>
             <h3 class="pb-4" style="font-family: Vollkorn;">Vivekananda Global University</h3>
             <p style="line-height: 2;">Vivekananda Global University (VGU) offers a comprehensive Online Master of
                 Business Administration (MBA) in Marketing program, designed to equip students with advanced marketing
@@ -422,10 +422,10 @@ Online Business Marketing Degree,MBA in Digital & Strategic Marketing VGU">
                 UGC-recognized institution.</p>
             <h4 class="mt-5" style="font-family: Vollkorn;">Online VGU Approved By ✅</h4>
             <div class="pt-4 approvedimg">
-                <img src="../assets/custom/images/aicte.jpeg" alt="aicte" height="90px" width="90px" class="aicte">
-                <img src="../assets/custom/images/aiu.png" alt="aiu" height="90px" width="90px">
-                <img src="../assets/custom/images/ncte.png" alt="ncte" height="90px" width="90px">
-                <img src="../assets/custom/images/ugc.png" alt="ugc" height="90px" width="90px">
+            <img src="../assets/custom/images/aicte.JPEG" alt="aicte" height="90px" width="90px" class="aicte">
+                    <img src="../assets/custom/images/aiu.PNG" alt="aiu" height="90px" width="90px">
+                    <img src="../assets/custom/images/ncte.PNG" alt="ncte" height="90px" width="90px">
+                    <img src="../assets/custom/images/ugc.PNG" alt="ugc" height="90px" width="90px">
             </div>
         </div>
         <div class="col-lg-6 formlanding rightsection">
