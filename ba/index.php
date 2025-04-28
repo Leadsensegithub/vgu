@@ -804,7 +804,7 @@ Online BA humanities program,Bachelor of Arts for career in civil services">
                                     <li><i class="fa-solid fa-arrow-right"></i> Understand Supply Chain, Logistics, and Inventory Management</li>
                                     <li><i class="fa-solid fa-arrow-right"></i> Learn Key Retail Strategies for Modern Business</li>
                                 </ul>
-                            <div class="mb-3" style="font-size: 18px; font-weight: bold; color: #7f1813;position: absolute;">
+                            <div class="mb-3 coursefees" style="font-size: 18px; font-weight: bold; color: #7f1813;position: absolute;">
                                 ₹ 1,32,000 | 3 Years
                             </div>
 
