@@ -21,7 +21,7 @@ Health Services Management MBA Online,MBA in Public Health and Healthcare Online
     <meta property="og:description"
         content="Accelerate your healthcare profession with the VGU Online MBA in Healthcare Management, a groundbreaking program that combines business acumen & healthcare experience.">
 
-        <meta property="og:site_name" content="online vgu.com" />
+        <meta property="og:site_name" content="  online vgu" />
 
     <!-- animate.css-->
     <link href="../assets/vendor/animate.css-master/animate.min.css" rel="stylesheet">

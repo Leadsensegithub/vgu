@@ -21,7 +21,7 @@ Production and Operations MBA Online,Online MBA in Process & Project Management"
     <meta property="og:description"
         content="Enhance your career at VGU's Online MBA in Operations Management. Be an expert in strategy efficiency, supply chain management, �excellence in organization for success.">
 
-        <meta property="og:site_name" content="online vgu.com" />
+        <meta property="og:site_name" content="  online vgu" />
 
     <!-- animate.css-->
     <link href="../assets/vendor/animate.css-master/animate.min.css" rel="stylesheet">

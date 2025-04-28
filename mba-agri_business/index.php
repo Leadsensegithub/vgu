@@ -21,7 +21,7 @@ Agricultural Marketing MBA Online">
     <meta property="og:description"
         content="VGU Online MBA help you achieve success in agriculture. Develop strategic ideas, sustainable methods, & abilities to lead for successful agribusiness profession.">
 
-        <meta property="og:site_name" content="online vgu.com" />
+        <meta property="og:site_name" content="  online vgu" />
 
     <!-- animate.css-->
     <link href="../assets/vendor/animate.css-master/animate.min.css" rel="stylesheet">

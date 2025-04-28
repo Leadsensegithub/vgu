@@ -20,7 +20,7 @@ Online MBA IT Program India,VGU IT MBA Admission,Technology Management MBA Onlin
     <meta property="og:description"
         content="Introduce your successful career with the VGU Online MBA in Information Technology Management. Master strategic IT leadership for success in the digital era.">
 
-        <meta property="og:site_name" content="online vgu.com" />
+        <meta property="og:site_name" content="  online vgu" />
 
     <!-- animate.css-->
     <link href="../assets/vendor/animate.css-master/animate.min.css" rel="stylesheet">

@@ -21,7 +21,7 @@ MBA in Investment and Banking Online,Online MBA Finance Program India,VGU Financ
     <meta property="og:description"
         content="VGU Online MBA in Finance Management you to gain achieve financial leadership. Learn analytical & strategic abilities to succeed in Today's dynamic business sector.">
 
-        <meta property="og:site_name" content="online vgu.com" />
+        <meta property="og:site_name" content="  online vgu" />
 
     <!-- animate.css-->
     <link href="../assets/vendor/animate.css-master/animate.min.css" rel="stylesheet">

@@ -22,7 +22,7 @@ Study MA from home">
     <meta property="og:description"
         content="Unlock your potential with VGUs Online MA Program. Explore deep academic insights, enhance capacity for analysis, shape your future through meaningful scholarship">
 
-        <meta property="og:site_name" content="online vgu.com" />
+        <meta property="og:site_name" content="  online vgu" />
 
     <!-- animate.css-->
     <link href="../assets/vendor/animate.css-master/animate.min.css" rel="stylesheet">

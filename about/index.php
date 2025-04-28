@@ -20,7 +20,7 @@
         content="VGU Online, Your Gateway to Quality Education, may help you achieve excellence. Discover new programs and improve your educational endeavors for a brighter tomorrow.">
 
     
-        <meta property="og:site_name" content="online vgu.com" />
+        <meta property="og:site_name" content="  online vgu" />
 
     <!-- animate.css-->  
     <link href="../assets/vendor/animate.css-master/animate.min.css" rel="stylesheet">

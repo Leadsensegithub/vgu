@@ -19,7 +19,7 @@ BCA in cloud tech and IT security,Bachelors in cloud computing India,CTIS specia
     <meta property="og:description"
         content="Online BCA Degree Begin your tech career with a Bachelor in Computer Applications. Study code, database, new innovations, and IT skills for the digital future">
 
-        <meta property="og:site_name" content="online vgu.com" />
+        <meta property="og:site_name" content="  online vgu" />
 
     <!-- animate.css-->
     <link href="../assets/vendor/animate.css-master/animate.min.css" rel="stylesheet">

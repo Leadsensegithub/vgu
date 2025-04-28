@@ -19,7 +19,7 @@ Online Business Marketing Degree,MBA in Digital & Strategic Marketing VGU">
     <meta property="og:title" content="Everything About Online MBA Marketing Guide: Key Details & Costs">
     <meta property="og:description" content="Everything About Online MBA Marketing Guide: Key Details & Costs">
 
-        <meta property="og:site_name" content="online vgu.com" />
+        <meta property="og:site_name" content="  online vgu" />
 
     <!-- animate.css-->
     <link href="../assets/vendor/animate.css-master/animate.min.css" rel="stylesheet">

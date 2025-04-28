@@ -19,7 +19,7 @@ Online BA humanities program,Bachelor of Arts for career in civil services">
     <meta property="og:description"
         content="Begin your academic journey with VGU's Online BA Degree develop innovative thinking, broad views, and adaptive learning skills for a well-rounded destiny.">
 
-    <meta property="og:site_name" content="online vgu.com" />
+    <meta property="og:site_name" content="  online vgu" />
     <link rel="icon" type="image/jpeg" href="https://iop.onlinevgu.com/assets/custom/images/vgulogo.jpeg" >
     <!-- animate.css-->
     <link href="../assets/vendor/animate.css-master/animate.min.css" rel="stylesheet">

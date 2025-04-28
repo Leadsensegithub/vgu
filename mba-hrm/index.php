@@ -21,7 +21,7 @@ Online MBA HRM Course India,VGU HRM MBA Admission">
     <meta property="og:description"
         content="Elevate your profession with VGU's cutting-edge Online MBA in HRM. This master's degree in human resource management helps you succeed in Today's dynamic business market.">
 
-        <meta property="og:site_name" content="online vgu.com" />
+        <meta property="og:site_name" content="  online vgu" />
 
     <!-- animate.css-->
     <link href="../assets/vendor/animate.css-master/animate.min.css" rel="stylesheet">

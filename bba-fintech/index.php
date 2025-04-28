@@ -19,7 +19,7 @@ Fintech management course online,Learn fintech with BBA,Top fintech BBA programs
     <meta property="og:description"
         content="Build your leadership journey with VGU Online BBA. Gain business fundamentals, strategic thinking, and the confidence to thrive in Today�s competitive market">
 
-        <meta property="og:site_name" content="online vgu.com" />
+        <meta property="og:site_name" content="  online vgu" />
 
     <!-- animate.css-->
     <link href="../assets/vendor/animate.css-master/animate.min.css" rel="stylesheet">

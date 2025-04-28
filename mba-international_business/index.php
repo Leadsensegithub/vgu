@@ -21,7 +21,7 @@ Cross-Border Business MBA Online">
     <meta property="og:description"
         content="VGU's Online MBA in International Business Management, broaden your career. Obtain strategic insights & cross-cultural expertise to succeed in a connected world.">
 
-        <meta property="og:site_name" content="online vgu.com" />
+        <meta property="og:site_name" content="  online vgu" />
 
     <!-- animate.css-->
     <link href="../assets/vendor/animate.css-master/animate.min.css" rel="stylesheet">

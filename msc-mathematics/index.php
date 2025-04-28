@@ -24,7 +24,7 @@ Career after MSc Mathematics,Flexible MSc Maths program online">
         
     
 
-        <meta property="og:site_name" content="online vgu.com" />
+        <meta property="og:site_name" content="  online vgu" />
 
     <!-- animate.css-->
     <link href="../assets/vendor/animate.css-master/animate.min.css" rel="stylesheet">

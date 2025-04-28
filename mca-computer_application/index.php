@@ -20,7 +20,7 @@ Top 10 online MCA VGU college,Best online MCA programs">
     <meta property="og:description"
         content="Master the online landscape with skill. Explore VGU's Online MCA Course and gain valuable knowledge in computer applications for a prepared for tomorrow life path.">
 
-        <meta property="og:site_name" content="online vgu.com" />
+        <meta property="og:site_name" content="  online vgu" />
 
     <!-- animate.css-->
     <link href="../assets/vendor/animate.css-master/animate.min.css" rel="stylesheet">
