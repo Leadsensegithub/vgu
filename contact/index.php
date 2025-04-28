@@ -463,14 +463,8 @@
     <div class="followus mt-5">
     <h4>Follow Us</h4>
     <ul class="nav fables-footer-social-links  fables-light-footer-links" style="padding-top:20px;">
-            <li><a href="#" target="_blank"><i class="fab fa-google-plus-square"></i></a></li>
-            <li><a href="#" target="_blank"><i class="fab fa-facebook"></i></a></li>
-            <li><a href="#" target="_blank"><i class="fab fa-instagram"></i></a></li>
-            <li><a href="#" target="_blank"><i class="fa-solid fa-globe"></i></a></li>
-            <li><a href="#" target="_blank"><i class="fab fa-pinterest-square"></i></a></li>
-            <li><a href="#" target="_blank"><i class="fab fa-twitter-square"></i></a></li>
-            <li><a href="#" target="_blank"><i class="fab fa-linkedin"></i></a></li>
-
+            <li><a href="https://www.facebook.com/people/Vivekananda-Global-University/61575223902228/" target="_blank"><i class="fab fa-facebook"></i></a></li>
+            <li><a href="https://www.instagram.com/vivekananda_university_online/" target="_blank"><i class="fab fa-instagram"></i></a></li>
         </ul>
     </div>
   </div>

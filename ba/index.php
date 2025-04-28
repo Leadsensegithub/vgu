@@ -449,10 +449,10 @@ Online BA humanities program,Bachelor of Arts for career in civil services">
                 <p style="line-height: 2;">The extensive online Bachelor of Arts (BA) curriculum offered by Vivekananda Global University (VGU) is intended to give students a strong foundation in the social sciences and humanities. For those who want flexibility in their education while earning a degree from an institution recognized by the UGC, this program is perfect.</p>
                 <h4 class="mt-5" style="font-family: Vollkorn;">Online VGU Approved By ✅</h4>
                 <div class="pt-4 approvedimg">
-                    <img src="../assets/custom/images/aicte.JPEG" alt="aicte" height="90px" width="90px" class="aicte">
-                    <img src="../assets/custom/images/aiu.PNG" alt="aiu" height="90px" width="90px">
-                    <img src="../assets/custom/images/ncte.PNG" alt="ncte" height="90px" width="90px">
-                    <img src="../assets/custom/images/ugc.PNG" alt="ugc" height="90px" width="90px">
+                    <img src="../assets/custom/images/aicte.jpeg" alt="aicte" height="90px" width="90px" class="aicte">
+                    <img src="../assets/custom/images/aiu.png" alt="aiu" height="90px" width="90px">
+                    <img src="../assets/custom/images/ncte.png" alt="ncte" height="90px" width="90px">
+                    <img src="../assets/custom/images/ugc.png" alt="ugc" height="90px" width="90px">
                 </div>
             </div>
             <div class="col-lg-6 formlanding rightsection">

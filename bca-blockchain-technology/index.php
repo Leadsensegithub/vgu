@@ -428,10 +428,10 @@ UGC-approved BCA in blockchain">
                 pursuing a degree from a UGC-recognized institution.​</p>
             <h4 class="mt-5" style="font-family: Vollkorn;">Online VGU Approved By ✅</h4>
             <div class="pt-4 approvedimg">
-            <img src="../assets/custom/images/aicte.JPEG" alt="aicte" height="90px" width="90px" class="aicte">
-                    <img src="../assets/custom/images/aiu.PNG" alt="aiu" height="90px" width="90px">
-                    <img src="../assets/custom/images/ncte.PNG" alt="ncte" height="90px" width="90px">
-                    <img src="../assets/custom/images/ugc.PNG" alt="ugc" height="90px" width="90px">
+            <img src="../assets/custom/images/aicte.jpeg" alt="aicte" height="90px" width="90px" class="aicte">
+                    <img src="../assets/custom/images/aiu.png" alt="aiu" height="90px" width="90px">
+                    <img src="../assets/custom/images/ncte.png" alt="ncte" height="90px" width="90px">
+                    <img src="../assets/custom/images/ugc.png" alt="ugc" height="90px" width="90px">
             </div>
         </div>
         <div class="col-lg-6 formlanding rightsection">

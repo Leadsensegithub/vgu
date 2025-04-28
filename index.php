@@ -178,6 +178,21 @@
             font-size: 12px;
         }
 
+
+        .popupform label {
+            color: rgba(31, 39, 47, 0.8);
+            font-weight: bold;
+        }
+        .popupform input::placeholder{
+            font-size: 12px;
+        }
+        .popupform select{
+            font-size: 12px;
+        }
+        .popupform textarea::placeholder{
+            font-size: 12px;
+        }
+
      
 
             @media only screen and (max-width: 900px) {    .coursefees{
@@ -214,18 +229,18 @@
                 font-size: 20px;
             }
 
-            .mobilenav {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    gap: 150px;
-    padding-left: 40px;
-}
+             .mobilenav {
+                    display: flex;
+                    align-items: center;
+                    justify-content: center;
+                    gap: 150px;
+                    padding-left: 40px;
+                }
 
-.mobilenav img {
-    width: 50px;
-    height: 50px;
-}
+                .mobilenav img {
+                    width: 50px;
+                    height: 50px;
+                }
 
 
             .formlanding .applynowform {
@@ -240,10 +255,6 @@
                 font-size: 10px;
             }
 
-            .formlanding .applynowform input {
-                
-               
-            }
               .footerlanding .applynowform .iti{
                 height: 25px;
               }
@@ -265,6 +276,18 @@
             }
             .aboutvgu{
                 width: 100% !important;
+            }
+            .popupform label{
+                font-size: 10px;
+            }
+            .popupform input::placeholder{
+                font-size: 10px;
+            }
+            .popupform{
+                margin-top: -25px !important;
+            }
+            .popupform select{
+                font-size: 10px;
             }
         }
     </style>
@@ -440,29 +463,148 @@
     <!-- /End fables Navigation -->
 
     <!--Video Section-->
-    <section class="landingvideo content-section video-section fables-after-overlay position-relative">
+           
+     
 
-        <img src="./assets/custom/images/aboutvgu.jpg" alt="About Online VGU" class="bg-video">
+    <div style="position: relative;">
+            <div class=" applycontent" id="applycontent">
+            <section class="landingvideo content-section video-section fables-after-overlay position-relative">
 
-        <div class="container position-relative z-index text-center d-flex justify-content-center align-items-center">
-        <div class="fables-video-caption wow fadeInUp" data-wow-delay="0.3s" data-wow-duration="1s">
-        <h1 class="white-color font-weight-bold" style="margin-top:100px; font-size: 45px;">
-            Welcome to <span style="font-size:55px; color: #ff6b6b;">Online VGU</span>
-        </h1>
-        <p class="fables-fifth-text-color mt-4 mb-4 font-18" style="font-family: 'Roboto Slab', serif; font-size: 20px; color: #f1f1f1;">
-            Empowering your future with accredited online degrees from VGU.<br>
-            Flexible schedules, expert faculty, and industry-relevant curriculum – study anywhere, anytime.
-        </p>
-        <div class="d-flex justify-content-center flex-wrap gap-5">
-            <a href="./explore" class="btn mt-3 px-4 py-2 mr-3" style="background-color:#ff6b6b; color:#fff; border-radius: 30px;">
-                🎓 Explore Courses
-            </a>
-            <a href="./applynow" class="btn mt-3 px-4 py-2" style="border: 2px solid #fff; color:#fff; border-radius: 30px;">
+                <img src="./assets/custom/images/aboutvgu.jpg" alt="About Online VGU" class="bg-video">
+
+                <div class="container position-relative z-index text-center d-flex justify-content-center align-items-center">
+                <div class="fables-video-caption wow fadeInUp" data-wow-delay="0.3s" data-wow-duration="1s">
+                <h1 class="white-color font-weight-bold" style="margin-top:100px; font-size: 45px;">
+                    Welcome to <span style="font-size:55px; color: #ff6b6b;">Online VGU</span>
+                </h1>
+                <p class="fables-fifth-text-color mt-4 mb-4 font-18" style="font-family: 'Roboto Slab', serif; font-size: 20px; color: #f1f1f1;">
+                    Empowering your future with accredited online degrees from VGU.<br>
+                    Flexible schedules, expert faculty, and industry-relevant curriculum – study anywhere, anytime.
+                </p>
+                <div class="d-flex justify-content-center flex-wrap gap-5">
+                    <a href="./explore" class="btn mt-3 px-4 py-2 mr-3" style="background-color:#ff6b6b; color:#fff; border-radius: 30px;">
+                        🎓 Explore Courses
+                    </a>
+
+                   
+                    <div class="tab-content">
+                        <div id="tab-1" class="tab-pane fade show p-0 active">
+                        <a data-toggle="modal" data-target="#exampleModal"class="btn mt-3 px-4 py-2" style="border: 2px solid #fff; color:#fff; border-radius: 30px;">
                 📝 Apply Now
             </a>
-        </div>
+            </div>
         </div>
     </section>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+
+<div class="modal fade" id="exampleModal" tabindex="-1" role="dialog"
+     aria-labelledby="exampleModalLabel" aria-hidden="true"
+     data-backdrop="static" data-keyboard="false">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+        <div class="modal-content" style="background-color: rgb(250, 214, 211);">
+
+            <div class="modal-body">
+                <div class="formlanding">
+                    <div class="popupform">
+                        <div class="modal-header">
+                            <h6 id="exampleModalLabel" style="text-align:center;"></h6>
+                            <button type="button" class="close text-white" data-dismiss="modal" aria-label="Close">
+                                <span aria-hidden="true" style="color:red;">&times;</span>
+                            </button>
+                        </div>
+
+                        <h2 class="fables-main-text-color font-35 font-weight-bold text-center pt-4 pb-3"
+                            style="font-family: Roboto Slab;">
+                            🎓 Apply <span class="fables-second-text-color">Now</span>
+                        </h2>
+
+                        <form id="leadForm">
+                            <div class="row" style="padding:10px;">
+                                <div class="col-12 col-md-6 mb-2">
+                                    <label for="name">Full Name:</label>
+                                    <input type="text" id="name" class="form-control fables-input"
+                                           placeholder="Full Name" required>
+                                    <small id="name-error" class="error-message"
+                                           style="color: black; font-size: 11px;"></small>
+                                </div>
+                                <div class="col-12 col-md-6 mb-2">
+                                    <label for="email">Email:</label>
+                                    <input type="email" id="email" class="form-control fables-input"
+                                           placeholder="Email Address" required>
+                                    <small id="email-error" class="error-message"
+                                           style="color: black; font-size: 11px;"></small>
+                                </div>
+                                <div class="col-12 col-md-6 mb-2">
+                                    <label for="phone">Phone No:</label><br>
+                                    <input type="tel" id="phone" class="form-control fables-input"
+                                           placeholder="Phone Number" required>
+                                    <small id="phone-error" class="error-message"
+                                           style="color: black; font-size: 11px;"></small>
+                                </div>
+                                <div class="col-12 col-md-6 mb-2">
+                                    <label for="course">Select a Course:</label>
+                                    <select class="form-control fables-input" id="course" required>
+                                        <option value="" disabled selected>Select a Course</option>
+                                        <option>BA</option>
+                                        <option>BBA</option>
+                                        <option>BBA - Digital Marketing</option>
+                                        <option>BBA - Retail Management</option>
+                                        <option>BBA - Fintech</option>
+                                        <option>BCA</option>
+                                        <option>BCA - UX</option>
+                                        <option>BCA - Data Science</option>
+                                        <option>BCA - Blockchain Technology</option>
+                                        <option>BCA - Cloud Technology & Information Security</option>
+                                        <option>BCA - Artificial Intelligence</option>
+                                        <option>MA</option>
+                                        <option>MBA</option>
+                                        <option>MBA - Human Resource</option>
+                                        <option>MBA - Marketing</option>
+                                        <option>MBA - Finance</option>
+                                        <option>MBA - Healthcare</option>
+                                        <option>MBA - Agri Business</option>
+                                        <option>MBA - Information Technology</option>
+                                        <option>MBA - International Business</option>
+                                        <option>MBA - Operations Management</option>
+                                        <option>MCA</option>
+                                        <option>M.Sc</option>
+                                        <option>M.Sc Maths</option>
+                                    </select>
+                                    <small id="course-error" class="error-message"
+                                           style="color: black; font-size: 11px;"></small>
+                                </div>
+                                <div class="col-12 mb-4">
+                                    <label for="query">Query:</label>
+                                    <textarea class="form-control fables-input" id="query" rows="4"
+                                              placeholder="Your Message"></textarea>
+                                    <small id="query-error" class="error-message"
+                                           style="color: black; font-size: 11px;"></small>
+                                </div>
+                                <div class="col-12 text-center">
+                                    <button type="button"
+                                            class="btn fables-second-background-color white-color white-color-hover fables-btn-rounded px-5 py-2"
+                                            onclick="validateForm()">Submit
+                                    </button>
+                                </div>
+                            </div>
+                        </form>
+
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>
+
+
+
+        </div>
 
     <!--Video Section Ends Here-->
 
