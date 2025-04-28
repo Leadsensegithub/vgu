@@ -372,7 +372,7 @@
 
     <!-- Image -->
     <div class="col-12 col-lg-6 text-center">
-        <img src="../assets/custom/images/vgubg.AVIF" alt="About Online VGU" height="350px" class="aboutvgu">
+        <img src="../assets/custom/images/aboutvgu.jpg" alt="About Online VGU" height="350px" width="100%" class="aboutvgu">
     </div>
 </div>
 </div>

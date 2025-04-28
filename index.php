@@ -435,7 +435,7 @@
     <!--Video Section-->
     <section class="landingvideo content-section video-section fables-after-overlay position-relative">
 
-        <img src="./assets/custom/images/vgubg.AVIF" alt="" class="bg-video">
+        <img src="./assets/custom/images/aboutvgu.jpg" alt="" class="bg-video">
 
         <div class="container position-relative z-index text-center d-flex justify-content-center align-items-center">
         <div class="fables-video-caption wow fadeInUp" data-wow-delay="0.3s" data-wow-duration="1s">
@@ -558,7 +558,7 @@
 
             <!-- Image -->
             <div class="col-12 col-lg-6 text-center">
-                <img src="assets/custom/images/vgubg.AVIF" alt="About Online VGU" height="350px" class="aboutvgu">
+                <img src="assets/custom/images/aboutvgu.jpg" alt="About Online VGU" height="350px" class="aboutvgu">
             </div>
         </div>
     </div>
