@@ -1333,15 +1333,15 @@
                         <div class="card-body col-12 px-4 py-3 text-center"
                             style="height:330px;border: 1px solid rgb(240, 178, 178); border-top: none;">
                             <h5 class="card-title mb-2">
-    <a href="./mba-information-technology" class="text-dark font-weight-bold" style="font-size: 24px; text-decoration: none;">
-        MBA - Information Technology
-    </a>
-</h5>
+                                    <a href="./mba-information-technology" class="text-dark font-weight-bold" style="font-size: 24px; text-decoration: none;">
+                                        MBA - Information Technology
+                                    </a>
+                                </h5>
 
-<ul class="list-unstyled my-3" style="font-size: 14px; color: #555; text-align: start;">
-    <li><i class="fa-solid fa-arrow-right"></i> Understand How IT Drives Business Success</li>
-    <li><i class="fa-solid fa-arrow-right"></i> Learn to Integrate Technology Solutions</li>
-</ul>
+                                <ul class="list-unstyled my-3" style="font-size: 14px; color: #555; text-align: start;">
+                                    <li><i class="fa-solid fa-arrow-right"></i> Understand How IT Drives Business Success</li>
+                                    <li><i class="fa-solid fa-arrow-right"></i> Learn to Integrate Technology Solutions</li>
+                                </ul>
 
 
                               <div class="mb-3 coursefees" style="font-size: 18px; font-weight: bold; color: #7f1813;">
