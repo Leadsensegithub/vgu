@@ -81,7 +81,11 @@ Top 10 online MCA VGU college,Best online MCA programs">
 
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 <body>
-    <style>
+    <style>   .applybutton{
+            bottom: 0;
+            margin-bottom: 20px;
+            margin-left: 70px;
+        }
         .iti{
             width: 100% !important;
         }
@@ -145,7 +149,9 @@ Top 10 online MCA VGU college,Best online MCA programs">
             font-weight: bold;
         }
 
-            @media only screen and (max-width: 900px) {
+            @media only screen and (max-width: 900px) {    .coursefees{
+                text-align: center;
+            }
             .error-message{
                 font-size: 8px !important;
             }
@@ -683,38 +689,43 @@ Top 10 online MCA VGU college,Best online MCA programs">
             </div>
             <div class="owl-carousel owl-theme dots-0 circle-nav carousel-items-4">
 
+            
                 <div class="card rounded-3 mb-4 border-0 shadow-lg wow fadeInUp" data-wow-delay=".4s"
                     style="overflow: hidden; transition: 0.3s ease;">
                     <div class="row no-gutters">
                         <div class="col-12 text-center py-4" style="background-color: #fbeeee;">
                             <span style="font-size: 90px;">🎓</span>
                         </div>
+
+                        <div>
                         <div class="card-body col-12 px-4 py-3 text-center"
-                            style="height:330px;border: 1px solid rgb(240, 178, 178); border-top: none;">
+                            style="height:330px;border: 1px solid rgb(240, 178, 178); border-top: none; position: relative;">
                             <h5 class="card-title mb-2">
                                     <a href="../ba" class="text-dark font-weight-bold" style="font-size: 24px; text-decoration: none;">
                                         Bachelor of Arts (BA)
                                     </a>
                                 </h5>
 
-                                <ul class="list-unstyled my-3" style="font-size: 14px; color: #555;">
+                                <ul class="list-unstyled my-3" style="font-size: 14px; color: #555; text-align: start;">
                                     <li><i class="fa-solid fa-arrow-right"></i> UGC Approved</li>
                                     <li><i class="fa-solid fa-arrow-right"></i> Expert Faculty with Real-World Experience</li>
                                     <li><i class="fa-solid fa-arrow-right"></i> Affordable Tuition Fees with Access to Quality Education</li>
                                 </ul>
-                            <div class="mb-3" style="font-size: 18px; font-weight: bold; color: #7f1813;">
+                              <div class="mb-3 coursefees" style="font-size: 18px; font-weight: bold; color: #7f1813;">
                                 ₹ 72,000 | 3 Years
                             </div>
 
-                            <a href="../applynow" class="btn rounded-pill px-4 py-2 font-weight-bold"
-                                style="font-size: 14px; color: #7f1813; border: 1px solid #7f1813;">
-                                🚀 Apply Now
-                            </a>
+                       
                         </div>
                     </div>
                 </div>
+                <a href="../applynow" class="btn rounded-pill font-weight-bold applybutton"
+                                style="font-size: 14px; color: #7f1813; border: 1px solid #7f1813; position: absolute;">
+                                🚀 Apply Now
+                            </a>
+                </div>
 
-
+                
                 <div class="card rounded-3 mb-4 border-0 shadow-lg wow fadeInUp" data-wow-delay=".4s"
                     style="overflow: hidden; transition: 0.3s ease;">
                     <div class="row no-gutters">
@@ -724,6 +735,7 @@ Top 10 online MCA VGU college,Best online MCA programs">
                         </div>
 
                         <!-- Content Section -->
+                        <div>
                         <div class="card-body col-12 px-4 py-3 text-center"
                             style="height:330px;border: 1px solid rgb(240, 178, 178); border-top: none;">
                             <h5 class="card-title mb-2">
@@ -732,23 +744,25 @@ Top 10 online MCA VGU college,Best online MCA programs">
                                     </a>
                                 </h5>
 
-                                <ul class="list-unstyled my-3" style="font-size: 14px; color: #555;">
+                                <ul class="list-unstyled my-3" style="font-size: 14px; color: #555; text-align: start;">
                                     <li><i class="fa-solid fa-arrow-right"></i> Master SEO, Content Strategy, and Social Media Marketing</li>
                                     <li><i class="fa-solid fa-arrow-right"></i> Hands-On Experience with Real Industry Projects</li>
                                     <li><i class="fa-solid fa-arrow-right"></i> Learn from Experts with Industry Experience</li>
                                </ul>
-                            <div class="mb-3" style="font-size: 18px; font-weight: bold; color: #7f1813;">
+                              <div class="mb-3 coursefees" style="font-size: 18px; font-weight: bold; color: #7f1813;">
                                 ₹ 1,32,000 | 3 Years
                             </div>
 
-                            <a href="../applynow" class="btn rounded-pill px-4 py-2 font-weight-bold"
-                                style="font-size: 14px; color: #7f1813; border: 1px solid #7f1813;">
-                                🚀 Apply Now
-                            </a>
                         </div>
                     </div>
                 </div>
+                <a href="../applynow" class="btn rounded-pill  font-weight-bold applybutton"
+                                style="font-size: 14px; color: #7f1813; border: 1px solid #7f1813; position: absolute;">
+                                🚀 Apply Now
+                            </a>
+                </div>
 
+                
                 <div class="card rounded-3 mb-4 border-0 shadow-lg wow fadeInUp" data-wow-delay=".4s"
                     style="overflow: hidden; transition: 0.3s ease;">
                     <div class="row no-gutters">
@@ -758,6 +772,7 @@ Top 10 online MCA VGU college,Best online MCA programs">
                         </div>
 
                         <!-- Content Section -->
+                        <div>
                         <div class="card-body col-12 px-4 py-3 text-center"
                             style="height:330px;border: 1px solid rgb(240, 178, 178); border-top: none;">
                             <h5 class="card-title mb-2">
@@ -766,22 +781,24 @@ Top 10 online MCA VGU college,Best online MCA programs">
                                     </a>
                                 </h5>
 
-                                <ul class="list-unstyled my-3" style="font-size: 14px; color: #555;">
+                                <ul class="list-unstyled my-3" style="font-size: 14px; color: #555; text-align: start;">
                                     <li><i class="fa-solid fa-arrow-right"></i> Understand Supply Chain, Logistics, and Inventory Management</li>
                                     <li><i class="fa-solid fa-arrow-right"></i> Learn Key Retail Strategies for Modern Business</li>
                                 </ul>
-                            <div class="mb-3" style="font-size: 18px; font-weight: bold; color: #7f1813;">
+                            <div class="mb-3" style="font-size: 18px; font-weight: bold; color: #7f1813;position: absolute;">
                                 ₹ 1,32,000 | 3 Years
                             </div>
 
-                            <a href="../applynow" class="btn rounded-pill px-4 py-2 font-weight-bold"
-                                style="font-size: 14px; color: #7f1813; border: 1px solid #7f1813;">
-                                🚀 Apply Now
-                            </a>
                         </div>
                     </div>
                 </div>
+                <a href="../applynow" class="btn rounded-pill px-4 py-2 font-weight-bold applybutton"
+                                style="font-size: 14px; color: #7f1813; border: 1px solid #7f1813;position: absolute;">
+                                🚀 Apply Now
+                            </a>
+                </div>
 
+                
                 <div class="card rounded-3 mb-4 border-0 shadow-lg wow fadeInUp" data-wow-delay=".4s"
                     style="overflow: hidden; transition: 0.3s ease;">
                     <div class="row no-gutters">
@@ -791,6 +808,7 @@ Top 10 online MCA VGU college,Best online MCA programs">
                         </div>
 
                         <!-- Content Section -->
+                        <div>
                         <div class="card-body col-12 px-4 py-3 text-center"
                             style="height:330px;border: 1px solid rgb(240, 178, 178); border-top: none;">
                             <h5 class="card-title mb-2">
@@ -799,23 +817,25 @@ Top 10 online MCA VGU college,Best online MCA programs">
                                     </a>
                                 </h5>
 
-                                <ul class="list-unstyled my-3" style="font-size: 14px; color: #555;">
+                                <ul class="list-unstyled my-3" style="font-size: 14px; color: #555; text-align: start;">
                                     <li><i class="fa-solid fa-arrow-right"></i> Learn Blockchain Technology</li>
                                     <li><i class="fa-solid fa-arrow-right"></i> Dive into Digital Banking, Payments Systems & Insurtech</li>
                                     <li><i class="fa-solid fa-arrow-right"></i> Industry-Driven Curriculum with Real-World Applications</li>
                                 </ul>
-                            <div class="mb-3" style="font-size: 18px; font-weight: bold; color: #7f1813;">
+                              <div class="mb-3 coursefees" style="font-size: 18px; font-weight: bold; color: #7f1813;">
                                 ₹ 1,32,000 | 3 Years
                             </div>
 
-                            <a href="../applynow" class="btn rounded-pill px-4 py-2 font-weight-bold"
-                                style="font-size: 14px; color: #7f1813; border: 1px solid #7f1813;">
-                                🚀 Apply Now
-                            </a>
                         </div>
                     </div>
                 </div>
+                <a href="../applynow" class="btn rounded-pill px-4 py-2 font-weight-bold applybutton"
+                                style="font-size: 14px; color: #7f1813; border: 1px solid #7f1813;position: absolute;">
+                                🚀 Apply Now
+                            </a>
+                </div>
 
+                
                 <div class="card rounded-3 mb-4 border-0 shadow-lg wow fadeInUp" data-wow-delay=".4s"
                     style="overflow: hidden; transition: 0.3s ease;">
                     <div class="row no-gutters">
@@ -825,6 +845,7 @@ Top 10 online MCA VGU college,Best online MCA programs">
                         </div>
 
                         <!-- Content Section -->
+                        <div>
                         <div class="card-body col-12 px-4 py-3 text-center"
                             style="height:330px;border: 1px solid rgb(240, 178, 178); border-top: none;">
                             <h5 class="card-title mb-2">
@@ -833,23 +854,25 @@ Top 10 online MCA VGU college,Best online MCA programs">
                                 </a>
                             </h5>
 
-                            <ul class="list-unstyled my-3" style="font-size: 14px; color: #555;">
+                            <ul class="list-unstyled my-3" style="font-size: 14px; color: #555; text-align: start;">
                                 <li><i class="fa-solid fa-arrow-right"></i> Master the User-Centered Design Process</li>
                                 <li><i class="fa-solid fa-arrow-right"></i> Learn Industry-Leading UI/UX Tools & Prototyping Techniques</li>
                                 <li><i class="fa-solid fa-arrow-right"></i> Work on Real-World UX Projects & Case Studies</li>
                             </ul>
-                            <div class="mb-3" style="font-size: 18px; font-weight: bold; color: #7f1813;">
+                              <div class="mb-3 coursefees" style="font-size: 18px; font-weight: bold; color: #7f1813;">
                                 ₹ 1,32,000 | 3 Years
                             </div>
 
-                            <a href="../applynow" class="btn rounded-pill px-4 py-2 font-weight-bold"
-                                style="font-size: 14px; color: #7f1813; border: 1px solid #7f1813;">
-                                🚀 Apply Now
-                            </a>
                         </div>
                     </div>
                 </div>
+                <a href="../applynow" class="btn rounded-pill px-4 py-2 font-weight-bold applybutton"
+                                style="font-size: 14px; color: #7f1813; border: 1px solid #7f1813;position: absolute;">
+                                🚀 Apply Now
+                            </a>
+                </div>
 
+                
                 <div class="card rounded-3 mb-4 border-0 shadow-lg wow fadeInUp" data-wow-delay=".4s"
                     style="overflow: hidden; transition: 0.3s ease;">
                     <div class="row no-gutters">
@@ -859,6 +882,7 @@ Top 10 online MCA VGU college,Best online MCA programs">
                         </div>
 
                         <!-- Content Section -->
+                        <div>
                         <div class="card-body col-12 px-4 py-3 text-center"
                             style="height:330px;border: 1px solid rgb(240, 178, 178); border-top: none;">
                             <h5 class="card-title mb-2">
@@ -867,23 +891,25 @@ Top 10 online MCA VGU college,Best online MCA programs">
                                     </a>
                                 </h5>
 
-                                <ul class="list-unstyled my-3" style="font-size: 14px; color: #555;">
+                                <ul class="list-unstyled my-3" style="font-size: 14px; color: #555; text-align: start;">
                                     <li><i class="fa-solid fa-arrow-right"></i> Learn Python, R & SQL Foundations</li>
                                     <li><i class="fa-solid fa-arrow-right"></i> Master Data Visualization with Tools </li>
                                     <li><i class="fa-solid fa-arrow-right"></i> Build Machine Learning Models & Understand Algorithms</li>
                                 </ul>
-                            <div class="mb-3" style="font-size: 18px; font-weight: bold; color: #7f1813;">
+                              <div class="mb-3 coursefees" style="font-size: 18px; font-weight: bold; color: #7f1813;">
                                 ₹ 1,32,000 | 3 Years
                             </div>
 
-                            <a href="../applynow" class="btn rounded-pill px-4 py-2 font-weight-bold"
-                                style="font-size: 14px; color: #7f1813; border: 1px solid #7f1813;">
-                                🚀 Apply Now
-                            </a>
                         </div>
                     </div>
                 </div>
+                <a href="../applynow" class="btn rounded-pill px-4 py-2 font-weight-bold applybutton"
+                                style="font-size: 14px; color: #7f1813; border: 1px solid #7f1813;position: absolute;">
+                                🚀 Apply Now
+                            </a>
+                </div>
 
+                
                 <div class="card rounded-3 mb-4 border-0 shadow-lg wow fadeInUp" data-wow-delay=".4s"
                     style="overflow: hidden; transition: 0.3s ease;">
                     <div class="row no-gutters">
@@ -893,6 +919,7 @@ Top 10 online MCA VGU college,Best online MCA programs">
                         </div>
 
                         <!-- Content Section -->
+                        <div>
                         <div class="card-body col-12 px-4 py-3 text-center"
                             style="height:330px;border: 1px solid rgb(240, 178, 178); border-top: none;">
                             <h5 class="card-title mb-2">
@@ -901,22 +928,24 @@ Top 10 online MCA VGU college,Best online MCA programs">
                                 </a>
                             </h5>
 
-                            <ul class="list-unstyled my-3" style="font-size: 14px; color: #555;">
+                            <ul class="list-unstyled my-3" style="font-size: 14px; color: #555; text-align: start;">
                                 <li><i class="fa-solid fa-arrow-right"></i> Learn to Develop Smart Contracts & Decentralized Applications</li>
                                 <li><i class="fa-solid fa-arrow-right"></i> Real-World Blockchain Project Implementation</li>
                             </ul>
-                            <div class="mb-3" style="font-size: 18px; font-weight: bold; color: #7f1813;">
+                              <div class="mb-3 coursefees" style="font-size: 18px; font-weight: bold; color: #7f1813;">
                                 ₹ 1,32,000 | 3 Years
                             </div>
 
-                            <a href="../applynow" class="btn rounded-pill px-4 py-2 font-weight-bold"
-                                style="font-size: 14px; color: #7f1813; border: 1px solid #7f1813;">
-                                🚀 Apply Now
-                            </a>
                         </div>
                     </div>
                 </div>
+                <a href="../applynow" class="btn rounded-pill px-4 py-2 font-weight-bold applybutton"
+                                style="font-size: 14px; color: #7f1813; border: 1px solid #7f1813;position: absolute;">
+                                🚀 Apply Now
+                            </a>
+                </div>
 
+                
                 <div class="card rounded-3 mb-4 border-0 shadow-lg wow fadeInUp" data-wow-delay=".4s"
                     style="overflow: hidden; transition: 0.3s ease;">
                     <div class="row no-gutters">
@@ -926,6 +955,7 @@ Top 10 online MCA VGU college,Best online MCA programs">
                         </div>
 
                         <!-- Content Section -->
+                        <div>
                         <div class="card-body col-12 px-4 py-3 text-center"
                             style="height:330px;border: 1px solid rgb(240, 178, 178); border-top: none;">
                             <h5 class="card-title mb-2">
@@ -934,22 +964,24 @@ Top 10 online MCA VGU college,Best online MCA programs">
                                 </a>
                             </h5>
 
-                            <ul class="list-unstyled my-3" style="font-size: 14px; color: #555;">
+                            <ul class="list-unstyled my-3" style="font-size: 14px; color: #555; text-align: start;">
                                 <li><i class="fa-solid fa-arrow-right"></i> Master Leading Cloud Platforms: AWS, Azure, and GCP</li>
                                 <li><i class="fa-solid fa-arrow-right"></i> Learn Cloud Infrastructure, Networking, and Deployment</li>
                             </ul>
-                            <div class="mb-3" style="font-size: 18px; font-weight: bold; color: #7f1813;">
+                              <div class="mb-3 coursefees" style="font-size: 18px; font-weight: bold; color: #7f1813;">
                                 ₹ 1,32,000 | 3 Years
                             </div>
 
-                            <a href="../applynow" class="btn rounded-pill px-4 py-2 font-weight-bold"
-                                style="font-size: 14px; color: #7f1813; border: 1px solid #7f1813;">
-                                🚀 Apply Now
-                            </a>
                         </div>
                     </div>
                 </div>
+                <a href="../applynow" class="btn rounded-pill px-4 py-2 font-weight-bold applybutton"
+                                style="font-size: 14px; color: #7f1813; border: 1px solid #7f1813;position: absolute;">
+                                🚀 Apply Now
+                            </a>
+                </div>
 
+                
                 <div class="card rounded-3 mb-4 border-0 shadow-lg wow fadeInUp" data-wow-delay=".4s"
                     style="transition: 0.3s ease;">
                     <div class="row no-gutters">
@@ -959,6 +991,7 @@ Top 10 online MCA VGU college,Best online MCA programs">
                         </div>
 
                         <!-- Content Section -->
+                        <div>
                         <div class="card-body col-12 px-4 py-3 text-center"
                             style="height:330px;border: 1px solid rgb(240, 178, 178); border-top: none;">
                             <h5 class="card-title mb-2">
@@ -967,7 +1000,7 @@ Top 10 online MCA VGU college,Best online MCA programs">
                                     </a>
                                 </h5>
 
-                                <ul class="list-unstyled my-3" style="font-size: 14px; color: #555;">
+                                <ul class="list-unstyled my-3" style="font-size: 14px; color: #555; text-align: start;">
                                     <li><i class="fa-solid fa-arrow-right"></i> Master Core AI Algorithms and Techniques </li>
                                     <li><i class="fa-solid fa-arrow-right"></i> Learn Machine Learning, Deep Learning, and NLP</li>
                                 </ul>
@@ -975,15 +1008,17 @@ Top 10 online MCA VGU college,Best online MCA programs">
                                 ₹ 1,32,000 | 3 Years
                             </div>
 
-                            <a href="../applynow" class="btn rounded-pill px-4 py-2 font-weight-bold"
-                                style="font-size: 14px; color: #7f1813; border: 1px solid #7f1813;">
-                                🚀 Apply Now
-                            </a>
                         </div>
                     </div>
                 </div>
+                <a href="../applynow" class="btn rounded-pill px-4 py-2 font-weight-bold applybutton"
+                                style="font-size: 14px; color: #7f1813; border: 1px solid #7f1813;position: absolute;">
+                                🚀 Apply Now
+                            </a>
+                </div>
 
 
+                
                 <div class="card rounded-3 mb-4 border-0 shadow-lg wow fadeInUp" data-wow-delay=".4s"
                     style="overflow: hidden; transition: 0.3s ease;">
                     <div class="row no-gutters">
@@ -993,6 +1028,7 @@ Top 10 online MCA VGU college,Best online MCA programs">
                         </div>
 
                         <!-- Content Section -->
+                        <div>
                         <div class="card-body col-12 px-4 py-3 text-center"
                             style="height:330px;border: 1px solid rgb(240, 178, 178); border-top: none;">
                             <!-- Program Name -->
@@ -1002,20 +1038,21 @@ Top 10 online MCA VGU college,Best online MCA programs">
                                     </a>
                                 </h5>
 
-                                <ul class="list-unstyled my-3" style="font-size: 14px; color: #555;">
+                                <ul class="list-unstyled my-3" style="font-size: 14px; color: #555; text-align: start;">
                                 <li><i class="fa-solid fa-arrow-right"></i> Gain In-Depth Knowledge in Specialized Areas of Arts & Humanities</li>
                                     <li><i class="fa-solid fa-arrow-right"></i> Hands-On Learning with Real-World Case Studies</li>
                                 </ul>
-                            <div class="mb-3" style="font-size: 18px; font-weight: bold; color: #7f1813;">
+                              <div class="mb-3 coursefees" style="font-size: 18px; font-weight: bold; color: #7f1813;">
                                 ₹ 72,000 | 2 Years
                             </div>
 
-                            <a href="../applynow" class="btn rounded-pill px-4 py-2 font-weight-bold"
-                                style="font-size: 14px; color: #7f1813; border: 1px solid #7f1813;">
-                                🚀 Apply Now
-                            </a>
                         </div>
                     </div>
+                </div>
+                <a href="../applynow" class="btn rounded-pill px-4 py-2 font-weight-bold applybutton"
+                                style="font-size: 14px; color: #7f1813; border: 1px solid #7f1813;position: absolute;">
+                                🚀 Apply Now
+                            </a>
                 </div>
 
 
@@ -1029,6 +1066,7 @@ Top 10 online MCA VGU college,Best online MCA programs">
                         </div>
 
                         <!-- Content Section -->
+                        <div>
                         <div class="card-body col-12 px-4 py-3 text-center"
                             style="height:330px;border: 1px solid rgb(240, 178, 178); border-top: none;">
 
@@ -1038,21 +1076,24 @@ Top 10 online MCA VGU college,Best online MCA programs">
                                 </a>
                             </h5>
 
-                            <ul class="list-unstyled my-3" style="font-size: 14px; color: #555;">
+                            <ul class="list-unstyled my-3" style="font-size: 14px; color: #555; text-align: start;">
                                 <li><i class="fa-solid fa-arrow-right"></i> Master Business Strategies Tailored for the Agriculture Sector</li>
                                 <li><i class="fa-solid fa-arrow-right"></i> Learn Sustainable Practices and Innovation in Agricultural Business</li>
                             </ul>
-                            <div class="mb-3" style="font-size: 18px; font-weight: bold; color: #7f1813;">
+                              <div class="mb-3 coursefees" style="font-size: 18px; font-weight: bold; color: #7f1813;">
                                 ₹ 1,50,000 | 2 Years 
                             </div>
-                            <a href="../applynow" class="btn rounded-pill px-4 py-2 font-weight-bold"
-                                style="font-size: 14px; color: #7f1813; border: 1px solid #7f1813;">
-                                🚀 Apply Now
-                            </a>
+                         
                         </div>
                     </div>
                 </div>
+                <a href="../applynow" class="btn rounded-pill px-4 py-2 font-weight-bold applybutton"
+                                style="font-size: 14px; color: #7f1813; border: 1px solid #7f1813;position: absolute;">
+                                🚀 Apply Now
+                            </a>
+                </div>
 
+                
                 <div class="card rounded-3 mb-4 border-0 shadow-lg wow fadeInUp" data-wow-delay=".4s"
                     style="overflow: hidden; transition: 0.3s ease;">
                     <div class="row no-gutters">
@@ -1063,6 +1104,7 @@ Top 10 online MCA VGU college,Best online MCA programs">
 
 
                         <!-- Content Section -->
+                        <div>
                         <div class="card-body col-12 px-4 py-3 text-center"
                             style="height:330px;border: 1px solid rgb(240, 178, 178); border-top: none;">
                             <!-- Course Name -->
@@ -1072,7 +1114,7 @@ Top 10 online MCA VGU college,Best online MCA programs">
                                 </a>
                             </h5>
 
-                            <ul class="list-unstyled my-3" style="font-size: 14px; color: #555;">
+                            <ul class="list-unstyled my-3" style="font-size: 14px; color: #555; text-align: start;">
                                 <li><i class="fa-solid fa-arrow-right"></i> Develop Strong Leadership and Management Skills for HR Professionals</li>
                                 <li><i class="fa-solid fa-arrow-right"></i> Work on Real-World HR Projects and Case Studies to Gain Practical Insights</li>
                             </ul>
@@ -1080,14 +1122,17 @@ Top 10 online MCA VGU college,Best online MCA programs">
                                 ₹ 1,50,000 | 2 Years 
                             </div>
                             <!-- Apply Now Button -->
-                            <a href="../applynow" class="btn rounded-pill px-4 py-2 font-weight-bold"
-                                style="font-size: 14px; color: #7f1813; border: 1px solid #7f1813;">
-                                🚀 Apply Now
-                            </a>
+                           
                         </div>
                     </div>
                 </div>
+                <a href="../applynow" class="btn rounded-pill px-4 py-2 font-weight-bold applybutton"
+                                style="font-size: 14px; color: #7f1813; border: 1px solid #7f1813;position: absolute;">
+                                🚀 Apply Now
+                            </a>
+                </div>
 
+                
                 <div class="card rounded-3 mb-4 border-0 shadow-lg wow fadeInUp" data-wow-delay=".4s"
                     style="overflow: hidden; transition: 0.3s ease;">
                     <div class="row no-gutters">
@@ -1097,6 +1142,7 @@ Top 10 online MCA VGU college,Best online MCA programs">
                         </div>
 
                         <!-- Content Section -->
+                        <div>
                         <div class="card-body col-12 px-4 py-3 text-center"
                             style="height:330px;border: 1px solid rgb(240, 178, 178); border-top: none;">
                             <h5 class="card-title mb-2">
@@ -1105,21 +1151,23 @@ Top 10 online MCA VGU college,Best online MCA programs">
                             </a>
                         </h5>
 
-                        <ul class="list-unstyled my-3" style="font-size: 14px; color: #555;">
+                        <ul class="list-unstyled my-3" style="font-size: 14px; color: #555; text-align: start;">
                             <li><i class="fa-solid fa-arrow-right"></i> Digital Marketing, Branding, and Marketing Analytics</li>
                             <li><i class="fa-solid fa-arrow-right"></i> Master Social Media Marketing, SEO, SEM, and Content Strategy</li>
                         </ul>
-                            <div class="mb-3" style="font-size: 18px; font-weight: bold; color: #7f1813;">
+                              <div class="mb-3 coursefees" style="font-size: 18px; font-weight: bold; color: #7f1813;">
                                 ₹ 1,50,000 | 2 Years 
                             </div>
-                            <a href="../applynow" class="btn rounded-pill px-4 py-2 font-weight-bold"
-                                style="font-size: 14px; color: #7f1813; border: 1px solid #7f1813;">
-                                🚀 Apply Now
-                            </a>
                         </div>
                     </div>
                 </div>
+                <a href="../applynow" class="btn rounded-pill px-4 py-2 font-weight-bold applybutton"
+                                style="font-size: 14px; color: #7f1813; border: 1px solid #7f1813;position: absolute;">
+                                🚀 Apply Now
+                            </a>
+                </div>
 
+                
                 <div class="card rounded-3 mb-4 border-0 shadow-lg wow fadeInUp" data-wow-delay=".4s"
                     style="overflow: hidden; transition: 0.3s ease;">
                     <div class="row no-gutters">
@@ -1130,6 +1178,7 @@ Top 10 online MCA VGU college,Best online MCA programs">
 
 
                         <!-- Content Section -->
+                        <div>
                         <div class="card-body col-12 px-4 py-3 text-center"
                             style="height:330px;border: 1px solid rgb(240, 178, 178); border-top: none;">
                             <h5 class="card-title mb-2">
@@ -1138,23 +1187,25 @@ Top 10 online MCA VGU college,Best online MCA programs">
                                     </a>
                                 </h5>
 
-                                <ul class="list-unstyled my-3" style="font-size: 14px; color: #555;">
+                                <ul class="list-unstyled my-3" style="font-size: 14px; color: #555; text-align: start;">
                                     <li><i class="fa-solid fa-arrow-right"></i> Gain Expertise in Financial Analysis, Accounting, and Risk Management</li>
                                     <li><i class="fa-solid fa-arrow-right"></i> Master Financial Markets, Derivatives, and Asset Management</li>
                                 </ul>
 
-                            <div class="mb-3" style="font-size: 18px; font-weight: bold; color: #7f1813;">
+                              <div class="mb-3 coursefees" style="font-size: 18px; font-weight: bold; color: #7f1813;">
                                 ₹ 1,50,000 | 2 Years 
                             </div>
 
-                            <a href="../applynow" class="btn rounded-pill px-4 py-2 font-weight-bold"
-                                style="font-size: 14px; color: #7f1813; border: 1px solid #7f1813;">
-                                🚀 Apply Now
-                            </a>
                         </div>
                     </div>
                 </div>
+                <a href="../applynow" class="btn rounded-pill px-4 py-2 font-weight-bold applybutton"
+                                style="font-size: 14px; color: #7f1813; border: 1px solid #7f1813;position: absolute;">
+                                🚀 Apply Now
+                            </a>
+                </div>
 
+                
                 <div class="card rounded-3 mb-4 border-0 shadow-lg wow fadeInUp" data-wow-delay=".4s"
                     style="overflow: hidden; transition: 0.3s ease;">
                     <div class="row no-gutters">
@@ -1164,6 +1215,7 @@ Top 10 online MCA VGU college,Best online MCA programs">
                         </div>
 
                         <!-- Content Section -->
+                        <div>
                         <div class="card-body col-12 px-4 py-3 text-center"
                             style="height:330px;border: 1px solid rgb(240, 178, 178); border-top: none;">
                             <h5 class="card-title mb-2">
@@ -1172,23 +1224,25 @@ Top 10 online MCA VGU college,Best online MCA programs">
                                 </a>
                             </h5>
 
-                            <ul class="list-unstyled my-3" style="font-size: 14px; color: #555;">
+                            <ul class="list-unstyled my-3" style="font-size: 14px; color: #555; text-align: start;">
                                 <li><i class="fa-solid fa-arrow-right"></i> Learn to Manage Hospitals, Healthcare Systems</li>
                                 <li><i class="fa-solid fa-arrow-right"></i> Gain Expertise in Healthcare Operations, Strategy, and Finance</li>
                             </ul>
 
-                            <div class="mb-3" style="font-size: 18px; font-weight: bold; color: #7f1813;">
+                              <div class="mb-3 coursefees" style="font-size: 18px; font-weight: bold; color: #7f1813;">
                                 ₹ 1,50,000 | 2 Years 
                             </div>
 
-                            <a href="../applynow" class="btn rounded-pill px-4 py-2 font-weight-bold"
-                                style="font-size: 14px; color: #7f1813; border: 1px solid #7f1813;">
-                                🚀 Apply Now
-                            </a>
                         </div>
                     </div>
                 </div>
+                <a href="../applynow" class="btn rounded-pill px-4 py-2 font-weight-bold applybutton"
+                                style="font-size: 14px; color: #7f1813; border: 1px solid #7f1813;position: absolute;">
+                                🚀 Apply Now
+                            </a>
+                </div>
 
+                
                 <div class="card rounded-3 mb-4 border-0 shadow-lg wow fadeInUp" data-wow-delay=".4s"
                     style="overflow: hidden; transition: 0.3s ease;">
                     <div class="row no-gutters">
@@ -1199,6 +1253,7 @@ Top 10 online MCA VGU college,Best online MCA programs">
 
 
                         <!-- Content Section -->
+                        <div>
                         <div class="card-body col-12 px-4 py-3 text-center"
                             style="height:330px;border: 1px solid rgb(240, 178, 178); border-top: none;">
                             <h5 class="card-title mb-2">
@@ -1207,23 +1262,26 @@ Top 10 online MCA VGU college,Best online MCA programs">
     </a>
 </h5>
 
-<ul class="list-unstyled my-3" style="font-size: 14px; color: #555;">
+<ul class="list-unstyled my-3" style="font-size: 14px; color: #555; text-align: start;">
     <li><i class="fa-solid fa-arrow-right"></i> Understand How IT Drives Business Success</li>
     <li><i class="fa-solid fa-arrow-right"></i> Learn to Integrate Technology Solutions</li>
 </ul>
 
 
-                            <div class="mb-3" style="font-size: 18px; font-weight: bold; color: #7f1813;">
+                              <div class="mb-3 coursefees" style="font-size: 18px; font-weight: bold; color: #7f1813;">
                                 ₹ 1,50,000 | 2 Years 
                             </div>
 
-                            <a href="../applynow" class="btn rounded-pill px-4 py-2 font-weight-bold"
-                                style="font-size: 14px; color: #7f1813; border: 1px solid #7f1813;">
-                                🚀 Apply Now
-                            </a>
                         </div>
                     </div>
                 </div>
+                <a href="../applynow" class="btn rounded-pill px-4 py-2 font-weight-bold applybutton"
+                                style="font-size: 14px; color: #7f1813; border: 1px solid #7f1813;position: absolute;">
+                                🚀 Apply Now
+                            </a>
+                </div>
+
+                
                 <div class="card rounded-3 mb-4 border-0 shadow-lg wow fadeInUp" data-wow-delay=".4s"
                     style="overflow: hidden; transition: 0.3s ease;">
                     <div class="row no-gutters">
@@ -1233,6 +1291,7 @@ Top 10 online MCA VGU college,Best online MCA programs">
                         </div>
 
                         <!-- Content Section -->
+                        <div>
                         <div class="card-body col-12 px-4 py-3 text-center"
                             style="height:330px;border: 1px solid rgb(240, 178, 178); border-top: none;">
                             <h5 class="card-title mb-2">
@@ -1241,24 +1300,26 @@ Top 10 online MCA VGU college,Best online MCA programs">
                                         MBA - International Business</a>
                                 </h5>
 
-                                <ul class="list-unstyled my-3" style="font-size: 14px; color: #555;">
+                                <ul class="list-unstyled my-3" style="font-size: 14px; color: #555; text-align: start;">
                                     <li><i class="fa-solid fa-arrow-right"></i> Gain expertise in cross-border trade and international markets</li>
                                     <li><i class="fa-solid fa-arrow-right"></i> Develop skills to manage global teams and projects</li>
                                 </ul>
 
-                            <div class="mb-3" style="font-size: 18px; font-weight: bold; color: #7f1813;">
+                              <div class="mb-3 coursefees" style="font-size: 18px; font-weight: bold; color: #7f1813;">
                                 ₹ 1,50,000 | 2 Years 
                             </div>
 
-                            <a href="../applynow" class="btn rounded-pill px-4 py-2 font-weight-bold"
-                                style="font-size: 14px; color: #7f1813; border: 1px solid #7f1813;">
-                                🚀 Apply Now
-                            </a>
                         </div>
                     </div>
                 </div>
+                <a href="../applynow" class="btn rounded-pill px-4 py-2 font-weight-bold applybutton"
+                                style="font-size: 14px; color: #7f1813; border: 1px solid #7f1813;position: absolute;">
+                                🚀 Apply Now
+                            </a>
+                </div>
 
 
+                
                 <div class="card rounded-3 mb-4 border-0 shadow-lg wow fadeInUp" data-wow-delay=".4s"
                     style="overflow: hidden; transition: 0.3s ease;">
                     <div class="row no-gutters">
@@ -1269,6 +1330,7 @@ Top 10 online MCA VGU college,Best online MCA programs">
 
 
                         <!-- Content Section -->
+                        <div>
                         <div class="card-body col-12 px-4 py-3 text-center"
                             style="height:330px;border: 1px solid rgb(240, 178, 178); border-top: none;">
                             <h5 class="card-title mb-2">
@@ -1277,22 +1339,25 @@ Top 10 online MCA VGU college,Best online MCA programs">
                                         MBA - Operations Management</a>
                                 </h5>
 
-                                <ul class="list-unstyled my-3" style="font-size: 14px; color: #555;">
+                                <ul class="list-unstyled my-3" style="font-size: 14px; color: #555; text-align: start;">
                                     <li><i class="fa-solid fa-arrow-right"></i> Learn to optimize business processes and efficiency</li>
                                     <li><i class="fa-solid fa-arrow-right"></i> Gain expertise in managing operations and logistics</li>
                                 </ul>
-                            <div class="mb-3" style="font-size: 18px; font-weight: bold; color: #7f1813;">
+                              <div class="mb-3 coursefees" style="font-size: 18px; font-weight: bold; color: #7f1813;">
                                 ₹ 1,50,000 | 2 Years 
                             </div>
 
-                            <a href="../applynow" class="btn rounded-pill px-4 py-2 font-weight-bold"
-                                style="font-size: 14px; color: #7f1813; border: 1px solid #7f1813;">
-                                🚀 Apply Now
-                            </a>
                         </div>
                     </div>
                 </div>
 
+                <a href="../applynow" class="btn rounded-pill px-4 py-2 font-weight-bold applybutton"
+                                style="font-size: 14px; color: #7f1813; border: 1px solid #7f1813;position: absolute;">
+                                🚀 Apply Now
+                            </a>
+                </div>
+
+               
                 <div class="card rounded-3 mb-4 border-0 shadow-lg wow fadeInUp" data-wow-delay=".4s"
                     style="overflow: hidden; transition: 0.3s ease;">
                     <div class="row no-gutters">
@@ -1302,6 +1367,7 @@ Top 10 online MCA VGU college,Best online MCA programs">
                         </div>
 
                         <!-- Content Section -->
+                        <div>
                         <div class="card-body col-12 px-4 py-3 text-center"
                             style="height:330px;border: 1px solid rgb(240, 178, 178); border-top: none;">
                             <h5 class="card-title mb-2">
@@ -1310,23 +1376,25 @@ Top 10 online MCA VGU college,Best online MCA programs">
                                             MCA - Computer Applications</a>
                                     </h5>
 
-                                    <ul class="list-unstyled my-3" style="font-size: 14px; color: #555;">
+                                    <ul class="list-unstyled my-3" style="font-size: 14px; color: #555; text-align: start;">
                                         <li><i class="fa-solid fa-arrow-right"></i> Learn modern programming languages and frameworks</li>
                                         <li><i class="fa-solid fa-arrow-right"></i> Build and deploy software solutions for real-world challenges</li>
                                     </ul>
-                            <div class="mb-3" style="font-size: 18px; font-weight: bold; color: #7f1813;">
+                              <div class="mb-3 coursefees" style="font-size: 18px; font-weight: bold; color: #7f1813;">
                                 ₹ 1,50,000 | 2 Years 
                             </div>
 
-                            <a href="../applynow" class="btn rounded-pill px-4 py-2 font-weight-bold"
-                                style="font-size: 14px; color: #7f1813; border: 1px solid #7f1813;">
-                                🚀 Apply Now
-                            </a>
                         </div>
                     </div>
                 </div>
+                <a href="../applynow" class="btn rounded-pill px-4 py-2 font-weight-bold applybutton"
+                                style="font-size: 14px; color: #7f1813; border: 1px solid #7f1813;position: absolute;">
+                                🚀 Apply Now
+                            </a>
+                </div>
 
 
+               
                 <div class="card rounded-3 mb-4 border-0 shadow-lg wow fadeInUp" data-wow-delay=".4s"
                     style="overflow: hidden; transition: 0.3s ease;">
                     <div class="row no-gutters">
@@ -1336,6 +1404,7 @@ Top 10 online MCA VGU college,Best online MCA programs">
                         </div>
 
                         <!-- Content Section -->
+                        <div>
                         <div class="card-body col-12 px-4 py-3 text-center"
                             style="height:330px;border: 1px solid rgb(240, 178, 178); border-top: none;">
                             <h5 class="card-title mb-2">
@@ -1344,20 +1413,21 @@ Top 10 online MCA VGU college,Best online MCA programs">
                                         MSc - Mathematics</a>
                                 </h5>
 
-                                <ul class="list-unstyled my-3" style="font-size: 14px; color: #555;">
+                                <ul class="list-unstyled my-3" style="font-size: 14px; color: #555; text-align: start;">
                                     <li><i class="fa-solid fa-arrow-right"></i> Learn advanced mathematical concepts and techniques</li>
                                     <li><i class="fa-solid fa-arrow-right"></i> Specialize in areas like algebra, calculus, and data analysis</li>
                                 </ul>
-                            <div class="mb-3" style="font-size: 18px; font-weight: bold; color: #7f1813;">
+                              <div class="mb-3 coursefees" style="font-size: 18px; font-weight: bold; color: #7f1813;">
                                 ₹ 72,000 | 2 Years
                             </div>
 
-                            <a href="../applynow" class="btn rounded-pill px-4 py-2 font-weight-bold"
-                                style="font-size: 14px; color: #7f1813; border: 1px solid #7f1813;">
-                                🚀 Apply Now
-                            </a>
                         </div>
                     </div>
+                </div>
+                <a href="../applynow" class="btn rounded-pill px-4 py-2 font-weight-bold applybutton"
+                                style="font-size: 14px; color: #7f1813; border: 1px solid #7f1813;position: absolute;">
+                                🚀 Apply Now
+                            </a>
                 </div>
 
             </div>
@@ -1424,12 +1494,8 @@ Top 10 online MCA VGU college,Best online MCA programs">
     </div>
     <div class="copyright fables-main-background-color mt-0 border-0 white-color">
         <ul class="nav fables-footer-social-links just-center fables-light-footer-links">
-            <li><a href="#" target="_blank"><i class="fab fa-google-plus-square"></i></a></li>
-            <li><a href="#" target="_blank"><i class="fab fa-facebook"></i></a></li>
-            <li><a href="#" target="_blank"><i class="fab fa-instagram"></i></a></li>
-            <li><a href="#" target="_blank"><i class="fab fa-pinterest-square"></i></a></li>
-            <li><a href="#" target="_blank"><i class="fab fa-twitter-square"></i></a></li>
-            <li><a href="#" target="_blank"><i class="fab fa-linkedin"></i></a></li>
+              <li><a href="https://www.facebook.com/people/Vivekananda-Global-University/61575223902228/" target="_blank"><i class="fab fa-facebook"></i></a></li>
+            <li><a href="https://www.instagram.com/vivekananda_university_online/" target="_blank"><i class="fab fa-instagram"></i></a></li>
         </ul>
         <p class="mb-0">© 2025 iop.onlinevgu.com  All Rights Reserved.</p>
 

@@ -83,7 +83,11 @@
 
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 <body>
-    <style>
+    <style>   .applybutton{
+            bottom: 0;
+            margin-bottom: 20px;
+            margin-left: 70px;
+        }
         .iti{
             width: 100% !important;
         }
@@ -600,12 +604,8 @@
 </div>
 <div class="copyright fables-main-background-color mt-0 border-0 white-color">
         <ul class="nav fables-footer-social-links just-center fables-light-footer-links">
-            <li><a href="#" target="_blank"><i class="fab fa-google-plus-square"></i></a></li>
-            <li><a href="#" target="_blank"><i class="fab fa-facebook"></i></a></li>
-            <li><a href="#" target="_blank"><i class="fab fa-instagram"></i></a></li>
-            <li><a href="#" target="_blank"><i class="fab fa-pinterest-square"></i></a></li>
-            <li><a href="#" target="_blank"><i class="fab fa-twitter-square"></i></a></li>
-            <li><a href="#" target="_blank"><i class="fab fa-linkedin"></i></a></li>
+              <li><a href="https://www.facebook.com/people/Vivekananda-Global-University/61575223902228/" target="_blank"><i class="fab fa-facebook"></i></a></li>
+            <li><a href="https://www.instagram.com/vivekananda_university_online/" target="_blank"><i class="fab fa-instagram"></i></a></li>
         </ul>
         <p class="mb-0">© 2025 iop.onlinevgu.com  All Rights Reserved.</p> 
 

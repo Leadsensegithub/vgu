@@ -29,7 +29,11 @@
     </script>
     <!--End of Tawk.to Script-->
 </head>
-<style>
+<style>   .applybutton{
+            bottom: 0;
+            margin-bottom: 20px;
+            margin-left: 70px;
+        }
         body{
           background-color: rgba(44,62,79,.8);
             width: 100%;

@@ -113,7 +113,11 @@ window.Modernizr = (function( window, document, undefined ) {
           }
       }
 
-      // <style>
+      // <style>   .applybutton{
+            bottom: 0;
+            margin-bottom: 20px;
+            margin-left: 70px;
+        }
         .iti{
             width: 100% !important;
         } elements in IE6-9 are considered 'NoScope' elements and therefore will be removed
@@ -1077,7 +1081,11 @@ window.Modernizr = (function( window, document, undefined ) {
           var p = ownerDocument.createElement('p'),
           parent = ownerDocument.getElementsByTagName('head')[0] || ownerDocument.documentElement;
 
-          p.innerHTML = 'x<style>' + cssText + '</style>';
+          p.innerHTML = 'x<style>   .applybutton{
+            bottom: 0;
+            margin-bottom: 20px;
+            margin-left: 70px;
+        }' + cssText + '</style>';
           return parent.insertBefore(p.lastChild, parent.firstChild);
         }
 
