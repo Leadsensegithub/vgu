@@ -172,7 +172,7 @@ Online MBA HRM Course India,VGU HRM MBA Admission">
     .courselanding p{
         text-align: center;
     }
-    .courselanding h2{
+    .courselanding h1{
         text-align: center;
     }
     .courselanding h3{

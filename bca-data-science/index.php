@@ -161,7 +161,7 @@ BCA data analytics course online,Bachelor's in data science India,Top BCA progra
     .courselanding p{
         text-align: center;
     }
-    .courselanding h2{
+    .courselanding h1{
         text-align: center;
     }
     .courselanding h3{

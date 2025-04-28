@@ -170,7 +170,7 @@ Bachelor's in AI and computer applications,BCA AI and data intelligence program,
     .courselanding p{
         text-align: center;
     }
-    .courselanding h2{
+    .courselanding h1{
         text-align: center;
     }
     .courselanding h3{

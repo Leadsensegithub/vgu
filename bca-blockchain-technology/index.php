@@ -163,7 +163,7 @@ UGC-approved BCA in blockchain">
     .courselanding p{
         text-align: center;
     }
-    .courselanding h2{
+    .courselanding h1{
         text-align: center;
     }
     .courselanding h3{

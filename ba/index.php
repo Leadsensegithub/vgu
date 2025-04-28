@@ -189,7 +189,7 @@ Online BA humanities program,Bachelor of Arts for career in civil services">
                 text-align: center;
             }
 
-            .courselanding h2 {
+            .courselanding h1 {
                 text-align: center;
             }
 

@@ -162,7 +162,7 @@ BCA in cloud tech and IT security,Bachelors in cloud computing India,CTIS specia
     .courselanding p{
         text-align: center;
     }
-    .courselanding h2{
+    .courselanding h1{
         text-align: center;
     }
     .courselanding h3{

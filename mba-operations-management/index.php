@@ -171,7 +171,7 @@ Production and Operations MBA Online,Online MBA in Process & Project Management"
     .courselanding p{
         text-align: center;
     }
-    .courselanding h2{
+    .courselanding h1{
         text-align: center;
     }
     .courselanding h3{

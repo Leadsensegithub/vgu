@@ -239,7 +239,7 @@ Study digital marketing with BBA,Best online BBA for digital marketing,Bachelor'
                 text-align: center;
             }
 
-            .courselanding h2 {
+            .courselanding h1 {
                 text-align: center;
             }
 

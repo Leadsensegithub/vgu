@@ -170,7 +170,7 @@ Fintech management course online,Learn fintech with BBA,Top fintech BBA programs
     .courselanding p{
         text-align: center;
     }
-    .courselanding h2{
+    .courselanding h1{
         text-align: center;
     }
     .courselanding h3{
