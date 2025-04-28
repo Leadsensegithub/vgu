@@ -301,7 +301,7 @@ Career after MSc Mathematics,Flexible MSc Maths program online">
                         <div class="mobilenav">
                                                 <div>
                             <a class="navbar-brand pl-0" href="../"><img src="https://iop.onlinevgu.com/assets/custom/images/vgulogo.jpeg"
-                                    alt="fables Template" class="fables-logo" height="80px" width="80px" /></a>
+                                    alt="online vgu" class="fables-logo" height="80px" width="80px" /></a>
                         </div>
                         <div>
                         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#fablesNavDropdown" aria-controls="fablesNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
@@ -1444,7 +1444,7 @@ Career after MSc Mathematics,Flexible MSc Maths program online">
             <div class="row">
                 <div class="col-12 col-lg-3 mb-4 mb-lg-0">
                     <a href="#" class="fables-second-border-color border-bottom pb-3 d-block mb-3 mt-minus-13"><img
-                            src="https://iop.onlinevgu.com/assets/custom/images/vgulogo.jpeg" alt="fables template" width="100px"
+                            src="https://iop.onlinevgu.com/assets/custom/images/vgulogo.jpeg" alt="online vgu" width="100px"
                             height="100px"></a>
                     <p class="font-15 fables-third-text-color">
                         Online VGU offers a dynamic learning experience designed for Today’s learners. With flexible

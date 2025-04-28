@@ -1520,7 +1520,7 @@
             <div class="row">
                 <div class="col-12 col-lg-3 mb-4 mb-lg-0">
                     <a href="#" class="fables-second-border-color border-bottom pb-3 d-block mb-3 mt-minus-13"><img
-                            src="./assets/custom/images/vgulogo.jpeg" alt="fables template" width="100px"
+                            src="./assets/custom/images/vgulogo.jpeg" alt="online vgu" width="100px"
                             height="100px"></a>
                     <p class="font-15 fables-third-text-color">
                         Online VGU offers a dynamic learning experience designed for Today’s learners. With flexible
