@@ -9,15 +9,16 @@
       <meta name="robots" content="index, follow">
 
      <link rel="icon" type="image/png" href="https://iop.onlinevgu.com/assets/custom/images/logo.png" >
-    <title>Online the Bachelor Business Management Course for Future Leaders</title>
-    <meta name="title" content="Online the Bachelor Business Management Course for Future Leaders" />
+
+    <title>Online BCA Degree : Build Tech Skills & Fit for the future </title>
+    <meta name="title" content="Online BCA Degree : Build Tech Skills & Fit for the future" />
     <meta name="description"
-        content="Build your leadership journey with VGU Online BBA. Gain business fundamentals, strategic thinking, and the confidence to thrive in Today�s competitive market">
-    <meta name="keywords" content="Online BBA in Fintech,Bachelors degree in fintech,BBA with fintech specialization,
-Fintech management course online,Learn fintech with BBA,Top fintech BBA programs in India">
-    <meta property="og:title" content="Online the Bachelor Business Management Course for Future Leaders">
+        content="Online BCA Degree Begin your tech career with a Bachelor in Computer Applications. Study code, database, new innovations, and IT skills for the digital future">
+    <meta name="keywords" content="Study blockchain technology with BCA,Blockchain developer course in BCA,Bachelors in blockchain tech,
+UGC-approved BCA in blockchain">
+    <meta property="og:title" content="Online BCA Degree : Build Tech Skills & Fit for the future ">
     <meta property="og:description"
-        content="Build your leadership journey with VGU Online BBA. Gain business fundamentals, strategic thinking, and the confidence to thrive in Today�s competitive market">
+        content="Online BCA Degree Begin your tech career with a Bachelor in Computer Applications. Study code, database, new innovations, and IT skills for the digital future">
 
         <meta property="og:site_name" content="  online vgu" />
 
@@ -80,6 +81,7 @@ Fintech management course online,Learn fintech with BBA,Top fintech BBA programs
 
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 <body>
+
     <style>
         .iti{
             width: 100% !important;
@@ -125,7 +127,6 @@ Fintech management course online,Learn fintech with BBA,Top fintech BBA programs
             font-family: Roboto Slab;
             font-size: 17px !important;
         }
-
         .applynowform label {
             color: #7f1813;
             font-weight: bold;
@@ -144,15 +145,7 @@ Fintech management course online,Learn fintech with BBA,Top fintech BBA programs
                 flex-direction: column;
                 height: auto;
             }
-
-             .courselanding .approvedimg img{
-        height: 50px;
-        width: 50px;
-     }
-    .courselanding h4{
-        font-size: 18px;
-    }
-    .courselanding .leftsection h3{
+            .courselanding .leftsection h3{
         font-size: 15px;
     }
     .courselanding .leftsection h2 span{
@@ -178,6 +171,13 @@ Fintech management course online,Learn fintech with BBA,Top fintech BBA programs
         align-items: center;
         justify-content: center;
         gap: 10px;
+    }
+             .courselanding .approvedimg img{
+        height: 50px;
+        width: 50px;
+     }
+    .courselanding h4{
+        font-size: 18px;
     }
     .formlanding{
         margin-top: 30px;
@@ -240,7 +240,6 @@ Fintech management course online,Learn fintech with BBA,Top fintech BBA programs
             }
         }
     </style>
-
 
     <div class="search-section">
         <a class="close-search" href="#"></a>
@@ -413,14 +412,14 @@ Fintech management course online,Learn fintech with BBA,Top fintech BBA programs
       <div class="courselanding">
       <div class="row" style="margin-bottom:130px; margin: 20px;">
         <div class="col-lg-6 leftsection">
-            <h2 class="pb-3" style="font-family: Spectral; font-size: 40px;"><span style="font-size: 60px; color: #7f1813; font-weight: bold;">Online</span>   BBA-Fintech
-            </h2>
+            <h2 class="pb-3" style="font-family: Spectral; font-size: 40px;"><span style="font-size: 60px; color: #7f1813; font-weight: bold;">Online</span>  
+                BCA-Blockchain Technology</h2>
             <h3 class="pb-4" style="font-family: Vollkorn;">Vivekananda Global University</h3>
             <p style="line-height: 2;">Vivekananda Global University (VGU) offers a comprehensive Online Bachelor of
-                Business Administration (BBA) in FinTech program, designed to provide students with a strong foundation
-                in business administration while specializing in the emerging field of financial technology. This
-                program is ideal for individuals seeking flexibility in their education while pursuing a degree from a
-                UGC-recognized institution.​</p>
+                Computer Applications (BCA) in Blockchain Technology program, designed to equip students with a strong
+                foundation in computer science along with specialized knowledge in blockchain and decentralized
+                technologies. This program is ideal for individuals seeking flexibility in their education while
+                pursuing a degree from a UGC-recognized institution.​</p>
             <h4 class="mt-5" style="font-family: Vollkorn;">Online VGU Approved By ✅</h4>
             <div class="pt-4 approvedimg">
                 <img src="../assets/custom/images/aicte.jpeg" alt="aicte" height="90px" width="90px" class="aicte">
@@ -506,8 +505,8 @@ Fintech management course online,Learn fintech with BBA,Top fintech BBA programs
     <div class="row justify-content-center text-center">
         <div class="col-lg-8">
                     <h2 class="font-weight-bold pb-3" style="color:#7f1813;"> Program Details</h2>
-                    <p class="mb-4" style="color: #ffff;">Explore the key highlights of the Online BBA-Fintech program
-                        at VGU</p>
+                    <p class="mb-4" style="color: #ffff;">Explore the key highlights of the Online BCA-Blockchain
+                        Technology program at VGU</p>
                 </div>
             </div>
 
@@ -1351,7 +1350,6 @@ Fintech management course online,Learn fintech with BBA,Top fintech BBA programs
             </div>
         </div>
     </div>
-
     <!-- /End page content -->
 
     <!-- Start Footer 2 Background Image  -->

@@ -78,6 +78,7 @@
 </head>
 
 
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 <body>
 <style>
     @keyframes pulse {
@@ -281,9 +282,9 @@
                                         <li class="dropdown">
                                             <a class="dropdown-item" href="#">BBA</a>
                                             <ul class="dropdown-menu">
-                                                <li><a class="dropdown-item" href="../bba-digital_marketing">Digital
+                                                <li><a class="dropdown-item" href="../bba-digital-marketing">Digital
                                                         Marketing</a></li>
-                                                <li><a class="dropdown-item" href="../bba-retail_management">Retail
+                                                <li><a class="dropdown-item" href="../bba-retail-management">Retail
                                                         Management</a></li>
                                                 <li><a class="dropdown-item" href="../bba-fintech">Fintech</a></li>
                                             </ul>
@@ -293,16 +294,16 @@
                                             <a class="dropdown-item" href="#">BCA</a>
                                             <ul class="dropdown-menu">
                                                 <li><a class="dropdown-item" href="../bca-ux">UX</a></li>
-                                                <li><a class="dropdown-item" href="../bca-data_science">Data Science</a>
+                                                <li><a class="dropdown-item" href="../bca-data-science">Data Science</a>
                                                 </li>
                                                 <li><a class="dropdown-item"
-                                                        href="../bca-blockchain_technology">Blockchain Technology</a>
+                                                        href="../bca-blockchain-technology">Blockchain Technology</a>
                                                 </li>
                                                 <li><a class="dropdown-item"
-                                                        href="../bca-ctis__cloud_technology_&_information_security">Cloud
+                                                        href="../bca-ctis-cloud-technology-&-information-security">Cloud
                                                         Technology & Information Security</a></li>
                                                 <li><a class="dropdown-item"
-                                                        href="../bca-artificial_intelligence">Artificial Intelligence</a>
+                                                        href="../bca-artificial-intelligence">Artificial Intelligence</a>
                                                 </li>
                                             </ul>
                                         </li>
@@ -322,20 +323,20 @@
                                                 <li><a class="dropdown-item" href="../mba-marketing">Marketing</a></li>
                                                 <li><a class="dropdown-item" href="../mba-finance">Finance</a></li>
                                                 <li><a class="dropdown-item" href="../mba-healthcare">Healthcare</a></li>
-                                                <li><a class="dropdown-item" href="../mba-agri_business">Agri
+                                                <li><a class="dropdown-item" href="../mba-agri-business">Agri
                                                         Business</a></li>
                                                 <li><a class="dropdown-item"
-                                                        href="../mba-information_technology">Information Technology</a>
+                                                        href="../mba-information-technology">Information Technology</a>
                                                 </li>
                                                 <li><a class="dropdown-item"
-                                                        href="../mba-international_business">International Business</a>
+                                                        href="../mba-international-business">International Business</a>
                                                 </li>
                                                 <li><a class="dropdown-item"
-                                                        href="../mba-operations_management">Operations Management</a>
+                                                        href="../mba-operations-management">Operations Management</a>
                                                 </li>
                                             </ul>
                                         </li>
-                                        <li><a class="dropdown-item" href="../mca-computer_application">MCA</a></li>
+                                        <li><a class="dropdown-item" href="../mca-computer-application">MCA</a></li>
                                         <li><a class="dropdown-item">M.Sc</a>
                                             <ul class="dropdown-menu">
                                                 <li><a class="dropdown-item" href="../msc-mathematics">Maths</a></li>
@@ -441,7 +442,7 @@
                     <li><strong>Eligibility:</strong> 45% Aggregate in Graduation</li>
                     <li><strong>Fees:</strong> ₹ 1,50,000</li>
             </ul>
-            <a href="../mba-information_technology" class="btn fables-second-background-color white-color fables-btn-rounded px-4 py-2 d-inline-block">🚀 View More</a>
+            <a href="../mba-information-technology" class="btn fables-second-background-color white-color fables-btn-rounded px-4 py-2 d-inline-block">🚀 View More</a>
         </div>
     </div>
 </div>
@@ -457,7 +458,7 @@
                     <li><strong>Eligibility:</strong> 45% Aggregate in Graduation</li>
                     <li><strong>Fees:</strong> ₹ 1,50,000</li>
             </ul>
-            <a href="../mba-agri_business" class="btn fables-second-background-color white-color fables-btn-rounded px-4 py-2 d-inline-block">🚀 View More</a>
+            <a href="../mba-agri-business" class="btn fables-second-background-color white-color fables-btn-rounded px-4 py-2 d-inline-block">🚀 View More</a>
         </div>
     </div>
 </div>
@@ -489,7 +490,7 @@
                 <li><strong>Eligibility:</strong> 45% Aggregate in Graduation</li>
                 <li><strong>Fees:</strong> ₹ 1,50,000</li>
             </ul>
-            <a href="../mba-international_business" class="btn fables-second-background-color white-color fables-btn-rounded px-4 py-2 d-inline-block">🚀 View More</a>
+            <a href="../mba-international-business" class="btn fables-second-background-color white-color fables-btn-rounded px-4 py-2 d-inline-block">🚀 View More</a>
         </div>
     </div>
 </div>
@@ -505,7 +506,7 @@
                 <li><strong>Eligibility:</strong> 45% Aggregate in Graduation</li>
                 <li><strong>Fees:</strong> ₹ 1,50,000</li>
             </ul>
-            <a href="../mba-operations_management" class="btn fables-second-background-color white-color fables-btn-rounded px-4 py-2 d-inline-block">🚀 View More</a>
+            <a href="../mba-operations-management" class="btn fables-second-background-color white-color fables-btn-rounded px-4 py-2 d-inline-block">🚀 View More</a>
         </div>
     </div>
 </div>
@@ -521,7 +522,7 @@
                     <li><strong>Eligibility:</strong> 45% Aggregate in Graduation</li>
                     <li><strong>Fees:</strong> ₹ 1,50,000</li>
             </ul>
-            <a href="../mca-computer_application" class="btn fables-second-background-color white-color fables-btn-rounded px-4 py-2 d-inline-block">🚀 View More</a>
+            <a href="../mca-computer-application" class="btn fables-second-background-color white-color fables-btn-rounded px-4 py-2 d-inline-block">🚀 View More</a>
         </div>
     </div>
 </div>
@@ -664,14 +665,14 @@
                     <h2 class="font-20 semi-font fables-second-border-color border-bottom pb-3 mb-3">Quick Links</h2>
                     <ul class="nav fables-footer-links">
                         <li><a href="../ba">BA</a></li>
-                        <li><a href="../bba-digital_marketing">BBA - Digital Marketing</a></li>
-                        <li><a href="../bba-retail_management">BBA - Retail Management</a></li>
+                        <li><a href="../bba-digital-marketing">BBA - Digital Marketing</a></li>
+                        <li><a href="../bba-retail-management">BBA - Retail Management</a></li>
                         <li><a href="../bba-fintech">BBA - Fintech</a></li>
                         <li><a href="../bca-ux">BCA - UX</a></li>
-                        <li><a href="../bca-data_science">BCA - Data Science</a></li>
-                        <li><a href="../bca-blockchain_technology">BCA - Blockchain Technology</a></li>
-                        <li><a href="../bca-ctis__cloud_technology_&_information_security">BCA - Cloud Technology & Information Security</a></li>
-                        <li><a href="../bca-artificial_intelligence">BCA - Artificial Intelligence</a></li>
+                        <li><a href="../bca-data-science">BCA - Data Science</a></li>
+                        <li><a href="../bca-blockchain-technology">BCA - Blockchain Technology</a></li>
+                        <li><a href="../bca-ctis-cloud-technology-&-information-security">BCA - Cloud Technology & Information Security</a></li>
+                        <li><a href="../bca-artificial-intelligence">BCA - Artificial Intelligence</a></li>
                     </ul>
                 </div>
                 <div class="col-12 col-sm-6 col-lg-3 mt-5">
@@ -681,11 +682,11 @@
                         <li><a href="../mba-marketing">MBA - Marketing</a></li>
                         <li><a href="../mba-finance">MBA - Finance</a></li>
                         <li><a href="../mba-healthcare">MBA - Healthcare</a></li>
-                        <li><a href="../mba-agri_business">MBA - Agri Business</a></li>
-                        <li><a href="../mba-information_technology">MBA - Information Technology</a></li>
-                        <li><a href="../mba-international_business">MBA - International Business</a></li>
-                        <li><a href="../mba-operations_management">MBA - Operations Management</a></li>
-                        <li><a href="../mca-computer_application">MCA</a></li>
+                        <li><a href="../mba-agri-business">MBA - Agri Business</a></li>
+                        <li><a href="../mba-information-technology">MBA - Information Technology</a></li>
+                        <li><a href="../mba-international-business">MBA - International Business</a></li>
+                        <li><a href="../mba-operations-management">MBA - Operations Management</a></li>
+                        <li><a href="../mca-computer-application">MCA</a></li>
                         <li><a href="../msc-mathematics">M.Sc - Maths</a></li>
                     </ul>
                 </div>
@@ -703,7 +704,7 @@
             <li><a href="#" target="_blank"><i class="fab fa-twitter-square"></i></a></li>
             <li><a href="#" target="_blank"><i class="fab fa-linkedin"></i></a></li>
         </ul>
-        <p class="mb-0">iop.onlinevgu.com All rights reserved.</p> 
+        <p class="mb-0">© 2025 iop.onlinevgu.com  All Rights Reserved.</p> 
 
 </div>
     

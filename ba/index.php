@@ -81,6 +81,7 @@ Online BA humanities program,Bachelor of Arts for career in civil services">
     <!--End of Tawk.to Script-->
 </head>
 
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 <body>
 
     <style>
@@ -348,9 +349,9 @@ Online BA humanities program,Bachelor of Arts for career in civil services">
                                         <li class="dropdown">
                                             <a class="dropdown-item" href="#">BBA</a>
                                             <ul class="dropdown-menu">
-                                                <li><a class="dropdown-item" href="../bba-digital_marketing">Digital
+                                                <li><a class="dropdown-item" href="../bba-digital-marketing">Digital
                                                         Marketing</a></li>
-                                                <li><a class="dropdown-item" href="../bba-retail_management">Retail
+                                                <li><a class="dropdown-item" href="../bba-retail-management">Retail
                                                         Management</a></li>
                                                 <li><a class="dropdown-item" href="../bba-fintech">Fintech</a></li>
                                             </ul>
@@ -360,16 +361,16 @@ Online BA humanities program,Bachelor of Arts for career in civil services">
                                             <a class="dropdown-item" href="#">BCA</a>
                                             <ul class="dropdown-menu">
                                                 <li><a class="dropdown-item" href="../bca-ux">UX</a></li>
-                                                <li><a class="dropdown-item" href="../bca-data_science">Data Science</a>
+                                                <li><a class="dropdown-item" href="../bca-data-science">Data Science</a>
                                                 </li>
                                                 <li><a class="dropdown-item"
-                                                        href="../bca-blockchain_technology">Blockchain Technology</a>
+                                                        href="../bca-blockchain-technology">Blockchain Technology</a>
                                                 </li>
                                                 <li><a class="dropdown-item"
-                                                        href="../bca-ctis__cloud_technology_&_information_security">Cloud
+                                                        href="../bca-ctis-cloud-technology-&-information-security">Cloud
                                                         Technology & Information Security</a></li>
                                                 <li><a class="dropdown-item"
-                                                        href="../bca-artificial_intelligence">Artificial
+                                                        href="../bca-artificial-intelligence">Artificial
                                                         Intelligence</a>
                                                 </li>
                                             </ul>
@@ -391,20 +392,20 @@ Online BA humanities program,Bachelor of Arts for career in civil services">
                                                 <li><a class="dropdown-item" href="../mba-finance">Finance</a></li>
                                                 <li><a class="dropdown-item" href="../mba-healthcare">Healthcare</a>
                                                 </li>
-                                                <li><a class="dropdown-item" href="../mba-agri_business">Agri
+                                                <li><a class="dropdown-item" href="../mba-agri-business">Agri
                                                         Business</a></li>
                                                 <li><a class="dropdown-item"
-                                                        href="../mba-information_technology">Information Technology</a>
+                                                        href="../mba-information-technology">Information Technology</a>
                                                 </li>
                                                 <li><a class="dropdown-item"
-                                                        href="../mba-international_business">International Business</a>
+                                                        href="../mba-international-business">International Business</a>
                                                 </li>
                                                 <li><a class="dropdown-item"
-                                                        href="../mba-operations_management">Operations Management</a>
+                                                        href="../mba-operations-management">Operations Management</a>
                                                 </li>
                                             </ul>
                                         </li>
-                                        <li><a class="dropdown-item" href="../mca-computer_application">MCA</a></li>
+                                        <li><a class="dropdown-item" href="../mca-computer-application">MCA</a></li>
                                         <li><a class="dropdown-item">M.Sc</a>
                                             <ul class="dropdown-menu">
                                                 <li><a class="dropdown-item" href="../msc-mathematics">Maths</a></li>
@@ -435,12 +436,7 @@ Online BA humanities program,Bachelor of Arts for career in civil services">
                 <h2 class="pb-3" style="font-family: Spectral; font-size: 40px;"><span
                         style="font-size: 60px; color: #7f1813; font-weight: bold;">Online</span> BA</h2>
                 <h3 class="pb-4" style="font-family: Vollkorn;">Vivekananda Global University</h3>
-                <p style="line-height: 2;">Vivekananda Global University (VGU) offers a comprehensive Online Bachelor of
-                    Arts (BA) program designed
-                    to provide students with a solid foundation in the humanities and social sciences. This program is
-                    ideal
-                    for individuals seeking flexibility in their education while pursuing a degree from a UGC-recognized
-                    institution.​</p>
+                <p style="line-height: 2;">The extensive online Bachelor of Arts (BA) curriculum offered by Vivekananda Global University (VGU) is intended to give students a strong foundation in the social sciences and humanities. For those who want flexibility in their education while earning a degree from an institution recognized by the UGC, this program is perfect.</p>
                 <h4 class="mt-5" style="font-family: Vollkorn;">Online VGU Approved By ✅</h4>
                 <div class="pt-4 approvedimg">
                     <img src="../assets/custom/images/aicte.jpeg" alt="aicte" height="90px" width="90px" class="aicte">
@@ -563,7 +559,7 @@ Online BA humanities program,Bachelor of Arts for career in civil services">
                     <div
                         style="box-shadow: 0 3px 10px rgba(0,0,0,0.1); padding: 20px; border-radius: 8px;background-color: #ffff;">
                         <h4 class="font-weight-bold" style="color:#7f1813;">📜 Eligibility</h4>
-                        <p class="mb-0">45% marks in 10+2</p>
+                        <p class="mb-0">10th & +12th</p>
                     </div>
                 </div>
             </div>
@@ -571,7 +567,7 @@ Online BA humanities program,Bachelor of Arts for career in civil services">
     </div>
 
     <div class="container aboutlanding">
-        <h2 class="font-35 font-weight-bold text-center fables-second-text-color mt-4">About Online VGU</h2>
+        <h2 class="font-35 font-weight-bold text-center fables-second-text-color mt-4">About Vivekananda Global University Online Programs</h2>
 
         <div class="row mt-3 mt-lg-5">
             <div class="col-12 col-lg-6 mt-3 mt-lg-0 overflow-hidden">
@@ -711,18 +707,16 @@ Online BA humanities program,Bachelor of Arts for career in civil services">
                         <div class="card-body col-12 px-4 py-3 text-center"
                             style="height:330px;border: 1px solid rgb(240, 178, 178); border-top: none;">
                             <h5 class="card-title mb-2">
-                                <a href="../ba" class="text-dark font-weight-bold"
-                                    style="font-size: 24px; text-decoration: none;">
-                                    Bachelor of Arts (BA)
-                                </a>
-                            </h5>
+                                    <a href="../ba" class="text-dark font-weight-bold" style="font-size: 24px; text-decoration: none;">
+                                        Bachelor of Arts (BA)
+                                    </a>
+                                </h5>
 
-                            <ul class="list-unstyled my-3" style="font-size: 14px; color: #555;">
-                                <li>✅ UGC Approved</li>
-                                <li>✅ 100% Online</li>
-                                <li>✅ Expert Faculty</li>
-                            </ul>
-
+                                <ul class="list-unstyled my-3" style="font-size: 14px; color: #555;">
+                                    <li><i class="fa-solid fa-arrow-right"></i> UGC Approved</li>
+                                    <li><i class="fa-solid fa-arrow-right"></i> Expert Faculty with Real-World Experience</li>
+                                    <li><i class="fa-solid fa-arrow-right"></i> Affordable Tuition Fees with Access to Quality Education</li>
+                                </ul>
                             <div class="mb-3" style="font-size: 18px; font-weight: bold; color: #7f1813;">
                                 ₹ 72,000 | 3 Years
                             </div>
@@ -748,18 +742,16 @@ Online BA humanities program,Bachelor of Arts for career in civil services">
                         <div class="card-body col-12 px-4 py-3 text-center"
                             style="height:330px;border: 1px solid rgb(240, 178, 178); border-top: none;">
                             <h5 class="card-title mb-2">
-                                <a href="../bba-digital_marketing" class="text-dark font-weight-bold"
-                                    style="font-size: 22px; text-decoration: none;">
-                                    BBA - Digital Marketing
-                                </a>
-                            </h5>
+                                    <a href="../bba-digital-marketing" class="text-dark font-weight-bold" style="font-size: 22px; text-decoration: none;">
+                                        BBA - Digital Marketing
+                                    </a>
+                                </h5>
 
-
-                            <ul class="list-unstyled my-3" style="font-size: 14px; color: #555;">
-                                <li>📊 Learn SEO, SEM, Content Strategy</li>
-                                <li>💼 Real Industry Projects</li>
-                            </ul>
-
+                                <ul class="list-unstyled my-3" style="font-size: 14px; color: #555;">
+                                    <li><i class="fa-solid fa-arrow-right"></i> Master SEO, Content Strategy, and Social Media Marketing</li>
+                                    <li><i class="fa-solid fa-arrow-right"></i> Hands-On Experience with Real Industry Projects</li>
+                                    <li><i class="fa-solid fa-arrow-right"></i> Learn from Experts with Industry Experience</li>
+                               </ul>
                             <div class="mb-3" style="font-size: 18px; font-weight: bold; color: #7f1813;">
                                 ₹ 1,32,000 | 3 Years
                             </div>
@@ -784,17 +776,15 @@ Online BA humanities program,Bachelor of Arts for career in civil services">
                         <div class="card-body col-12 px-4 py-3 text-center"
                             style="height:330px;border: 1px solid rgb(240, 178, 178); border-top: none;">
                             <h5 class="card-title mb-2">
-                                <a href="../bba-retail_management" class="text-dark font-weight-bold"
-                                    style="font-size: 22px; text-decoration: none;">
-                                    BBA - Retail Management
-                                </a>
-                            </h5>
+                                    <a href="../bba-retail-management" class="text-dark font-weight-bold" style="font-size: 22px; text-decoration: none;">
+                                        BBA - Retail Management
+                                    </a>
+                                </h5>
 
-                            <ul class="list-unstyled my-3" style="font-size: 14px; color: #555;">
-                                <li>🏬 Explore online & offline retail</li>
-                                <li>📦 Understand supply chain logistics</li>
-                            </ul>
-
+                                <ul class="list-unstyled my-3" style="font-size: 14px; color: #555;">
+                                    <li><i class="fa-solid fa-arrow-right"></i> Understand Supply Chain, Logistics, and Inventory Management</li>
+                                    <li><i class="fa-solid fa-arrow-right"></i> Learn Key Retail Strategies for Modern Business</li>
+                                </ul>
                             <div class="mb-3" style="font-size: 18px; font-weight: bold; color: #7f1813;">
                                 ₹ 1,32,000 | 3 Years
                             </div>
@@ -819,18 +809,16 @@ Online BA humanities program,Bachelor of Arts for career in civil services">
                         <div class="card-body col-12 px-4 py-3 text-center"
                             style="height:330px;border: 1px solid rgb(240, 178, 178); border-top: none;">
                             <h5 class="card-title mb-2">
-                                <a href="../bba-fintech" class="text-dark font-weight-bold"
-                                    style="font-size: 22px; text-decoration: none;">
-                                    BBA - Fintech
-                                </a>
-                            </h5>
+                                    <a href="../bba-fintech" class="text-dark font-weight-bold" style="font-size: 22px; text-decoration: none;">
+                                        BBA - Fintech
+                                    </a>
+                                </h5>
 
-                            <ul class="list-unstyled my-3" style="font-size: 14px; color: #555;">
-                                <li>🔗 Blockchain & Crypto Basics</li>
-                                <li>🏦 Digital Banking & Insurtech</li>
-                                <li>💼 Industry-driven Curriculum</li>
-                            </ul>
-
+                                <ul class="list-unstyled my-3" style="font-size: 14px; color: #555;">
+                                    <li><i class="fa-solid fa-arrow-right"></i> Learn Blockchain Technology</li>
+                                    <li><i class="fa-solid fa-arrow-right"></i> Dive into Digital Banking, Payments Systems & Insurtech</li>
+                                    <li><i class="fa-solid fa-arrow-right"></i> Industry-Driven Curriculum with Real-World Applications</li>
+                                </ul>
                             <div class="mb-3" style="font-size: 18px; font-weight: bold; color: #7f1813;">
                                 ₹ 1,32,000 | 3 Years
                             </div>
@@ -855,18 +843,16 @@ Online BA humanities program,Bachelor of Arts for career in civil services">
                         <div class="card-body col-12 px-4 py-3 text-center"
                             style="height:330px;border: 1px solid rgb(240, 178, 178); border-top: none;">
                             <h5 class="card-title mb-2">
-                                <a href="../bca-ux" class="text-dark font-weight-bold"
-                                    style="font-size: 22px; text-decoration: none;">
+                                <a href="../bca-ux" class="text-dark font-weight-bold" style="font-size: 22px; text-decoration: none;">
                                     BCA - UX Design
                                 </a>
                             </h5>
 
                             <ul class="list-unstyled my-3" style="font-size: 14px; color: #555;">
-                                <li>🧠 User-Centered Design Process</li>
-                                <li>📱 UI/UX Tools & Prototyping</li>
-                                <li>🎯 Real-World UX Projects</li>
+                                <li><i class="fa-solid fa-arrow-right"></i> Master the User-Centered Design Process</li>
+                                <li><i class="fa-solid fa-arrow-right"></i> Learn Industry-Leading UI/UX Tools & Prototyping Techniques</li>
+                                <li><i class="fa-solid fa-arrow-right"></i> Work on Real-World UX Projects & Case Studies</li>
                             </ul>
-
                             <div class="mb-3" style="font-size: 18px; font-weight: bold; color: #7f1813;">
                                 ₹ 1,32,000 | 3 Years
                             </div>
@@ -891,17 +877,16 @@ Online BA humanities program,Bachelor of Arts for career in civil services">
                         <div class="card-body col-12 px-4 py-3 text-center"
                             style="height:330px;border: 1px solid rgb(240, 178, 178); border-top: none;">
                             <h5 class="card-title mb-2">
-                                <a href="../bca-data_science" class="text-dark font-weight-bold"
-                                    style="font-size: 22px; text-decoration: none;">
-                                    BCA - Data Science
-                                </a>
-                            </h5>
+                                    <a href="../bca-data-science" class="text-dark font-weight-bold" style="font-size: 22px; text-decoration: none;">
+                                        BCA - Data Science
+                                    </a>
+                                </h5>
 
-                            <ul class="list-unstyled my-3" style="font-size: 14px; color: #555;">
-                                <li>📈 Python, R & SQL Foundations</li>
-                                <li>🧮 Data Visualization & ML Models</li>
-                            </ul>
-
+                                <ul class="list-unstyled my-3" style="font-size: 14px; color: #555;">
+                                    <li><i class="fa-solid fa-arrow-right"></i> Learn Python, R & SQL Foundations</li>
+                                    <li><i class="fa-solid fa-arrow-right"></i> Master Data Visualization with Tools </li>
+                                    <li><i class="fa-solid fa-arrow-right"></i> Build Machine Learning Models & Understand Algorithms</li>
+                                </ul>
                             <div class="mb-3" style="font-size: 18px; font-weight: bold; color: #7f1813;">
                                 ₹ 1,32,000 | 3 Years
                             </div>
@@ -926,17 +911,15 @@ Online BA humanities program,Bachelor of Arts for career in civil services">
                         <div class="card-body col-12 px-4 py-3 text-center"
                             style="height:330px;border: 1px solid rgb(240, 178, 178); border-top: none;">
                             <h5 class="card-title mb-2">
-                                <a href="../bca-blockchain_technology" class="text-dark font-weight-bold"
-                                    style="font-size: 22px; text-decoration: none;">
+                                <a href="../bca-blockchain-technology" class="text-dark font-weight-bold" style="font-size: 22px; text-decoration: none;">
                                     BCA - Blockchain Technology
                                 </a>
                             </h5>
 
                             <ul class="list-unstyled my-3" style="font-size: 14px; color: #555;">
-                                <li>🔐 Learn Smart Contracts & DApps</li>
-                                <li>📦 Real-World Project Implementation</li>
+                                <li><i class="fa-solid fa-arrow-right"></i> Learn to Develop Smart Contracts & Decentralized Applications</li>
+                                <li><i class="fa-solid fa-arrow-right"></i> Real-World Blockchain Project Implementation</li>
                             </ul>
-
                             <div class="mb-3" style="font-size: 18px; font-weight: bold; color: #7f1813;">
                                 ₹ 1,32,000 | 3 Years
                             </div>
@@ -961,17 +944,15 @@ Online BA humanities program,Bachelor of Arts for career in civil services">
                         <div class="card-body col-12 px-4 py-3 text-center"
                             style="height:330px;border: 1px solid rgb(240, 178, 178); border-top: none;">
                             <h5 class="card-title mb-2">
-                                <a href="../bca-ctis__cloud_technology_&_information_security"
-                                    class="text-dark font-weight-bold" style="font-size: 22px; text-decoration: none;">
+                                <a href="../bca-ctis-cloud-technology-&-information-security" class="text-dark font-weight-bold" style="font-size: 22px; text-decoration: none;">
                                     BCA - Cloud Technology & Information Security
                                 </a>
                             </h5>
 
                             <ul class="list-unstyled my-3" style="font-size: 14px; color: #555;">
-                                <li>☁️ Master Cloud Platforms (AWS, Azure, GCP)</li>
-                                <li>🌐 Build Secure & Scalable Systems</li>
+                                <li><i class="fa-solid fa-arrow-right"></i> Master Leading Cloud Platforms: AWS, Azure, and GCP</li>
+                                <li><i class="fa-solid fa-arrow-right"></i> Learn Cloud Infrastructure, Networking, and Deployment</li>
                             </ul>
-
                             <div class="mb-3" style="font-size: 18px; font-weight: bold; color: #7f1813;">
                                 ₹ 1,32,000 | 3 Years
                             </div>
@@ -996,17 +977,15 @@ Online BA humanities program,Bachelor of Arts for career in civil services">
                         <div class="card-body col-12 px-4 py-3 text-center"
                             style="height:330px;border: 1px solid rgb(240, 178, 178); border-top: none;">
                             <h5 class="card-title mb-2">
-                                <a href="../bca-artificial_intelligence" class="text-dark font-weight-bold"
-                                    style="font-size: 22px; text-decoration: none;">
-                                    BCA - Artificial Intelligence
-                                </a>
-                            </h5>
+                                    <a href="../bca-artificial-intelligence" class="text-dark font-weight-bold" style="font-size: 22px; text-decoration: none;">
+                                        BCA - Artificial Intelligence
+                                    </a>
+                                </h5>
 
-                            <ul class="list-unstyled my-3" style="font-size: 14px; color: #555;">
-                                <li>🤖 Master AI Algorithms</li>
-                                <li>🧠 Build Intelligent Systems and Neural Networks</li>
-                            </ul>
-
+                                <ul class="list-unstyled my-3" style="font-size: 14px; color: #555;">
+                                    <li><i class="fa-solid fa-arrow-right"></i> Master Core AI Algorithms and Techniques </li>
+                                    <li><i class="fa-solid fa-arrow-right"></i> Learn Machine Learning, Deep Learning, and NLP</li>
+                                </ul>
                             <div class="mb-3" style="font-size: 18px; font-weight: bold;color: #7f1813;">
                                 ₹ 1,32,000 | 3 Years
                             </div>
@@ -1033,17 +1012,15 @@ Online BA humanities program,Bachelor of Arts for career in civil services">
                             style="height:330px;border: 1px solid rgb(240, 178, 178); border-top: none;">
                             <!-- Program Name -->
                             <h5 class="card-title mb-2">
-                                <a href="../ma" class="text-dark font-weight-bold"
-                                    style="font-size: 24px; text-decoration: none;">
-                                    Master of Arts (MA)</a>
-                            </h5>
+                                    <a href="../ma" class="text-dark font-weight-bold" style="font-size: 24px; text-decoration: none;">
+                                        Master of Arts (MA)
+                                    </a>
+                                </h5>
 
-                            <!-- Additional Benefits -->
-                            <p class="fables-fifth-text-color font-14 mb-3" style="line-height: 1.5;">
-                                - Flexible online learning format 📱<br>
-                                - Hands-on learning and real-world case studies 💼
-                            </p>
-
+                                <ul class="list-unstyled my-3" style="font-size: 14px; color: #555;">
+                                <li><i class="fa-solid fa-arrow-right"></i> Gain In-Depth Knowledge in Specialized Areas of Arts & Humanities</li>
+                                    <li><i class="fa-solid fa-arrow-right"></i> Hands-On Learning with Real-World Case Studies</li>
+                                </ul>
                             <div class="mb-3" style="font-size: 18px; font-weight: bold; color: #7f1813;">
                                 ₹ 72,000 | 2 Years
                             </div>
@@ -1071,20 +1048,17 @@ Online BA humanities program,Bachelor of Arts for career in civil services">
                             style="height:330px;border: 1px solid rgb(240, 178, 178); border-top: none;">
 
                             <h5 class="card-title mb-2">
-                                <a href="../mba-agri_business" class="text-dark font-weight-bold"
-                                    style="font-size: 24px; text-decoration: none;">
-                                    MBA - Agri Business </a>
+                                <a href="../mba-agri-business" class="text-dark font-weight-bold" style="font-size: 24px; text-decoration: none;">
+                                    MBA - Agri Business
+                                </a>
                             </h5>
 
-
-                            <!-- Additional Benefits -->
-                            <p class="fables-fifth-text-color font-14 mb-3" style="line-height: 1.5;">
-                                - Master business strategies in the Agri sector 🌾<br>
-                                - Hands-on approach with real-life case studies 💼
-                            </p>
-
+                            <ul class="list-unstyled my-3" style="font-size: 14px; color: #555;">
+                                <li><i class="fa-solid fa-arrow-right"></i> Master Business Strategies Tailored for the Agriculture Sector</li>
+                                <li><i class="fa-solid fa-arrow-right"></i> Learn Sustainable Practices and Innovation in Agricultural Business</li>
+                            </ul>
                             <div class="mb-3" style="font-size: 18px; font-weight: bold; color: #7f1813;">
-                                ₹ 1,50,000 | 2 Years 💰
+                                ₹ 1,50,000 | 2 Years 
                             </div>
                             <a href="../applynow" class="btn rounded-pill px-4 py-2 font-weight-bold"
                                 style="font-size: 14px; color: #7f1813; border: 1px solid #7f1813;">
@@ -1108,21 +1082,17 @@ Online BA humanities program,Bachelor of Arts for career in civil services">
                             style="height:330px;border: 1px solid rgb(240, 178, 178); border-top: none;">
                             <!-- Course Name -->
                             <h5 class="card-title mb-2">
-                                <a href="../mba-hrm" class="text-dark font-weight-bold"
-                                    style="font-size: 24px; text-decoration: none;">
-                                    MBA - HRM </a>
+                                <a href="../mba-hrm" class="text-dark font-weight-bold" style="font-size: 24px; text-decoration: none;">
+                                    MBA - HRM
+                                </a>
                             </h5>
 
-
-                            <!-- Additional Benefits -->
-                            <p class="fables-fifth-text-color font-14 mx-3 mb-3"
-                                style="line-height: 1.5; text-align:center;">
-                                - Develop leadership and management skills 👩‍💼<br>
-                                - Online learning for flexibility 🌍 🌟
-                            </p>
-
+                            <ul class="list-unstyled my-3" style="font-size: 14px; color: #555;">
+                                <li><i class="fa-solid fa-arrow-right"></i> Develop Strong Leadership and Management Skills for HR Professionals</li>
+                                <li><i class="fa-solid fa-arrow-right"></i> Work on Real-World HR Projects and Case Studies to Gain Practical Insights</li>
+                            </ul>
                             <div class="mb-3" style="font-size: 18px; font-weight: bold;color: #7f1813;">
-                                ₹ 1,50,000 | 2 Years 💰
+                                ₹ 1,50,000 | 2 Years 
                             </div>
                             <!-- Apply Now Button -->
                             <a href="../applynow" class="btn rounded-pill px-4 py-2 font-weight-bold"
@@ -1145,20 +1115,17 @@ Online BA humanities program,Bachelor of Arts for career in civil services">
                         <div class="card-body col-12 px-4 py-3 text-center"
                             style="height:330px;border: 1px solid rgb(240, 178, 178); border-top: none;">
                             <h5 class="card-title mb-2">
-                                <a href="../mba-marketing" class="text-dark font-weight-bold"
-                                    style="font-size: 24px; text-decoration: none;">
-                                    MBA - Marketing</a>
-                            </h5>
+                            <a href="../mba-marketing" class="text-dark font-weight-bold" style="font-size: 24px; text-decoration: none;">
+                                MBA - Marketing
+                            </a>
+                        </h5>
 
-
-                            <!-- Additional Benefits -->
-                            <p class="fables-fifth-text-color font-14 mx-3 mb-3"
-                                style="line-height: 1.5; text-align:center;">
-                                - Learn digital marketing techniques 📱<br>
-                                - Flexible online learning platform 🌍 🌟
-                            </p>
+                        <ul class="list-unstyled my-3" style="font-size: 14px; color: #555;">
+                            <li><i class="fa-solid fa-arrow-right"></i> Digital Marketing, Branding, and Marketing Analytics</li>
+                            <li><i class="fa-solid fa-arrow-right"></i> Master Social Media Marketing, SEO, SEM, and Content Strategy</li>
+                        </ul>
                             <div class="mb-3" style="font-size: 18px; font-weight: bold; color: #7f1813;">
-                                ₹ 1,50,000 | 2 Years 💰
+                                ₹ 1,50,000 | 2 Years 
                             </div>
                             <a href="../applynow" class="btn rounded-pill px-4 py-2 font-weight-bold"
                                 style="font-size: 14px; color: #7f1813; border: 1px solid #7f1813;">
@@ -1181,20 +1148,18 @@ Online BA humanities program,Bachelor of Arts for career in civil services">
                         <div class="card-body col-12 px-4 py-3 text-center"
                             style="height:330px;border: 1px solid rgb(240, 178, 178); border-top: none;">
                             <h5 class="card-title mb-2">
-                                <a href="../mba-finance" class="text-dark font-weight-bold"
-                                    style="font-size: 24px; text-decoration: none;">
-                                    MBA - Finance </a>
-                            </h5>
+                                    <a href="../mba-finance" class="text-dark font-weight-bold" style="font-size: 24px; text-decoration: none;">
+                                        MBA - Finance
+                                    </a>
+                                </h5>
 
-                            <!-- Additional Benefits -->
-                            <p class="fables-fifth-text-color font-14 mx-3 mb-3"
-                                style="line-height: 1.5; text-align:center;">
-                                - Learn financial planning and risk management 💹<br>
-                                - Flexible online learning format 🌍
-                            </p>
+                                <ul class="list-unstyled my-3" style="font-size: 14px; color: #555;">
+                                    <li><i class="fa-solid fa-arrow-right"></i> Gain Expertise in Financial Analysis, Accounting, and Risk Management</li>
+                                    <li><i class="fa-solid fa-arrow-right"></i> Master Financial Markets, Derivatives, and Asset Management</li>
+                                </ul>
 
                             <div class="mb-3" style="font-size: 18px; font-weight: bold; color: #7f1813;">
-                                ₹ 1,50,000 | 2 Years 💰
+                                ₹ 1,50,000 | 2 Years 
                             </div>
 
                             <a href="../applynow" class="btn rounded-pill px-4 py-2 font-weight-bold"
@@ -1217,20 +1182,18 @@ Online BA humanities program,Bachelor of Arts for career in civil services">
                         <div class="card-body col-12 px-4 py-3 text-center"
                             style="height:330px;border: 1px solid rgb(240, 178, 178); border-top: none;">
                             <h5 class="card-title mb-2">
-                                <a href="../mba-healthcare" class="text-dark font-weight-bold"
-                                    style="font-size: 24px; text-decoration: none;">
-                                    MBA - Healthcare</a>
+                                <a href="../mba-healthcare" class="text-dark font-weight-bold" style="font-size: 24px; text-decoration: none;">
+                                    MBA - Healthcare
+                                </a>
                             </h5>
 
-                            <!-- Additional Benefits -->
-                            <p class="fables-fifth-text-color font-14 mx-3 mb-3"
-                                style="line-height: 1.5; text-align:center;">
-                                - Master skills in healthcare economics and policy 🏛️<br>
-                                - Online learning format for global reach 🌍
-                            </p>
+                            <ul class="list-unstyled my-3" style="font-size: 14px; color: #555;">
+                                <li><i class="fa-solid fa-arrow-right"></i> Learn to Manage Hospitals, Healthcare Systems</li>
+                                <li><i class="fa-solid fa-arrow-right"></i> Gain Expertise in Healthcare Operations, Strategy, and Finance</li>
+                            </ul>
 
                             <div class="mb-3" style="font-size: 18px; font-weight: bold; color: #7f1813;">
-                                ₹ 1,50,000 | 2 Years 💰
+                                ₹ 1,50,000 | 2 Years 
                             </div>
 
                             <a href="../applynow" class="btn rounded-pill px-4 py-2 font-weight-bold"
@@ -1254,20 +1217,19 @@ Online BA humanities program,Bachelor of Arts for career in civil services">
                         <div class="card-body col-12 px-4 py-3 text-center"
                             style="height:330px;border: 1px solid rgb(240, 178, 178); border-top: none;">
                             <h5 class="card-title mb-2">
-                                <a href="../mba-information_technology" class="text-dark font-weight-bold"
-                                    style="font-size: 24px; text-decoration: none;">
-                                    MBA - Information Technology</a>
-                            </h5>
+    <a href="../mba-information-technology" class="text-dark font-weight-bold" style="font-size: 24px; text-decoration: none;">
+        MBA - Information Technology
+    </a>
+</h5>
 
-                            <!-- Additional Benefits -->
-                            <p class="fables-fifth-text-color font-14 mx-3 mb-3"
-                                style="line-height: 1.5; text-align:center;">
-                                - Learn digital transformation strategies 🔄<br>
-                                - Flexible online learning format 🌍
-                            </p>
+<ul class="list-unstyled my-3" style="font-size: 14px; color: #555;">
+    <li><i class="fa-solid fa-arrow-right"></i> Understand How IT Drives Business Success</li>
+    <li><i class="fa-solid fa-arrow-right"></i> Learn to Integrate Technology Solutions</li>
+</ul>
+
 
                             <div class="mb-3" style="font-size: 18px; font-weight: bold; color: #7f1813;">
-                                ₹ 1,50,000 | 2 Years 💰
+                                ₹ 1,50,000 | 2 Years 
                             </div>
 
                             <a href="../applynow" class="btn rounded-pill px-4 py-2 font-weight-bold"
@@ -1289,19 +1251,18 @@ Online BA humanities program,Bachelor of Arts for career in civil services">
                         <div class="card-body col-12 px-4 py-3 text-center"
                             style="height:330px;border: 1px solid rgb(240, 178, 178); border-top: none;">
                             <h5 class="card-title mb-2">
-                                <a href="../mba-international_business" class="text-dark font-weight-bold"
-                                    style="font-size: 24px; text-decoration: none;">
-                                    MBA - International Business </a>
-                            </h5>
+                                    <a href="../mba-international-business" class="text-dark font-weight-bold"
+                                        style="font-size: 24px; text-decoration: none;">
+                                        MBA - International Business</a>
+                                </h5>
 
-                            <!-- Additional Benefits -->
-                            <p class="fables-fifth-text-color font-14 mx-3 mb-3"
-                                style="line-height: 1.5; text-align:center;">
-                                - Learn global business strategies 🌍<br>
-                                - Opportunities for international exposure 🌍
-                            </p>
+                                <ul class="list-unstyled my-3" style="font-size: 14px; color: #555;">
+                                    <li><i class="fa-solid fa-arrow-right"></i> Gain expertise in cross-border trade and international markets</li>
+                                    <li><i class="fa-solid fa-arrow-right"></i> Develop skills to manage global teams and projects</li>
+                                </ul>
+
                             <div class="mb-3" style="font-size: 18px; font-weight: bold; color: #7f1813;">
-                                ₹ 1,50,000 | 2 Years 💰
+                                ₹ 1,50,000 | 2 Years 
                             </div>
 
                             <a href="../applynow" class="btn rounded-pill px-4 py-2 font-weight-bold"
@@ -1326,20 +1287,17 @@ Online BA humanities program,Bachelor of Arts for career in civil services">
                         <div class="card-body col-12 px-4 py-3 text-center"
                             style="height:330px;border: 1px solid rgb(240, 178, 178); border-top: none;">
                             <h5 class="card-title mb-2">
-                                <a href="../mba-operations_management" class="text-dark font-weight-bold"
-                                    style="font-size: 24px; text-decoration: none;">
-                                    MBA - Operations Management</a>
-                            </h5>
+                                    <a href="../mba-operations-management" class="text-dark font-weight-bold"
+                                        style="font-size: 24px; text-decoration: none;">
+                                        MBA - Operations Management</a>
+                                </h5>
 
-                            <!-- Additional Benefits -->
-                            <p class="fables-fifth-text-color font-14 mx-3 mb-3"
-                                style="line-height: 1.5; text-align:center;">
-                                - Master key operations strategies 🔑<br>
-                                - Learn supply chain management 🚚
-                            </p>
-
+                                <ul class="list-unstyled my-3" style="font-size: 14px; color: #555;">
+                                    <li><i class="fa-solid fa-arrow-right"></i> Learn to optimize business processes and efficiency</li>
+                                    <li><i class="fa-solid fa-arrow-right"></i> Gain expertise in managing operations and logistics</li>
+                                </ul>
                             <div class="mb-3" style="font-size: 18px; font-weight: bold; color: #7f1813;">
-                                ₹ 1,50,000 | 2 Years 💰
+                                ₹ 1,50,000 | 2 Years 
                             </div>
 
                             <a href="../applynow" class="btn rounded-pill px-4 py-2 font-weight-bold"
@@ -1362,21 +1320,17 @@ Online BA humanities program,Bachelor of Arts for career in civil services">
                         <div class="card-body col-12 px-4 py-3 text-center"
                             style="height:330px;border: 1px solid rgb(240, 178, 178); border-top: none;">
                             <h5 class="card-title mb-2">
-                                <a href="../mca-computer_application" class="text-dark font-weight-bold"
-                                    style="font-size: 24px; text-decoration: none;">
-                                    MCA - Computer Applications</a>
-                            </h5>
+                                        <a href="../mca-computer-application" class="text-dark font-weight-bold"
+                                            style="font-size: 24px; text-decoration: none;">
+                                            MCA - Computer Applications</a>
+                                    </h5>
 
-
-                            <!-- Additional Benefits -->
-                            <p class="fables-fifth-text-color font-14 mx-3 mb-3"
-                                style="line-height: 1.5; text-align:center;">
-                                - Master programming languages 💻<br>
-                                - Develop real-world software applications 🛠️🎓
-                            </p>
-
+                                    <ul class="list-unstyled my-3" style="font-size: 14px; color: #555;">
+                                        <li><i class="fa-solid fa-arrow-right"></i> Learn modern programming languages and frameworks</li>
+                                        <li><i class="fa-solid fa-arrow-right"></i> Build and deploy software solutions for real-world challenges</li>
+                                    </ul>
                             <div class="mb-3" style="font-size: 18px; font-weight: bold; color: #7f1813;">
-                                ₹ 1,50,000 | 2 Years 💰
+                                ₹ 1,50,000 | 2 Years 
                             </div>
 
                             <a href="../applynow" class="btn rounded-pill px-4 py-2 font-weight-bold"
@@ -1400,18 +1354,15 @@ Online BA humanities program,Bachelor of Arts for career in civil services">
                         <div class="card-body col-12 px-4 py-3 text-center"
                             style="height:330px;border: 1px solid rgb(240, 178, 178); border-top: none;">
                             <h5 class="card-title mb-2">
-                                <a href="../msc-mathematics" class="text-dark font-weight-bold"
-                                    style="font-size: 24px; text-decoration: none;">
-                                    MSC - Mathematics</a>
-                            </h5>
+                                    <a href="../msc-mathematics" class="text-dark font-weight-bold"
+                                        style="font-size: 24px; text-decoration: none;">
+                                        MSc - Mathematics</a>
+                                </h5>
 
-                            <!-- Additional Benefits -->
-                            <p class="fables-fifth-text-color font-14 mx-3 mb-3"
-                                style="line-height: 1.5; text-align:center;">
-                                - Master advanced mathematical theories 📚<br>
-                                - Gain expertise in statistical analysis 📉
-                            </p>
-
+                                <ul class="list-unstyled my-3" style="font-size: 14px; color: #555;">
+                                    <li><i class="fa-solid fa-arrow-right"></i> Learn advanced mathematical concepts and techniques</li>
+                                    <li><i class="fa-solid fa-arrow-right"></i> Specialize in areas like algebra, calculus, and data analysis</li>
+                                </ul>
                             <div class="mb-3" style="font-size: 18px; font-weight: bold; color: #7f1813;">
                                 ₹ 72,000 | 2 Years
                             </div>
@@ -1457,15 +1408,15 @@ Online BA humanities program,Bachelor of Arts for career in civil services">
                     <h2 class="font-20 semi-font fables-second-border-color border-bottom pb-3 mb-3">Quick Links</h2>
                     <ul class="nav fables-footer-links">
                         <li><a href="../ba">BA</a></li>
-                        <li><a href="../bba-digital_marketing">BBA - Digital Marketing</a></li>
-                        <li><a href="../bba-retail_management">BBA - Retail Management</a></li>
+                        <li><a href="../bba-digital-marketing">BBA - Digital Marketing</a></li>
+                        <li><a href="../bba-retail-management">BBA - Retail Management</a></li>
                         <li><a href="../bba-fintech">BBA - Fintech</a></li>
                         <li><a href="../bca-ux">BCA - UX</a></li>
-                        <li><a href="../bca-data_science">BCA - Data Science</a></li>
-                        <li><a href="../bca-blockchain_technology">BCA - Blockchain Technology</a></li>
-                        <li><a href="../bca-ctis__cloud_technology_&_information_security">BCA - Cloud Technology &
+                        <li><a href="../bca-data-science">BCA - Data Science</a></li>
+                        <li><a href="../bca-blockchain-technology">BCA - Blockchain Technology</a></li>
+                        <li><a href="../bca-ctis-cloud-technology-&-information-security">BCA - Cloud Technology &
                                 Information Security</a></li>
-                        <li><a href="../bca-artificial_intelligence">BCA - Artificial Intelligence</a></li>
+                        <li><a href="../bca-artificial-intelligence">BCA - Artificial Intelligence</a></li>
                     </ul>
                 </div>
                 <div class="col-12 col-sm-6 col-lg-3 mt-5">
@@ -1475,11 +1426,11 @@ Online BA humanities program,Bachelor of Arts for career in civil services">
                         <li><a href="../mba-marketing">MBA - Marketing</a></li>
                         <li><a href="../mba-finance">MBA - Finance</a></li>
                         <li><a href="../mba-healthcare">MBA - Healthcare</a></li>
-                        <li><a href="../mba-agri_business">MBA - Agri Business</a></li>
-                        <li><a href="../mba-information_technology">MBA - Information Technology</a></li>
-                        <li><a href="../mba-international_business">MBA - International Business</a></li>
-                        <li><a href="../mba-operations_management">MBA - Operations Management</a></li>
-                        <li><a href="../mca-computer_application">MCA</a></li>
+                        <li><a href="../mba-agri-business">MBA - Agri Business</a></li>
+                        <li><a href="../mba-information-technology">MBA - Information Technology</a></li>
+                        <li><a href="../mba-international-business">MBA - International Business</a></li>
+                        <li><a href="../mba-operations-management">MBA - Operations Management</a></li>
+                        <li><a href="../mca-computer-application">MCA</a></li>
                         <li><a href="../msc-mathematics">M.Sc - Maths</a></li>
                     </ul>
                 </div>
@@ -1497,7 +1448,7 @@ Online BA humanities program,Bachelor of Arts for career in civil services">
             <li><a href="#" target="_blank"><i class="fab fa-twitter-square"></i></a></li>
             <li><a href="#" target="_blank"><i class="fab fa-linkedin"></i></a></li>
         </ul>
-        <p class="mb-0">iop.onlinevgu.com All rights reserved.</p>
+        <p class="mb-0">© 2025 iop.onlinevgu.com  All Rights Reserved.</p>
 
     </div>
     <script src="../assets/vendor/jquery/jquery-3.3.1.min.js"></script>

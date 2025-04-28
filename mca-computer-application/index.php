@@ -9,15 +9,16 @@
       <meta name="robots" content="index, follow">
 
      <link rel="icon" type="image/png" href="https://iop.onlinevgu.com/assets/custom/images/logo.png" >
-    <title>Online the Bachelor Business Management Course for Future Leaders</title>
-    <meta name="title" content="Online the Bachelor Business Management Course for Future Leaders" />
+
+    <title>MCA in VGU - Advanced Masters in Computer Application Programs</title>
+    <meta name="title" content="MCA in VGU - Advanced Masters in Computer Application Programs" />
     <meta name="description"
-        content="Build your leadership journey with VGU Online BBA. Gain business fundamentals, strategic thinking, and the confidence to thrive in Today�s competitive market">
-    <meta name="keywords" content="Online BBA in Fintech,Bachelors degree in fintech,BBA with fintech specialization,
-Fintech management course online,Learn fintech with BBA,Top fintech BBA programs in India">
-    <meta property="og:title" content="Online the Bachelor Business Management Course for Future Leaders">
+        content="Master the online landscape with skill. Explore VGU's Online MCA Course and gain valuable knowledge in computer applications for a prepared for tomorrow life path.">
+    <meta name="keywords" content="Online MCA course,Master of Computer Applications online,MCA in software development,
+Top 10 online MCA VGU college,Best online MCA programs">
+    <meta property="og:title" content="MCA in VGU - Advanced Masters in Computer Application Programs">
     <meta property="og:description"
-        content="Build your leadership journey with VGU Online BBA. Gain business fundamentals, strategic thinking, and the confidence to thrive in Today�s competitive market">
+        content="Master the online landscape with skill. Explore VGU's Online MCA Course and gain valuable knowledge in computer applications for a prepared for tomorrow life path.">
 
         <meta property="og:site_name" content="  online vgu" />
 
@@ -119,12 +120,25 @@ Fintech management course online,Learn fintech with BBA,Top fintech BBA programs
             animation: pulse 1.2s infinite;
             cursor: pointer;
         }
+              .pulse-button {
+            background-color: #7f1813;
+            color: #fff;
+            border: none;
+            border-radius: 5px;
+            animation: pulse 1.2s infinite;
+            cursor: pointer;
+        }
+        
+        
         .headernav ul li a {
             color: #7f1813 !important;
             font-weight: bold !important;
             font-family: Roboto Slab;
             font-size: 17px !important;
         }
+
+     
+
 
         .applynowform label {
             color: #7f1813;
@@ -413,14 +427,13 @@ Fintech management course online,Learn fintech with BBA,Top fintech BBA programs
       <div class="courselanding">
       <div class="row" style="margin-bottom:130px; margin: 20px;">
         <div class="col-lg-6 leftsection">
-            <h2 class="pb-3" style="font-family: Spectral; font-size: 40px;"><span style="font-size: 60px; color: #7f1813; font-weight: bold;">Online</span>   BBA-Fintech
-            </h2>
+            <h2 class="pb-3" style="font-family: Spectral; font-size: 40px;"><span style="font-size: 60px; color: #7f1813; font-weight: bold;">Online</span>  
+                MCA-Computer Application</h2>
             <h3 class="pb-4" style="font-family: Vollkorn;">Vivekananda Global University</h3>
-            <p style="line-height: 2;">Vivekananda Global University (VGU) offers a comprehensive Online Bachelor of
-                Business Administration (BBA) in FinTech program, designed to provide students with a strong foundation
-                in business administration while specializing in the emerging field of financial technology. This
-                program is ideal for individuals seeking flexibility in their education while pursuing a degree from a
-                UGC-recognized institution.​</p>
+            <p style="line-height: 2;">Vivekananda Global University (VGU) offers a comprehensive Online Master of
+                Computer Applications (MCA) program, designed to provide students with advanced knowledge and skills in
+                computer science and technology. This program is ideal for individuals seeking flexibility in their
+                postgraduate education while earning a degree from a UGC-recognized institution.</p>
             <h4 class="mt-5" style="font-family: Vollkorn;">Online VGU Approved By ✅</h4>
             <div class="pt-4 approvedimg">
                 <img src="../assets/custom/images/aicte.jpeg" alt="aicte" height="90px" width="90px" class="aicte">
@@ -506,8 +519,8 @@ Fintech management course online,Learn fintech with BBA,Top fintech BBA programs
     <div class="row justify-content-center text-center">
         <div class="col-lg-8">
                     <h2 class="font-weight-bold pb-3" style="color:#7f1813;"> Program Details</h2>
-                    <p class="mb-4" style="color: #ffff;">Explore the key highlights of the Online BBA-Fintech program
-                        at VGU</p>
+                    <p class="mb-4" style="color: #ffff;">Explore the key highlights of the Online MCA-Computer
+                        Application program at VGU</p>
                 </div>
             </div>
 
@@ -524,7 +537,7 @@ Fintech management course online,Learn fintech with BBA,Top fintech BBA programs
                     <div
                         style="box-shadow: 0 3px 10px rgba(0,0,0,0.1); padding: 20px; border-radius: 8px;background-color: #ffff;">
                         <h4 class="font-weight-bold" style="color:#7f1813;">💰 Program Fee</h4>
-                        <p class="mb-0">132000</p>
+                        <p class="mb-0">1,50,000</p>
                     </div>
                 </div>
 
@@ -532,7 +545,7 @@ Fintech management course online,Learn fintech with BBA,Top fintech BBA programs
                     <div
                         style="box-shadow: 0 3px 10px rgba(0,0,0,0.1); padding: 20px; border-radius: 8px;background-color: #ffff;">
                         <h4 class="font-weight-bold" style="color:#7f1813;">📜 Eligibility</h4>
-                        <p class="mb-0">10th & +12th</p>
+                        <p class="mb-0">50% Aggregate in Graduation</p>
                     </div>
                 </div>
             </div>
@@ -649,7 +662,6 @@ Fintech management course online,Learn fintech with BBA,Top fintech BBA programs
             </div>
         </div>
     </div>
-
 
     <div class="fables-index-products large-mb fables-after-overlay py-4 py-md-5 mt-md-5 bg-rules"
         style="background-image: url(assets/custom/images/index-products-overlay.jpg);">

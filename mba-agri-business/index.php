@@ -9,15 +9,17 @@
       <meta name="robots" content="index, follow">
 
      <link rel="icon" type="image/png" href="https://iop.onlinevgu.com/assets/custom/images/logo.png" >
-    <title>Online the Bachelor Business Management Course for Future Leaders</title>
-    <meta name="title" content="Online the Bachelor Business Management Course for Future Leaders" />
+    <title>Online MBA in agribusiness administration Vivekananda University</title>
+    <meta name="title" content="Online MBA in agribusiness administration Vivekananda University" />
     <meta name="description"
-        content="Build your leadership journey with VGU Online BBA. Gain business fundamentals, strategic thinking, and the confidence to thrive in Today�s competitive market">
-    <meta name="keywords" content="Online BBA in Fintech,Bachelors degree in fintech,BBA with fintech specialization,
-Fintech management course online,Learn fintech with BBA,Top fintech BBA programs in India">
-    <meta property="og:title" content="Online the Bachelor Business Management Course for Future Leaders">
+        content="VGU Online MBA help you achieve success in agriculture. Develop strategic ideas, sustainable methods, & abilities to lead for successful agribusiness profession.">
+    <meta name="keywords" content="Online MBA in Agribusiness Management,VGU Online MBA Agri Business,
+Agriculture Business MBA Online,Vivekananda Global University MBA Agribusiness,Distance MBA in Agri Business,Online MBA in Food & Agri Business,
+Agri Business Management Degree Online,VGU Agri Business MBA Admission,Online MBA in Rural and Agri Management,
+Agricultural Marketing MBA Online">
+    <meta property="og:title" content="Online MBA in agribusiness administration Vivekananda University">
     <meta property="og:description"
-        content="Build your leadership journey with VGU Online BBA. Gain business fundamentals, strategic thinking, and the confidence to thrive in Today�s competitive market">
+        content="VGU Online MBA help you achieve success in agriculture. Develop strategic ideas, sustainable methods, & abilities to lead for successful agribusiness profession.">
 
         <meta property="og:site_name" content="  online vgu" />
 
@@ -61,7 +63,7 @@ Fintech management course online,Learn fintech with BBA,Top fintech BBA programs
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400..900&family=Spectral:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,200;1,300;1,400;1,500;1,600;1,700;1,800&family=Vollkorn:ital,wght@0,400..900;1,400..900&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/intl-tel-input/17.0.8/css/intlTelInput.min.css">
-<script src="https://cdnjs.cloudflare.com/ajax/libs/intl-tel-input/17.0.8/js/intlTelInput.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/intl-tel-input/17.0.8/js/intlTelInput.min.js"></script>  
 
  <!--Start of Tawk.to Script-->
     <script type="text/javascript">
@@ -125,7 +127,6 @@ Fintech management course online,Learn fintech with BBA,Top fintech BBA programs
             font-family: Roboto Slab;
             font-size: 17px !important;
         }
-
         .applynowform label {
             color: #7f1813;
             font-weight: bold;
@@ -413,14 +414,14 @@ Fintech management course online,Learn fintech with BBA,Top fintech BBA programs
       <div class="courselanding">
       <div class="row" style="margin-bottom:130px; margin: 20px;">
         <div class="col-lg-6 leftsection">
-            <h2 class="pb-3" style="font-family: Spectral; font-size: 40px;"><span style="font-size: 60px; color: #7f1813; font-weight: bold;">Online</span>   BBA-Fintech
-            </h2>
+            <h2 class="pb-3" style="font-family: Spectral; font-size: 40px;"><span style="font-size: 60px; color: #7f1813; font-weight: bold;">Online</span>   MBA-Agri
+                Business</h2>
             <h3 class="pb-4" style="font-family: Vollkorn;">Vivekananda Global University</h3>
-            <p style="line-height: 2;">Vivekananda Global University (VGU) offers a comprehensive Online Bachelor of
-                Business Administration (BBA) in FinTech program, designed to provide students with a strong foundation
-                in business administration while specializing in the emerging field of financial technology. This
-                program is ideal for individuals seeking flexibility in their education while pursuing a degree from a
-                UGC-recognized institution.​</p>
+            <p style="line-height: 2;">Vivekananda Global University (VGU) offers a comprehensive Online Master of
+                Business Administration (MBA) in Agri-Business program, designed to equip students with advanced
+                management skills and in-depth knowledge of the agricultural sector. This program is ideal for
+                individuals seeking flexibility in their postgraduate education while earning a degree from a
+                UGC-recognized institution.</p>
             <h4 class="mt-5" style="font-family: Vollkorn;">Online VGU Approved By ✅</h4>
             <div class="pt-4 approvedimg">
                 <img src="../assets/custom/images/aicte.jpeg" alt="aicte" height="90px" width="90px" class="aicte">
@@ -506,8 +507,8 @@ Fintech management course online,Learn fintech with BBA,Top fintech BBA programs
     <div class="row justify-content-center text-center">
         <div class="col-lg-8">
                     <h2 class="font-weight-bold pb-3" style="color:#7f1813;"> Program Details</h2>
-                    <p class="mb-4" style="color: #ffff;">Explore the key highlights of the Online BBA-Fintech program
-                        at VGU</p>
+                    <p class="mb-4" style="color: #ffff;">Explore the key highlights of the Online MBA-Agri Business
+                        program at VGU</p>
                 </div>
             </div>
 
@@ -516,7 +517,7 @@ Fintech management course online,Learn fintech with BBA,Top fintech BBA programs
                     <div
                         style="box-shadow: 0 3px 10px rgba(0,0,0,0.1); padding: 20px; border-radius: 8px;background-color: #ffff;">
                         <h4 class="font-weight-bold" style="color:#7f1813;">🕒 Duration</h4>
-                        <p class="mb-0">3 Years (6 Semesters)</p>
+                        <p class="mb-0">2 Years (4 Semesters)</p>
                     </div>
                 </div>
 
@@ -524,7 +525,7 @@ Fintech management course online,Learn fintech with BBA,Top fintech BBA programs
                     <div
                         style="box-shadow: 0 3px 10px rgba(0,0,0,0.1); padding: 20px; border-radius: 8px;background-color: #ffff;">
                         <h4 class="font-weight-bold" style="color:#7f1813;">💰 Program Fee</h4>
-                        <p class="mb-0">132000</p>
+                        <p class="mb-0">1,50,000</p>
                     </div>
                 </div>
 
@@ -532,7 +533,7 @@ Fintech management course online,Learn fintech with BBA,Top fintech BBA programs
                     <div
                         style="box-shadow: 0 3px 10px rgba(0,0,0,0.1); padding: 20px; border-radius: 8px;background-color: #ffff;">
                         <h4 class="font-weight-bold" style="color:#7f1813;">📜 Eligibility</h4>
-                        <p class="mb-0">10th & +12th</p>
+                        <p class="mb-0">50% Aggregate in Graduation</p>
                     </div>
                 </div>
             </div>
@@ -649,7 +650,6 @@ Fintech management course online,Learn fintech with BBA,Top fintech BBA programs
             </div>
         </div>
     </div>
-
 
     <div class="fables-index-products large-mb fables-after-overlay py-4 py-md-5 mt-md-5 bg-rules"
         style="background-image: url(assets/custom/images/index-products-overlay.jpg);">
@@ -1351,7 +1351,6 @@ Fintech management course online,Learn fintech with BBA,Top fintech BBA programs
             </div>
         </div>
     </div>
-
     <!-- /End page content -->
 
     <!-- Start Footer 2 Background Image  -->
