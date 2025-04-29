@@ -7,7 +7,8 @@
       <!-- Favicon -->
         <meta name="robots" content="index, follow">
 
-     <link rel="icon" type="image/png" href="https://iop.onlinevgu.com/assets/custom/images/logo.png" >
+      <link rel="icon" type="image/png" href="https://iop.onlinevgu.com/assets/custom/images/logo.png" >
+     <link rel="canonical" href="https://iop.onlinevgu.com/explore/" />
  
       <title>Online Degree Courses at VGU – NAAC A+ Accredited University</title>
     <meta name="title" content="Online Degree Courses at VGU – NAAC A+ Accredited University" />
@@ -803,24 +804,36 @@
 <!-- /End page content -->
     
 <!-- Start Footer 2 Background Image  -->
- <div class="fables-footer-image fables-after-overlay white-color py-4 py-lg-5 bg-rules footerlanding"
-        >
-    <div class="container">
-        <div class="row">
-            <div class="col-12 col-lg-3 mb-4 mb-lg-0">
-                <a href="#" class="fables-second-border-color border-bottom pb-3 d-block mb-3 mt-minus-13"><img src="https://iop.onlinevgu.com/assets/custom/images/vgulogo.jpeg" alt="online vgu" width="100px" height="100px"></a>
-                                <p class="font-15 fables-third-text-color">
-                    Online VGU offers a dynamic learning experience designed for Today’s learners. With flexible schedules, expert faculty, and industry-aligned courses, students can pursue their degrees without compromising on quality or convenience.
-                    <br><br>
-                    Whether you're working full-time or seeking a career change, Online VGU empowers you to learn at your own pace—anytime, anywhere.
-                </p>
+  <div class="fables-footer-image fables-after-overlay white-color py-4 py-lg-5 bg-rules footerlanding">
+        <div class="container">
+            <div class="row">
+                <div class="col-12 col-lg-3 mb-4 mb-lg-0">
+                    <a href="#" class="fables-second-border-color border-bottom pb-3 d-block mb-3 mt-minus-13"><img
+                            src="https://iop.onlinevgu.com/assets/custom/images/vgulogo.jpeg" alt="online vgu"
+                            width="100px" height="100px"></a>
+                    <p class="font-15 fables-third-text-color">
+                        Online VGU offers a dynamic learning experience designed for Today’s learners. With flexible
+                        schedules, expert faculty, and industry-aligned courses, students can pursue their degrees
+                        without compromising on quality or convenience.
+                        <br><br>
+                        Whether you're working full-time or seeking a career change, Online VGU empowers you to learn at
+                        your own pace—anytime, anywhere.
+                    </p>
 
-                
-            </div>
-             
-            
-           <div class="col-12 col-sm-6 col-lg-3">
+
+                </div>
+
+
+                <div class="col-12 col-sm-4 col-lg-3">
                     <h2 class="font-20 semi-font fables-second-border-color border-bottom pb-3 mb-3">Quick Links</h2>
+                    <ul class="nav fables-footer-links">
+                        <li><a href="../">Home</a></li>
+                        <li><a href="../about">About us</a></li>
+                        <li><a href="../privacy-policy">Privacy policy</a></li>
+                        <li><a href="../contact">Contact us</a></li>
+                    </ul>
+                </div>
+                <div class="col-12 col-sm-4 col-lg-3 mt-5">
                     <ul class="nav fables-footer-links">
                         <li><a href="../ba">BA</a></li>
                         <li><a href="../bba-digital-marketing">BBA - Digital Marketing</a></li>
@@ -829,12 +842,14 @@
                         <li><a href="../bca-ux">BCA - UX</a></li>
                         <li><a href="../bca-data-science">BCA - Data Science</a></li>
                         <li><a href="../bca-blockchain-technology">BCA - Blockchain Technology</a></li>
-                        <li><a href="../bca-ctis-cloud-technology-&-information-security">BCA - Cloud Technology & Information Security</a></li>
+                        <li><a href="../bca-ctis-cloud-technology-&-information-security">BCA - Cloud Technology &
+                                Information Security</a></li>
                         <li><a href="../bca-artificial-intelligence">BCA - Artificial Intelligence</a></li>
                     </ul>
                 </div>
-                <div class="col-12 col-sm-6 col-lg-3 mt-5">
-                    <ul class="nav fables-footer-links">
+
+                <div class="col-12 col-sm-4 col-lg-3 mt-5">
+                <ul class="nav fables-footer-links">
                         <li><a href="../ma">MA</a></li>
                         <li><a href="../mba-hrm">MBA - Human Resource</a></li>
                         <li><a href="../mba-marketing">MBA - Marketing</a></li>
@@ -848,11 +863,11 @@
                         <li><a href="../msc-mathematics">M.Sc - Maths</a></li>
                     </ul>
                 </div>
-                      
-        </div> 
-        
+
+            </div>
+
         </div>
-</div>
+    </div>
 <div class="copyright fables-main-background-color mt-0 border-0 white-color">
         <ul class="nav fables-footer-social-links just-center fables-light-footer-links">
               <li><a href="https://www.facebook.com/people/Vivekananda-Global-University/61575223902228/" target="_blank"><i class="fab fa-facebook"></i></a></li>

@@ -8,7 +8,8 @@
     <!-- Favicon -->
       <meta name="robots" content="index, follow">
 
-     <link rel="icon" type="image/png" href="https://iop.onlinevgu.com/assets/custom/images/logo.png" >
+      <link rel="icon" type="image/png" href="https://iop.onlinevgu.com/assets/custom/images/logo.png" >
+     <link rel="canonical" href="https://iop.onlinevgu.com/bca-artificial-intelligence/" />
     <title>Online BCA Degree : Build Tech Skills & Fit for the future </title>
     <meta name="title" content="Online BCA Degree : Build Tech Skills & Fit for the future" />
     <meta name="description"
@@ -528,7 +529,7 @@ Bachelor's in AI and computer applications,BCA AI and data intelligence program,
                 <div class="col-md-4 mb-4">
                     <div
                         style="box-shadow: 0 3px 10px rgba(0,0,0,0.1); padding: 20px; border-radius: 8px;background-color: #ffff;">
-                        <h4 class="font-weight-bold" style="color:#7f1813;">💰 Program Fee</h4>
+                        <h4 class="font-weight-bold" style="color:#7f1813;">₹  Program Fee</h4>
                         <p class="mb-0">132000</p>
                     </div>
                 </div>
@@ -1422,14 +1423,13 @@ Bachelor's in AI and computer applications,BCA AI and data intelligence program,
     <!-- /End page content -->
 
     <!-- Start Footer 2 Background Image  -->
-    <div class="fables-footer-image fables-after-overlay white-color py-4 py-lg-5 bg-rules footerlanding"
-        >
+   <div class="fables-footer-image fables-after-overlay white-color py-4 py-lg-5 bg-rules footerlanding">
         <div class="container">
             <div class="row">
                 <div class="col-12 col-lg-3 mb-4 mb-lg-0">
                     <a href="#" class="fables-second-border-color border-bottom pb-3 d-block mb-3 mt-minus-13"><img
-                            src="https://iop.onlinevgu.com/assets/custom/images/vgulogo.jpeg" alt="online vgu" width="100px"
-                            height="100px"></a>
+                            src="https://iop.onlinevgu.com/assets/custom/images/vgulogo.jpeg" alt="online vgu"
+                            width="100px" height="100px"></a>
                     <p class="font-15 fables-third-text-color">
                         Online VGU offers a dynamic learning experience designed for Today’s learners. With flexible
                         schedules, expert faculty, and industry-aligned courses, students can pursue their degrees
@@ -1442,9 +1442,17 @@ Bachelor's in AI and computer applications,BCA AI and data intelligence program,
 
                 </div>
 
-               
- <div class="col-12 col-sm-6 col-lg-3">
+
+                <div class="col-12 col-sm-4 col-lg-3">
                     <h2 class="font-20 semi-font fables-second-border-color border-bottom pb-3 mb-3">Quick Links</h2>
+                    <ul class="nav fables-footer-links">
+                        <li><a href="../">Home</a></li>
+                        <li><a href="../about">About us</a></li>
+                        <li><a href="../privacy-policy">Privacy policy</a></li>
+                        <li><a href="../contact">Contact us</a></li>
+                    </ul>
+                </div>
+                <div class="col-12 col-sm-4 col-lg-3 mt-5">
                     <ul class="nav fables-footer-links">
                         <li><a href="../ba">BA</a></li>
                         <li><a href="../bba-digital-marketing">BBA - Digital Marketing</a></li>
@@ -1453,12 +1461,14 @@ Bachelor's in AI and computer applications,BCA AI and data intelligence program,
                         <li><a href="../bca-ux">BCA - UX</a></li>
                         <li><a href="../bca-data-science">BCA - Data Science</a></li>
                         <li><a href="../bca-blockchain-technology">BCA - Blockchain Technology</a></li>
-                        <li><a href="../bca-ctis-cloud-technology-&-information-security">BCA - Cloud Technology & Information Security</a></li>
+                        <li><a href="../bca-ctis-cloud-technology-&-information-security">BCA - Cloud Technology &
+                                Information Security</a></li>
                         <li><a href="../bca-artificial-intelligence">BCA - Artificial Intelligence</a></li>
                     </ul>
                 </div>
-                <div class="col-12 col-sm-6 col-lg-3 mt-5">
-                    <ul class="nav fables-footer-links">
+
+                <div class="col-12 col-sm-4 col-lg-3 mt-5">
+                <ul class="nav fables-footer-links">
                         <li><a href="../ma">MA</a></li>
                         <li><a href="../mba-hrm">MBA - Human Resource</a></li>
                         <li><a href="../mba-marketing">MBA - Marketing</a></li>
