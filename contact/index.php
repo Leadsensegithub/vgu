@@ -65,6 +65,7 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/intl-tel-input/17.0.8/css/intlTelInput.min.css">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/intl-tel-input/17.0.8/js/intlTelInput.min.js"></script>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
      
  <!--Start of Tawk.to Script-->
     <script type="text/javascript">
@@ -213,7 +214,9 @@
             font-size: 17px !important;
         }
 
-     
+        .loading-screen{
+    display: none;
+}
 
 @media only screen and (max-width: 900px){
   .contactpage{
@@ -471,6 +474,7 @@
   </div>
 
   <div class="formlanding form-section">
+  <div id="ju-loading-screen" class="loading-screen">Loading...</div>
   <div>
     <h2 class="fables-main-text-color font-35 font-weight-bold text-center">
     🎓  Contact<span class="fables-second-text-color"> us</span>

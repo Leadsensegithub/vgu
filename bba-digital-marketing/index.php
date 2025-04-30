@@ -68,7 +68,8 @@ Study digital marketing with BBA,Best online BBA for digital marketing,Bachelor'
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/intl-tel-input/17.0.8/css/intlTelInput.min.css">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/intl-tel-input/17.0.8/js/intlTelInput.min.js"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
- <!--Start of Tawk.to Script-->
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <!--Start of Tawk.to Script-->
     <script type="text/javascript">
         var Tawk_API = Tawk_API || {}, Tawk_LoadStart = new Date();
         (function () {
@@ -145,7 +146,9 @@ Study digital marketing with BBA,Best online BBA for digital marketing,Bachelor'
             color: #7f1813;
             font-weight: bold;
         }
-
+        .loading-screen{
+    display: none;
+}
         @media only screen and (max-width: 900px) {    .coursefees{
                 text-align: center;
             }
@@ -467,6 +470,7 @@ Study digital marketing with BBA,Best online BBA for digital marketing,Bachelor'
                 </div>
             </div>
             <div class="col-lg-6 formlanding rightsection">
+            <div id="ju-loading-screen" class="loading-screen">Loading...</div>
                 <div class="">
                     <h2 class="fables-main-text-color font-35 font-weight-bold text-center">
                         🎓 Apply <span class="fables-second-text-color">Now</span>

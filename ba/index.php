@@ -68,6 +68,7 @@ Online BA humanities program,Bachelor of Arts for career in civil services">
         rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/intl-tel-input/17.0.8/css/intlTelInput.min.css">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/intl-tel-input/17.0.8/js/intlTelInput.min.js"></script>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
  <!--Start of Tawk.to Script-->
     <script type="text/javascript">
         var Tawk_API = Tawk_API || {}, Tawk_LoadStart = new Date();
@@ -147,6 +148,9 @@ Online BA humanities program,Bachelor of Arts for career in civil services">
             color: #7f1813;
             font-weight: bold;
         }
+        .loading-screen{
+    display: none;
+}
 
       
         @media only screen and (max-width: 900px) {    .coursefees{
@@ -458,6 +462,7 @@ Online BA humanities program,Bachelor of Arts for career in civil services">
                 </div>
             </div>
             <div class="col-lg-6 formlanding rightsection">
+            <div id="ju-loading-screen" class="loading-screen">Loading...</div>
                 <div class="">
                     <h2 class="fables-main-text-color font-35 font-weight-bold text-center">
                         🎓 Apply <span class="fables-second-text-color">Now</span>
